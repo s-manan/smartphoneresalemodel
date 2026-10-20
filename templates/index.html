@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Used Smartphone Resale Estimator</title>
+<style>
+body{font-family:system-ui,Arial,sans-serif;background:#f3f5f9;color:#182230;margin:0}
+main{max-width:760px;margin:36px auto;padding:24px}
+.card{background:white;border-radius:16px;padding:28px;box-shadow:0 8px 30px #15223812}
+h1{margin-top:0}p{line-height:1.5;color:#536171}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+label{display:block;font-weight:600;font-size:14px;margin-bottom:6px}
+input,select{width:100%;box-sizing:border-box;padding:11px;border:1px solid #cbd3dd;border-radius:8px;background:#fff}
+button{margin-top:20px;padding:12px 18px;border:0;border-radius:8px;background:#1d4ed8;color:white;font-weight:700;cursor:pointer}
+.result{margin-top:20px;padding:18px;border-radius:10px;background:#e8f7ed;font-size:24px;font-weight:700}
+.note{font-size:13px;background:#fff7df;border:1px solid #f1d58b;padding:12px;border-radius:8px;margin-top:20px}
+.error{color:#b42318}
+@media(max-width:600px){.grid{grid-template-columns:1fr}main{padding:12px}}
+</style>
+</head>
+<body><main><div class="card">
+<h1>Used Smartphone Resale Estimator</h1>
+<p>Enter the phone's specifications to estimate a resale price in Indian rupees.</p>
+<form method="post">
+<div class="grid">
+<div><label for="brand">Brand</label><select name="brand" id="brand" onchange="updateModels()">
+{% for b in brands %}<option value="{{b}}" {% if selected.brand==b %}selected{% endif %}>{{b}}</option>{% endfor %}
+</select></div>
+<div><label for="model">Model family</label><select name="model" id="model">
+{% for m in models[selected.brand] %}<option value="{{m}}" {% if selected.model==m %}selected{% endif %}>{{m}}</option>{% endfor %}
+</select></div>
+<div><label for="age_years">Age (years)</label><input type="number" min="0" max="10" name="age_years" value="{{selected.age_years}}" required></div>
+<div><label for="condition">Physical condition</label><select name="condition">{% for c in conditions %}<option value="{{c}}" {% if selected.condition==c %}selected{% endif %}>{{c}}</option>{% endfor %}</select></div>
+<div><label for="storage_gb">Storage (GB)</label><select name="storage_gb">{% for v in [64,128,256,512,1024] %}<option value="{{v}}" {% if selected.storage_gb|string==v|string %}selected{% endif %}>{{v}} GB</option>{% endfor %}</select></div>
+<div><label for="ram_gb">RAM (GB)</label><select name="ram_gb">{% for v in [3,4,6,8,12,16,24] %}<option value="{{v}}" {% if selected.ram_gb|string==v|string %}selected{% endif %}>{{v}} GB</option>{% endfor %}</select></div>
+<div><label for="battery_health_pct">Battery health (%)</label><input type="number" min="50" max="100" name="battery_health_pct" value="{{selected.battery_health_pct}}" required></div>
+</div>
+<button type="submit">Estimate resale price</button>
+</form>
+{% if result %}<div class="result">Estimated price: {{result}}</div>{% endif %}
+{% if error %}<p class="error">{{error}}</p>{% endif %}
+<div class="note"><strong>Prototype limitation:</strong> this starter model is trained on synthetic, rule-generated data—not verified marketplace transactions. Its output demonstrates the end-to-end workflow and must not be treated as a real market valuation until retrained and validated on genuine resale listings.</div>
+</div></main>
+<script>
+const models = {{ models|tojson }};
+function updateModels(){
+ const brand=document.getElementById('brand').value, select=document.getElementById('model');
+ select.innerHTML='';
+ models[brand].forEach(m=>{const o=document.createElement('option');o.value=m;o.textContent=m;select.appendChild(o);});
+}
+</script>
+</body></html>

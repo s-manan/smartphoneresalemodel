@@ -1,0 +1,5001 @@
+brand,model,age_years,condition,storage_gb,ram_gb,battery_health_pct,resale_price_inr
+Apple,iPhone SE,2,Good,256,8,85,23212
+Oppo,A Series,1,Fair,64,16,78,15871
+Motorola,Edge 40,3,Good,128,4,84,15447
+Google,Pixel 8,4,Good,512,8,60,21771
+Google,Pixel 8,1,Good,256,6,83,41684
+Oppo,Reno 11,5,Fair,64,8,69,1500
+Apple,iPhone 13,4,Poor,256,8,77,12476
+Motorola,Edge 50,1,Fair,256,6,76,18627
+Samsung,Galaxy S23,6,Good,512,12,55,13795
+Apple,iPhone 12,0,Good,256,4,89,81589
+Xiaomi,Xiaomi 13,4,Good,64,12,77,11742
+Vivo,Y Series,3,Good,128,6,85,14895
+Motorola,Edge 40,4,Like New,128,8,70,5915
+Oppo,Reno 11,5,Fair,256,6,75,15735
+Motorola,Edge 40,4,Fair,256,8,77,1500
+Oppo,Reno 11,4,Good,256,6,83,6972
+Xiaomi,Redmi Note,5,Fair,256,8,69,4650
+Samsung,Galaxy S22,4,Fair,128,3,59,14057
+Oppo,Reno 11,5,Good,64,8,68,5243
+Google,Pixel 8,2,Like New,128,12,81,30462
+Xiaomi,Xiaomi 13,1,Like New,128,8,88,28410
+OnePlus,OnePlus 10,1,Good,256,8,72,27642
+Samsung,Galaxy S23,4,Good,512,8,70,15689
+Vivo,V Series,3,Like New,128,8,84,18206
+Oppo,Reno 11,0,Good,256,16,87,33814
+Motorola,Moto G,1,Good,128,8,82,15328
+Google,Pixel 7,6,Fair,256,16,80,8376
+Oppo,A Series,5,Fair,64,16,60,1500
+Xiaomi,Xiaomi 12,5,Good,256,8,79,8404
+Google,Pixel 7,1,Like New,128,8,92,30899
+Google,Pixel 7,0,Like New,128,12,86,48707
+Samsung,Galaxy S24,2,Like New,256,12,80,43105
+Apple,iPhone 12,5,Good,128,6,69,21444
+Xiaomi,Redmi Note,3,Like New,128,6,78,7942
+Vivo,Y Series,5,Good,128,4,64,6947
+Apple,iPhone 12,3,Poor,512,12,73,19136
+Oppo,Reno 11,3,Good,128,12,74,15111
+Oppo,Reno 10,4,Fair,256,6,70,10042
+OnePlus,OnePlus 12,6,Like New,512,8,63,7362
+Motorola,Moto G,3,Good,256,12,59,8862
+Samsung,Galaxy S21,4,Poor,128,16,74,13551
+Oppo,A Series,6,Good,256,6,61,4076
+Motorola,Edge 30,2,Good,64,6,65,7405
+OnePlus,OnePlus 10,5,Poor,256,6,66,6165
+Apple,iPhone 15,3,Good,128,8,74,33415
+Vivo,V Series,6,Good,256,4,75,2273
+Google,Pixel 8,3,Good,512,6,72,22109
+Vivo,V27,4,Like New,128,12,78,11207
+Motorola,Edge 30,2,Like New,64,8,91,14955
+Oppo,Reno 11,4,Like New,128,6,68,16671
+Oppo,Reno 8,2,Fair,256,8,80,16189
+Samsung,Galaxy A,4,Fair,128,4,87,9050
+OnePlus,OnePlus 12,5,Good,256,8,71,18739
+Google,Pixel 8a,3,Good,256,8,80,28051
+Google,Pixel 6a,3,Fair,512,4,73,10473
+Apple,iPhone 15,2,Fair,128,4,86,30223
+Xiaomi,Xiaomi 13,5,Good,64,16,69,3944
+Samsung,Galaxy S24,4,Good,128,16,58,21896
+Motorola,Edge 30,3,Fair,256,3,74,1500
+Motorola,Edge 40,0,Fair,128,8,79,16676
+Vivo,V27,0,Fair,128,4,89,23511
+Motorola,Edge 40,0,Good,128,12,81,11465
+OnePlus,OnePlus 11,5,Like New,256,16,73,13661
+Vivo,V27,5,Good,512,8,69,10613
+Google,Pixel 7a,0,Good,128,8,78,39562
+OnePlus,OnePlus 11,0,Fair,128,8,84,25877
+Vivo,V27,5,Like New,128,6,74,3795
+OnePlus,Nord,3,Good,128,8,86,6745
+Apple,iPhone SE,2,Fair,1024,4,73,24789
+Google,Pixel 8a,4,Poor,128,12,64,10310
+Oppo,Reno 11,1,Good,256,8,100,19140
+Samsung,Galaxy S22,1,Poor,512,6,84,29424
+Google,Pixel 6a,2,Like New,256,8,81,29771
+Samsung,Galaxy S23,6,Good,128,12,59,10087
+Motorola,Moto G,5,Like New,256,8,71,3018
+Google,Pixel 7,1,Poor,128,8,98,22337
+OnePlus,OnePlus 9,3,Fair,128,12,79,17743
+Samsung,Galaxy A,6,Like New,1024,3,74,11076
+Xiaomi,Xiaomi 13,6,Like New,128,8,65,7601
+Motorola,Edge 40,5,Good,128,8,61,7736
+Vivo,V Series,0,Good,128,6,83,26940
+Google,Pixel 7a,1,Fair,128,16,75,33081
+Samsung,Galaxy A,1,Like New,256,8,86,42764
+Oppo,Reno 8,1,Fair,256,6,94,17157
+Motorola,Edge 40,1,Good,256,6,85,14726
+Motorola,Edge 30,2,Good,128,24,78,15212
+Apple,iPhone 15,3,Like New,64,12,70,29938
+OnePlus,OnePlus 9,2,Poor,128,4,83,9328
+Oppo,A Series,2,Good,256,8,70,17669
+Oppo,Reno 10,1,Good,256,4,75,27510
+Google,Pixel 8a,1,Good,256,12,91,43131
+Oppo,Reno 8,6,Fair,512,8,63,1500
+Oppo,A Series,4,Fair,256,4,70,11938
+Google,Pixel 8a,1,Fair,128,8,83,33333
+Vivo,V Series,5,Good,256,16,75,8779
+OnePlus,Nord,5,Fair,256,6,70,8290
+Samsung,Galaxy S23,6,Good,512,4,59,7613
+Motorola,Edge 30,1,Fair,128,16,79,11999
+Motorola,Edge 50,4,Good,256,4,71,10899
+Samsung,Galaxy S21,6,Good,128,8,68,7652
+Oppo,Reno 10,5,Poor,256,8,69,5694
+Samsung,Galaxy S22,1,Poor,512,6,83,26001
+Oppo,A Series,6,Good,512,6,66,1500
+Apple,iPhone 13,2,Good,128,4,80,40092
+Oppo,A Series,3,Fair,128,4,70,8557
+Oppo,Reno 10,3,Poor,256,8,85,8705
+Oppo,Reno 11,5,Fair,256,12,65,7906
+Motorola,Edge 50,0,Like New,512,4,89,25299
+Google,Pixel 7,3,Good,128,12,60,16416
+Motorola,Edge 30,5,Fair,512,8,67,1500
+OnePlus,OnePlus 10,3,Fair,256,3,68,13593
+Oppo,Reno 10,1,Fair,128,8,76,17543
+Xiaomi,Xiaomi 13,0,Fair,128,6,100,21505
+Google,Pixel 6a,3,Good,256,8,79,24714
+Xiaomi,Redmi Note Pro,4,Good,128,6,83,1500
+Xiaomi,Redmi Note Pro,3,Fair,256,8,83,4300
+Apple,iPhone 12,6,Good,256,16,73,17142
+Samsung,Galaxy S22,4,Fair,128,6,71,13926
+Samsung,Galaxy S24,3,Fair,128,16,89,17628
+Apple,iPhone SE,0,Fair,1024,6,95,52737
+Google,Pixel 8a,3,Good,256,4,77,28722
+Motorola,Edge 40,1,Fair,256,6,86,15832
+Motorola,Edge 40,5,Like New,256,12,68,1500
+Google,Pixel 8,1,Like New,256,12,85,47649
+Oppo,A Series,6,Good,512,16,65,5594
+Xiaomi,Xiaomi 12,2,Like New,256,12,83,19619
+Apple,iPhone 12,3,Poor,256,8,91,25713
+Oppo,Reno 10,1,Fair,128,16,75,16526
+Xiaomi,Xiaomi 12,1,Like New,128,16,93,32973
+Motorola,Edge 40,6,Fair,256,12,62,6272
+Xiaomi,Redmi Note Pro,1,Good,128,8,94,14980
+Xiaomi,Redmi Note Pro,3,Fair,256,12,74,10294
+Apple,iPhone 13,6,Fair,512,6,69,16563
+Xiaomi,Redmi Note,4,Good,128,16,72,9158
+Oppo,Reno 10,0,Like New,64,24,74,26593
+OnePlus,Nord,2,Like New,256,8,94,23374
+Xiaomi,Xiaomi 11,2,Good,64,6,73,8493
+Apple,iPhone 14,1,Poor,256,4,85,20731
+OnePlus,Nord,1,Good,256,16,76,31517
+Google,Pixel 8a,3,Good,128,16,66,20718
+Vivo,V Series,2,Like New,256,12,79,16744
+Samsung,Galaxy A,2,Fair,256,16,76,29959
+OnePlus,OnePlus 11,2,Good,128,8,71,19965
+Google,Pixel 7a,2,Fair,128,16,80,27589
+Vivo,V27,1,Fair,128,6,72,13415
+Oppo,Reno 11,3,Good,512,6,78,10338
+Apple,iPhone 13,6,Like New,128,8,64,7908
+Samsung,Galaxy S24,3,Good,128,6,57,26220
+Oppo,Reno 8,4,Good,128,8,69,12648
+Apple,iPhone 13,6,Fair,128,12,69,7589
+Oppo,A Series,4,Fair,128,4,64,1500
+OnePlus,OnePlus 11,1,Good,256,12,88,36802
+Vivo,V Series,2,Good,64,4,84,7926
+OnePlus,OnePlus 11,3,Like New,256,12,68,22141
+Google,Pixel 8a,3,Good,128,6,77,19652
+Motorola,Edge 50,1,Fair,128,12,91,17528
+Samsung,Galaxy S24,0,Fair,128,8,81,51694
+Xiaomi,Redmi Note,2,Fair,256,8,79,10908
+Xiaomi,Redmi Note,6,Like New,512,6,74,3274
+Oppo,Reno 11,5,Good,128,4,62,11086
+Vivo,V Series,5,Good,512,8,73,8672
+Motorola,Moto G,1,Poor,128,6,76,19357
+Google,Pixel 7,2,Good,256,4,79,20174
+Google,Pixel 8a,4,Poor,256,12,76,4822
+Google,Pixel 7,3,Like New,128,6,57,22244
+Oppo,A Series,2,Good,128,6,76,10676
+OnePlus,OnePlus 11,2,Fair,64,6,84,18099
+Samsung,Galaxy A,0,Good,256,8,90,51926
+OnePlus,OnePlus 9,6,Good,128,8,61,6798
+Apple,iPhone SE,6,Good,512,8,56,11232
+Apple,iPhone 14,0,Poor,128,8,93,35137
+Apple,iPhone 13,2,Like New,512,8,78,46792
+Oppo,Reno 11,3,Poor,128,8,81,2025
+Motorola,Edge 30,5,Good,256,6,72,7005
+Motorola,Moto G,6,Good,128,12,62,7878
+Google,Pixel 6a,2,Good,128,6,89,20579
+Motorola,Moto G,5,Good,64,12,64,1500
+Samsung,Galaxy S22,6,Poor,256,8,75,10158
+Vivo,Y Series,5,Fair,128,8,80,1500
+Xiaomi,Xiaomi 11,2,Poor,256,8,89,12260
+Vivo,V30,5,Poor,1024,16,68,5994
+Samsung,Galaxy S23,2,Fair,128,8,100,23166
+Google,Pixel 8,0,Good,64,8,89,51609
+Motorola,Edge 50,5,Fair,128,16,71,8430
+Google,Pixel 8,5,Like New,64,8,69,13051
+Google,Pixel 8,2,Fair,128,8,71,15792
+Samsung,Galaxy S24,3,Good,256,6,87,30743
+Google,Pixel 6a,2,Fair,128,6,76,15996
+Samsung,Galaxy S24,0,Good,128,12,95,61059
+OnePlus,OnePlus 9,6,Good,256,6,74,7448
+Motorola,Edge 40,0,Like New,128,3,93,28829
+Motorola,Edge 50,3,Good,256,3,71,10164
+Xiaomi,Xiaomi 11,0,Good,512,16,85,26101
+OnePlus,Nord,4,Good,128,8,55,16395
+Vivo,V Series,6,Good,256,8,64,7748
+Apple,iPhone 13,4,Good,512,16,79,28190
+OnePlus,OnePlus 12,4,Good,256,8,71,20472
+Apple,iPhone 15,5,Fair,256,12,64,22321
+OnePlus,OnePlus 10,6,Like New,256,12,63,4935
+Vivo,V30,6,Good,256,8,75,1500
+OnePlus,OnePlus 10,1,Like New,256,12,84,36560
+Vivo,V Series,3,Good,256,16,91,12272
+Google,Pixel 8a,5,Good,256,6,64,12680
+Motorola,Edge 40,2,Good,256,3,82,8762
+Google,Pixel 7a,4,Good,128,12,69,16177
+OnePlus,OnePlus 10,0,Good,512,8,100,47007
+Oppo,Reno 10,6,Good,128,8,67,4406
+Vivo,V30,4,Good,128,6,90,5354
+OnePlus,OnePlus 10,5,Good,128,12,66,13229
+Oppo,A Series,5,Fair,128,12,81,4969
+OnePlus,Nord,1,Good,256,16,85,35559
+Motorola,Moto G,3,Fair,128,8,83,1500
+Oppo,Reno 8,6,Good,256,16,55,5651
+Google,Pixel 8,1,Good,256,8,87,40440
+Motorola,Edge 50,5,Good,128,8,60,6051
+OnePlus,OnePlus 9,2,Like New,128,12,82,26403
+Apple,iPhone 14,4,Good,256,8,61,22823
+Apple,iPhone 14,3,Fair,256,8,76,24256
+Google,Pixel 6a,4,Fair,128,6,82,11631
+Vivo,V Series,5,Good,128,8,73,1500
+Samsung,Galaxy S21,2,Good,128,12,71,25255
+Google,Pixel 8a,1,Fair,64,3,69,30038
+Motorola,Edge 50,2,Like New,64,12,84,12509
+Samsung,Galaxy S24,4,Good,1024,6,85,29234
+Motorola,Edge 40,5,Fair,64,6,61,6554
+OnePlus,OnePlus 10,5,Good,128,12,86,12565
+Oppo,Reno 8,2,Like New,512,6,80,20788
+Xiaomi,Xiaomi 12,6,Good,256,16,55,4448
+Xiaomi,Redmi Note,0,Good,128,24,76,18044
+Samsung,Galaxy S21,0,Like New,256,8,94,63091
+Google,Pixel 6a,0,Good,512,8,89,45075
+Oppo,Reno 8,6,Good,64,4,77,8770
+Apple,iPhone 12,1,Good,128,12,75,54017
+Oppo,A Series,4,Good,512,6,74,7135
+Google,Pixel 7,5,Fair,256,16,69,9555
+Motorola,Edge 50,5,Good,1024,24,68,8170
+Motorola,Edge 40,6,Fair,128,4,62,1500
+Google,Pixel 8a,0,Good,512,12,85,63117
+OnePlus,OnePlus 12,2,Like New,128,8,82,28793
+Motorola,Edge 50,3,Good,256,8,79,4722
+Samsung,Galaxy S21,4,Good,512,6,75,14681
+Xiaomi,Xiaomi 13,4,Good,128,12,82,11589
+Apple,iPhone 15,3,Fair,128,6,67,27448
+Motorola,Edge 50,2,Fair,256,16,66,13854
+Motorola,Edge 30,0,Fair,512,8,96,19044
+Apple,iPhone 12,3,Good,64,8,69,30459
+Oppo,Reno 10,1,Good,512,16,81,20964
+Google,Pixel 8a,3,Good,128,12,72,21641
+Oppo,Reno 11,5,Good,128,8,64,1888
+Apple,iPhone 13,3,Fair,128,8,65,20783
+Samsung,Galaxy A,4,Fair,512,8,68,12099
+Google,Pixel 7a,0,Good,128,6,93,46216
+Samsung,Galaxy S23,4,Fair,256,16,73,16619
+OnePlus,OnePlus 10,3,Fair,128,6,81,10842
+Motorola,Edge 30,0,Good,512,8,84,29160
+Samsung,Galaxy S21,1,Fair,256,12,91,32211
+Motorola,Moto G,5,Like New,128,8,65,3835
+Apple,iPhone 12,6,Like New,128,16,55,12511
+Samsung,Galaxy S23,3,Good,128,6,79,23912
+Xiaomi,Redmi Note Pro,6,Good,128,3,71,5432
+Oppo,Reno 11,1,Good,512,8,80,28816
+Samsung,Galaxy A,2,Poor,256,8,90,18974
+OnePlus,OnePlus 10,6,Good,128,16,58,1500
+Vivo,V Series,1,Good,256,8,90,20500
+Vivo,V30,4,Good,128,4,87,15402
+Xiaomi,Xiaomi 13,1,Like New,128,6,84,19052
+Google,Pixel 7a,2,Fair,64,8,79,11464
+OnePlus,OnePlus 11,3,Good,128,8,76,17253
+Xiaomi,Xiaomi 12,2,Poor,256,6,93,12781
+Xiaomi,Xiaomi 11,6,Fair,128,8,68,1500
+OnePlus,Nord,6,Like New,256,16,82,7735
+Apple,iPhone 13,3,Like New,128,8,79,26233
+Samsung,Galaxy S21,3,Like New,256,8,71,26981
+Vivo,V Series,0,Poor,64,6,83,13497
+Google,Pixel 8,1,Fair,128,12,85,28423
+Google,Pixel 7,0,Good,64,6,72,37084
+Google,Pixel 7,5,Good,128,8,65,7846
+Oppo,Reno 11,1,Fair,64,6,81,19855
+Apple,iPhone 12,2,Good,128,4,82,43955
+Apple,iPhone SE,5,Fair,256,6,85,9724
+OnePlus,OnePlus 11,4,Fair,64,6,73,8882
+Google,Pixel 8,4,Good,256,16,57,21549
+Motorola,Edge 50,0,Good,256,6,81,26197
+Google,Pixel 8,3,Good,256,16,79,27799
+Google,Pixel 8a,3,Good,256,8,77,29337
+Vivo,V27,2,Poor,128,6,93,7040
+Samsung,Galaxy S21,5,Fair,256,8,77,16970
+Xiaomi,Xiaomi 13,6,Fair,256,6,73,8896
+Xiaomi,Redmi Note Pro,1,Good,256,12,82,16122
+Google,Pixel 7,2,Good,128,4,89,22839
+Oppo,Reno 11,2,Fair,256,16,73,14906
+OnePlus,OnePlus 12,5,Good,128,4,77,9485
+Vivo,V Series,0,Like New,128,6,86,24956
+OnePlus,OnePlus 11,6,Good,64,4,55,7507
+Xiaomi,Xiaomi 13,5,Good,128,12,74,2708
+Xiaomi,Xiaomi 12,3,Fair,256,8,88,10599
+Oppo,A Series,4,Good,512,16,70,6588
+Google,Pixel 8,6,Fair,64,8,78,2358
+OnePlus,Nord,5,Good,256,4,56,11407
+Apple,iPhone 15,1,Good,256,12,75,60545
+OnePlus,Nord,0,Good,512,8,87,48664
+Oppo,Reno 11,4,Fair,256,12,70,7097
+Apple,iPhone SE,1,Good,64,8,79,28908
+Vivo,V Series,0,Good,128,12,89,23629
+Xiaomi,Redmi Note Pro,6,Good,256,6,61,3666
+Samsung,Galaxy S24,3,Fair,128,24,74,21953
+OnePlus,OnePlus 9,4,Fair,512,6,75,14121
+Xiaomi,Xiaomi 12,1,Good,512,12,79,27289
+OnePlus,Nord,0,Poor,512,6,87,32545
+Apple,iPhone 13,0,Like New,128,12,83,70189
+Motorola,Edge 50,2,Like New,256,16,71,13646
+Motorola,Edge 50,0,Good,256,16,94,25362
+Apple,iPhone 12,2,Fair,64,8,94,34076
+OnePlus,OnePlus 9,2,Good,128,8,89,17781
+Samsung,Galaxy S22,3,Good,128,12,79,24153
+Motorola,Edge 40,4,Good,128,8,68,9887
+Motorola,Edge 40,2,Good,512,8,78,17629
+Motorola,Moto G,3,Good,512,6,85,4872
+Vivo,V30,0,Poor,128,8,70,20318
+Oppo,A Series,2,Good,256,8,77,13201
+OnePlus,OnePlus 9,6,Good,128,8,71,4664
+Apple,iPhone 15,6,Good,128,6,56,12405
+Xiaomi,Xiaomi 12,3,Good,64,8,80,13164
+Vivo,V Series,6,Good,256,12,68,3018
+Vivo,V30,3,Poor,256,8,65,9199
+Samsung,Galaxy S21,0,Good,512,16,89,67868
+Samsung,Galaxy S22,6,Fair,512,6,60,12119
+Apple,iPhone 12,2,Like New,128,8,84,46219
+Samsung,Galaxy A,4,Fair,256,8,78,15607
+Xiaomi,Xiaomi 11,4,Good,128,8,76,6270
+Xiaomi,Xiaomi 11,2,Poor,128,12,81,6682
+OnePlus,OnePlus 12,5,Fair,256,4,71,3799
+OnePlus,OnePlus 9,3,Like New,64,8,67,15755
+Oppo,Reno 11,2,Fair,128,4,80,14546
+Google,Pixel 8,2,Good,128,8,74,28429
+Oppo,A Series,5,Good,128,12,77,1846
+Vivo,V27,1,Good,512,3,90,23051
+OnePlus,OnePlus 10,0,Fair,128,8,93,35311
+Samsung,Galaxy S21,6,Fair,256,8,79,11707
+Vivo,V Series,2,Good,1024,12,78,19448
+Motorola,Edge 30,4,Fair,256,4,68,13044
+OnePlus,OnePlus 11,5,Good,128,8,66,18262
+Xiaomi,Xiaomi 11,5,Like New,512,12,56,6079
+Xiaomi,Xiaomi 11,4,Good,128,8,61,6968
+Vivo,V Series,4,Like New,128,12,78,11808
+OnePlus,OnePlus 9,5,Good,256,8,58,6290
+Vivo,V Series,6,Good,128,16,57,7778
+Vivo,V Series,0,Good,256,4,87,28084
+Samsung,Galaxy S21,5,Good,64,4,66,11778
+Samsung,Galaxy S22,1,Fair,256,8,91,32831
+Xiaomi,Redmi Note Pro,6,Good,256,8,66,1500
+Apple,iPhone 13,0,Fair,1024,8,82,59223
+OnePlus,Nord,1,Good,128,6,92,33088
+Google,Pixel 7a,1,Good,128,6,90,36156
+Vivo,V30,4,Good,512,12,62,14136
+Vivo,V30,0,Fair,256,6,90,28831
+Samsung,Galaxy S23,0,Good,64,12,82,37544
+Vivo,V27,3,Good,64,8,71,7265
+Apple,iPhone SE,6,Fair,256,4,80,6561
+Motorola,Edge 30,3,Fair,256,12,78,4616
+Oppo,Reno 10,3,Good,256,16,75,7192
+Vivo,V30,4,Like New,512,12,73,9688
+Samsung,Galaxy S22,3,Like New,128,3,84,22667
+Vivo,V30,2,Good,128,8,75,17425
+Apple,iPhone 12,4,Fair,256,16,69,25214
+Xiaomi,Redmi Note,0,Good,512,8,93,29292
+Google,Pixel 6a,1,Like New,128,6,72,36252
+OnePlus,OnePlus 10,4,Good,256,6,81,12476
+Apple,iPhone 14,2,Good,128,12,68,41549
+Oppo,Reno 8,0,Fair,128,12,86,17073
+OnePlus,OnePlus 11,0,Like New,512,16,75,40510
+Motorola,Edge 40,6,Like New,64,16,57,1500
+Google,Pixel 7,2,Good,64,6,91,25377
+OnePlus,OnePlus 9,0,Like New,256,8,96,45283
+Vivo,V27,5,Good,128,4,78,2294
+Apple,iPhone 14,3,Like New,128,4,65,24591
+Motorola,Moto G,3,Good,256,4,68,2445
+Motorola,Edge 30,6,Fair,128,16,68,1500
+Google,Pixel 7a,2,Poor,256,4,86,20871
+OnePlus,OnePlus 10,4,Poor,128,8,66,6226
+Apple,iPhone SE,5,Good,64,8,64,15912
+Vivo,V30,4,Like New,256,6,64,8209
+Vivo,V Series,1,Good,128,8,97,22085
+Samsung,Galaxy S21,4,Fair,512,3,69,15763
+Apple,iPhone SE,5,Like New,512,8,69,17266
+Apple,iPhone 15,0,Good,512,8,89,90400
+Apple,iPhone 12,1,Good,128,12,93,61892
+Oppo,Reno 11,4,Good,128,12,65,10638
+Vivo,V Series,0,Fair,512,12,97,23089
+Samsung,Galaxy S24,6,Good,128,8,55,13058
+Motorola,Moto G,0,Good,256,4,97,16327
+Samsung,Galaxy A,6,Fair,512,8,55,6032
+OnePlus,OnePlus 12,4,Like New,128,16,72,17980
+Xiaomi,Xiaomi 13,3,Like New,64,6,90,13885
+Motorola,Edge 40,1,Good,256,6,90,15979
+Oppo,A Series,2,Good,256,16,84,11500
+Apple,iPhone 15,5,Good,128,16,61,13311
+Samsung,Galaxy S21,5,Like New,256,4,63,7401
+OnePlus,OnePlus 12,1,Poor,256,12,95,21062
+OnePlus,OnePlus 12,3,Good,128,8,80,21472
+Vivo,V30,6,Good,128,8,72,3703
+Oppo,Reno 10,1,Good,256,8,85,27527
+OnePlus,OnePlus 11,4,Poor,256,16,71,7047
+Vivo,V27,1,Fair,512,6,90,18697
+Google,Pixel 6a,5,Poor,128,12,71,5252
+Xiaomi,Redmi Note Pro,1,Good,512,3,83,18973
+Google,Pixel 8,2,Good,256,8,69,27767
+Samsung,Galaxy S24,3,Fair,256,8,84,22873
+Vivo,V27,2,Good,128,12,84,13362
+Apple,iPhone 14,1,Good,64,16,79,41635
+Samsung,Galaxy A,4,Poor,256,12,82,10910
+Samsung,Galaxy S22,0,Like New,128,12,90,55480
+OnePlus,OnePlus 10,6,Good,128,6,67,10302
+Samsung,Galaxy S24,0,Fair,512,24,95,62893
+Apple,iPhone 12,2,Fair,128,8,86,36999
+Motorola,Moto G,6,Poor,512,8,68,2559
+Vivo,V Series,1,Fair,256,8,83,22636
+Apple,iPhone SE,0,Like New,512,8,100,59594
+OnePlus,OnePlus 10,5,Fair,128,8,63,6121
+Xiaomi,Xiaomi 12,0,Good,256,6,94,35367
+Vivo,V30,6,Good,256,6,65,4967
+Motorola,Edge 50,3,Good,512,16,80,15190
+Oppo,A Series,6,Fair,128,16,75,11274
+Xiaomi,Redmi Note Pro,1,Good,128,8,82,10161
+Google,Pixel 7,0,Fair,512,16,93,50389
+Samsung,Galaxy S21,6,Good,64,8,67,6552
+Oppo,Reno 11,5,Good,256,8,64,11788
+Oppo,A Series,6,Good,64,16,75,5794
+Apple,iPhone SE,2,Like New,64,8,86,27456
+Motorola,Edge 50,2,Fair,256,12,77,12480
+Apple,iPhone 15,4,Good,256,8,82,26004
+Motorola,Moto G,3,Good,256,8,70,4548
+Oppo,Reno 8,1,Like New,128,4,84,21313
+Samsung,Galaxy S22,2,Like New,256,16,77,34163
+Google,Pixel 7a,4,Good,1024,6,79,18892
+Apple,iPhone 15,0,Good,128,8,84,68695
+Xiaomi,Xiaomi 11,2,Good,128,4,86,14064
+Vivo,Y Series,2,Good,128,8,85,15227
+Apple,iPhone 13,0,Good,256,8,85,72123
+Google,Pixel 7a,0,Good,128,12,100,46002
+Vivo,V27,3,Like New,256,8,71,22028
+OnePlus,OnePlus 10,0,Good,128,4,77,32541
+Samsung,Galaxy S24,2,Fair,256,3,87,29094
+Google,Pixel 8a,3,Good,512,6,59,19663
+Xiaomi,Redmi Note Pro,6,Good,256,12,77,2404
+Motorola,Edge 30,0,Good,128,12,89,28090
+OnePlus,OnePlus 11,3,Poor,128,6,65,7421
+Vivo,V Series,0,Good,256,8,80,22868
+Xiaomi,Xiaomi 11,3,Good,128,6,64,13287
+OnePlus,Nord,3,Fair,512,16,80,17501
+Vivo,V Series,5,Good,128,16,58,9249
+Vivo,V27,3,Good,128,12,81,10481
+Google,Pixel 8a,6,Fair,128,4,63,3823
+Apple,iPhone 14,0,Like New,256,8,84,73489
+Xiaomi,Redmi Note Pro,0,Fair,512,24,92,20995
+Xiaomi,Redmi Note,0,Fair,128,6,93,14610
+Samsung,Galaxy A,2,Good,128,12,90,31242
+Motorola,Edge 30,1,Good,128,16,79,14518
+Oppo,Reno 10,0,Like New,1024,12,88,40401
+Apple,iPhone 15,1,Poor,512,8,79,38431
+Motorola,Edge 50,6,Like New,128,8,67,2486
+Samsung,Galaxy A,5,Good,256,16,63,14112
+Motorola,Edge 40,0,Fair,256,8,85,17746
+Google,Pixel 7,6,Fair,256,16,62,9486
+Apple,iPhone SE,1,Like New,128,8,87,40221
+Vivo,V27,2,Fair,256,12,80,15393
+Samsung,Galaxy A,2,Good,256,16,84,27105
+Xiaomi,Redmi Note Pro,2,Fair,128,8,80,5046
+Samsung,Galaxy S22,5,Like New,64,6,64,9265
+Vivo,V Series,4,Like New,128,4,74,5991
+Motorola,Edge 40,4,Good,64,12,65,4251
+Oppo,Reno 8,4,Like New,128,8,77,12747
+Google,Pixel 8,5,Good,512,6,67,17053
+Google,Pixel 6a,1,Like New,512,16,86,42785
+Motorola,Moto G,2,Fair,64,16,82,8745
+Oppo,Reno 10,0,Fair,64,16,100,22538
+Oppo,Reno 8,4,Fair,256,8,76,7805
+Apple,iPhone 14,3,Poor,128,16,77,20163
+Motorola,Moto G,4,Fair,128,16,67,1800
+Apple,iPhone 13,3,Good,512,4,83,31822
+OnePlus,OnePlus 12,1,Good,128,24,82,30672
+Oppo,A Series,0,Fair,64,8,76,10475
+OnePlus,OnePlus 9,6,Fair,256,16,64,1500
+Oppo,Reno 11,2,Poor,256,12,82,6605
+Google,Pixel 7a,0,Fair,128,8,81,35438
+Samsung,Galaxy A,2,Good,256,6,79,29791
+OnePlus,OnePlus 9,6,Poor,512,3,65,3476
+Xiaomi,Xiaomi 12,1,Poor,64,6,84,10468
+Oppo,Reno 11,6,Fair,256,12,75,10861
+Xiaomi,Redmi Note Pro,3,Fair,128,16,66,2401
+Vivo,V Series,6,Good,128,3,81,1500
+Oppo,Reno 11,4,Poor,128,6,73,2020
+Oppo,A Series,0,Like New,128,12,93,21578
+Xiaomi,Redmi Note Pro,3,Fair,128,6,78,8077
+OnePlus,OnePlus 11,2,Like New,512,4,67,27350
+Google,Pixel 6a,1,Good,128,4,76,34329
+Apple,iPhone 14,3,Like New,512,8,72,34012
+OnePlus,OnePlus 10,0,Good,128,8,96,36233
+Vivo,V30,4,Good,512,12,62,17497
+Google,Pixel 6a,5,Poor,256,6,62,1500
+Apple,iPhone 15,0,Good,128,4,89,72200
+Motorola,Moto G,3,Fair,256,12,80,7585
+Vivo,Y Series,4,Good,256,24,76,13636
+Oppo,Reno 10,0,Like New,128,8,80,22916
+OnePlus,OnePlus 10,2,Fair,128,16,68,15667
+Google,Pixel 8a,1,Fair,256,12,89,31373
+Xiaomi,Redmi Note,0,Good,256,16,99,14965
+Samsung,Galaxy A,5,Fair,128,8,66,9177
+OnePlus,OnePlus 10,3,Fair,256,4,67,16238
+Samsung,Galaxy S24,5,Good,128,4,66,17958
+Vivo,V Series,4,Poor,128,12,76,3150
+Motorola,Edge 50,6,Fair,256,16,63,6571
+Oppo,Reno 11,6,Fair,1024,8,76,4715
+Oppo,Reno 11,4,Good,128,4,80,10512
+Vivo,V27,2,Like New,128,4,82,19563
+Apple,iPhone 14,2,Good,128,8,65,33579
+Vivo,V27,5,Fair,256,16,63,9569
+Apple,iPhone 14,2,Fair,128,8,76,24693
+Google,Pixel 7a,3,Good,128,8,71,20620
+Xiaomi,Xiaomi 11,1,Good,128,8,86,22686
+OnePlus,OnePlus 10,6,Good,512,16,67,11600
+Samsung,Galaxy S23,4,Good,128,12,59,11741
+Samsung,Galaxy S23,2,Poor,256,6,87,17550
+Oppo,Reno 11,4,Good,64,12,73,9058
+OnePlus,OnePlus 11,2,Good,64,12,83,20852
+OnePlus,Nord,1,Good,64,16,90,26635
+Vivo,V27,6,Good,128,8,59,9672
+Samsung,Galaxy S21,6,Fair,128,6,75,3057
+Vivo,Y Series,5,Poor,128,8,68,1789
+Vivo,Y Series,2,Good,128,8,93,5125
+Xiaomi,Xiaomi 11,1,Good,64,6,77,18692
+Samsung,Galaxy S24,0,Good,128,16,100,65449
+Samsung,Galaxy S22,5,Good,64,6,62,22303
+OnePlus,OnePlus 10,2,Good,128,16,100,26309
+Xiaomi,Redmi Note,6,Like New,64,8,58,4298
+Samsung,Galaxy S23,6,Fair,256,3,74,8924
+Google,Pixel 6a,0,Good,512,8,85,50867
+Apple,iPhone 15,6,Good,256,8,71,15536
+Xiaomi,Xiaomi 13,0,Like New,64,16,88,26339
+Apple,iPhone 15,3,Fair,1024,8,68,26144
+Motorola,Edge 30,3,Like New,1024,4,55,12302
+Apple,iPhone SE,6,Good,128,16,85,9338
+Samsung,Galaxy S21,4,Fair,64,8,73,18078
+Samsung,Galaxy S23,6,Good,256,6,55,9179
+Oppo,A Series,4,Poor,1024,16,75,2241
+Apple,iPhone 15,5,Good,256,4,75,20293
+Google,Pixel 6a,5,Fair,256,4,63,9273
+Xiaomi,Redmi Note,6,Poor,256,8,60,1614
+Xiaomi,Redmi Note Pro,2,Good,1024,8,80,8877
+Motorola,Edge 50,2,Fair,64,8,90,10243
+Oppo,Reno 10,6,Good,128,16,66,3083
+Google,Pixel 7,5,Fair,512,6,81,9781
+Oppo,Reno 10,6,Fair,128,24,74,6929
+OnePlus,OnePlus 11,4,Fair,128,3,71,6804
+Vivo,V27,6,Poor,128,4,55,1810
+Xiaomi,Xiaomi 11,5,Good,128,6,67,7855
+Motorola,Moto G,5,Good,64,4,73,2310
+Vivo,V Series,1,Good,256,8,85,30858
+Oppo,Reno 10,3,Fair,128,16,82,10833
+Oppo,A Series,5,Fair,256,12,76,1500
+Xiaomi,Xiaomi 11,5,Good,128,12,73,3336
+Apple,iPhone SE,6,Good,512,3,63,6045
+Google,Pixel 8,2,Good,256,16,85,30721
+Samsung,Galaxy A,2,Fair,1024,8,98,33737
+Vivo,Y Series,6,Poor,128,12,55,1500
+Samsung,Galaxy S23,6,Like New,64,12,69,8010
+Samsung,Galaxy S21,1,Like New,256,6,99,50152
+Samsung,Galaxy S21,2,Good,512,8,71,31610
+Motorola,Edge 30,6,Like New,64,16,73,6327
+Xiaomi,Redmi Note Pro,1,Poor,256,6,93,2898
+Vivo,V30,5,Good,256,12,57,6796
+Google,Pixel 8,0,Good,128,16,94,51033
+OnePlus,OnePlus 9,1,Good,256,8,82,31388
+Apple,iPhone 14,5,Good,128,8,69,11582
+Apple,iPhone 14,4,Poor,64,8,70,17715
+OnePlus,OnePlus 10,3,Good,512,12,87,14025
+Vivo,V27,5,Like New,128,8,68,10777
+Xiaomi,Xiaomi 13,2,Good,256,8,77,18643
+Vivo,V Series,3,Poor,256,6,73,8033
+Apple,iPhone 12,4,Poor,1024,24,70,19027
+Apple,iPhone 13,5,Good,128,16,60,21844
+Oppo,Reno 11,2,Good,128,8,77,23891
+Apple,iPhone 14,4,Like New,128,16,74,21939
+Apple,iPhone SE,3,Good,256,12,80,22460
+Google,Pixel 7a,3,Like New,128,16,86,19375
+Vivo,V27,6,Fair,256,6,67,1500
+Motorola,Moto G,2,Poor,128,6,77,6550
+Apple,iPhone 15,4,Like New,128,16,65,26974
+Oppo,Reno 11,6,Good,512,8,68,1500
+Oppo,Reno 11,5,Like New,512,8,68,10061
+Oppo,A Series,6,Good,128,12,65,4608
+Vivo,V27,4,Like New,256,8,75,7928
+Samsung,Galaxy S22,1,Good,128,6,88,35445
+Vivo,V27,6,Poor,256,8,67,4529
+OnePlus,OnePlus 12,4,Like New,128,8,71,20616
+Oppo,Reno 8,1,Fair,256,4,78,18898
+Xiaomi,Xiaomi 11,2,Like New,64,6,75,16218
+Oppo,Reno 10,1,Good,128,8,91,17889
+Motorola,Edge 50,5,Good,256,12,66,5311
+Motorola,Edge 50,0,Poor,128,8,77,16319
+Xiaomi,Redmi Note Pro,5,Good,64,8,78,1500
+Oppo,Reno 11,3,Like New,128,8,69,12971
+Motorola,Moto G,0,Fair,128,4,88,13885
+Samsung,Galaxy S22,4,Fair,256,8,77,14614
+Oppo,Reno 10,5,Fair,128,6,69,6410
+Xiaomi,Redmi Note,5,Like New,256,8,55,5207
+OnePlus,OnePlus 10,3,Good,512,4,80,16173
+Xiaomi,Xiaomi 11,2,Fair,128,8,91,7914
+Vivo,V27,1,Good,512,8,90,23692
+Oppo,A Series,0,Good,128,12,71,23647
+Oppo,Reno 8,2,Good,128,12,97,19965
+Google,Pixel 7,4,Good,64,16,62,11447
+Oppo,Reno 10,0,Poor,64,12,79,12851
+Google,Pixel 7,6,Fair,64,6,71,4310
+Motorola,Edge 40,4,Like New,64,6,76,5070
+Motorola,Edge 40,2,Poor,512,4,81,9136
+Samsung,Galaxy S23,6,Good,256,6,61,13504
+OnePlus,Nord,1,Good,512,4,95,40945
+Apple,iPhone 15,6,Good,256,8,65,11931
+Samsung,Galaxy A,1,Fair,256,12,72,36110
+Google,Pixel 6a,2,Good,128,12,90,27759
+Google,Pixel 6a,2,Good,256,6,82,25754
+Samsung,Galaxy S21,6,Fair,128,8,74,4092
+Google,Pixel 8a,1,Good,512,6,89,47375
+Xiaomi,Redmi Note Pro,6,Poor,512,8,84,9830
+Samsung,Galaxy S23,2,Good,128,8,78,29325
+OnePlus,OnePlus 10,1,Good,256,6,84,27299
+OnePlus,Nord,4,Fair,256,6,79,10127
+Xiaomi,Xiaomi 11,4,Good,256,16,70,5144
+OnePlus,Nord,2,Good,128,8,87,21300
+Motorola,Edge 30,0,Good,256,8,64,24414
+OnePlus,OnePlus 10,2,Fair,256,3,80,15452
+Google,Pixel 7a,3,Fair,128,6,76,3611
+Google,Pixel 7,0,Fair,256,8,87,40240
+Samsung,Galaxy S23,0,Good,64,16,81,44382
+Motorola,Edge 40,6,Good,512,6,72,2035
+Samsung,Galaxy S21,0,Good,64,6,84,41618
+OnePlus,OnePlus 10,2,Like New,128,24,82,25295
+Oppo,A Series,5,Fair,128,8,69,2439
+Vivo,V30,2,Good,512,6,84,24148
+Motorola,Edge 50,3,Good,256,8,88,15493
+Vivo,V Series,0,Good,64,8,90,22745
+Oppo,Reno 10,5,Good,128,16,76,5084
+Google,Pixel 8,4,Good,256,4,74,18029
+Oppo,Reno 10,5,Good,128,12,65,6102
+OnePlus,Nord,6,Good,64,6,64,1500
+Google,Pixel 8a,2,Good,1024,12,78,45150
+Xiaomi,Xiaomi 13,0,Good,128,12,93,28568
+Vivo,V30,2,Fair,256,12,81,14512
+Oppo,Reno 11,1,Like New,128,16,78,15771
+Google,Pixel 8a,3,Good,256,12,75,23899
+Motorola,Edge 40,1,Good,256,4,72,14448
+Samsung,Galaxy A,6,Good,128,4,64,8587
+Oppo,Reno 8,4,Fair,256,6,73,1500
+Xiaomi,Redmi Note Pro,1,Good,512,8,99,15377
+Xiaomi,Redmi Note Pro,6,Poor,512,6,76,1500
+Oppo,Reno 11,5,Fair,128,12,61,4689
+Motorola,Edge 50,3,Good,128,12,78,10163
+Apple,iPhone 13,1,Good,512,16,86,59390
+OnePlus,OnePlus 11,2,Good,64,8,79,24041
+Samsung,Galaxy A,4,Good,64,12,71,12975
+Motorola,Moto G,5,Good,128,12,66,1500
+Apple,iPhone 15,1,Good,512,24,99,67601
+Samsung,Galaxy S22,5,Good,128,12,66,10522
+Xiaomi,Xiaomi 11,1,Good,128,6,87,13936
+Motorola,Edge 30,1,Fair,256,3,64,16405
+Xiaomi,Redmi Note Pro,3,Fair,128,16,83,6342
+Oppo,Reno 11,1,Poor,128,12,94,15694
+Vivo,V30,2,Good,128,12,72,22595
+Samsung,Galaxy S23,2,Good,128,12,76,25783
+Vivo,V Series,1,Poor,1024,12,88,14099
+Xiaomi,Xiaomi 12,5,Fair,128,12,69,10666
+Motorola,Edge 50,2,Good,512,16,84,18540
+Apple,iPhone 14,4,Good,128,16,71,22642
+Xiaomi,Xiaomi 11,5,Like New,128,8,84,10450
+Motorola,Edge 30,4,Fair,64,3,67,7861
+Xiaomi,Xiaomi 11,1,Good,256,3,100,22096
+Apple,iPhone 12,5,Good,128,8,79,23314
+Xiaomi,Xiaomi 12,1,Good,128,12,91,23020
+Vivo,Y Series,1,Good,512,12,76,18825
+Motorola,Moto G,6,Good,128,8,72,2220
+Samsung,Galaxy S23,2,Fair,512,6,85,31605
+Vivo,V Series,4,Good,128,8,56,5564
+Vivo,V Series,0,Like New,128,12,77,22156
+Samsung,Galaxy S22,4,Good,256,8,76,20230
+Oppo,Reno 8,6,Fair,128,4,64,1500
+Google,Pixel 8,4,Good,128,8,69,12425
+Xiaomi,Redmi Note Pro,4,Good,64,8,81,9781
+Google,Pixel 8,5,Good,64,8,62,14348
+Oppo,A Series,2,Fair,256,12,77,8903
+Vivo,V Series,2,Fair,128,16,75,1749
+Oppo,Reno 10,0,Fair,1024,4,92,30094
+Vivo,V30,4,Like New,128,6,59,12472
+Vivo,Y Series,5,Fair,128,8,65,5497
+Apple,iPhone 13,5,Fair,128,6,55,13468
+OnePlus,Nord,5,Good,256,8,66,9063
+Motorola,Moto G,0,Good,512,4,94,16631
+Xiaomi,Xiaomi 12,4,Good,512,4,79,7359
+Apple,iPhone 14,5,Good,64,12,63,11295
+Apple,iPhone 12,1,Good,128,4,88,55689
+Xiaomi,Xiaomi 12,3,Like New,512,12,75,17881
+Xiaomi,Redmi Note Pro,6,Poor,64,6,76,4509
+Samsung,Galaxy S21,2,Good,256,6,79,25927
+Samsung,Galaxy S22,5,Good,128,4,55,5485
+Samsung,Galaxy S21,3,Good,128,3,84,19499
+Xiaomi,Xiaomi 13,4,Good,128,8,69,4432
+Apple,iPhone 13,4,Good,128,12,71,21176
+Xiaomi,Redmi Note Pro,4,Good,512,16,75,2687
+Google,Pixel 7a,5,Good,256,4,58,14971
+Google,Pixel 8,6,Poor,512,3,66,3316
+Motorola,Edge 30,2,Good,256,4,85,18557
+Xiaomi,Xiaomi 13,6,Poor,128,12,68,4563
+Motorola,Edge 30,4,Fair,128,6,68,1763
+Oppo,Reno 10,4,Good,128,6,81,16100
+Vivo,V30,2,Good,512,16,72,22185
+Oppo,Reno 8,2,Like New,128,16,75,17530
+Xiaomi,Redmi Note,4,Fair,512,12,72,5604
+Google,Pixel 8,2,Good,256,6,83,33467
+Samsung,Galaxy A,2,Good,256,8,78,33061
+Xiaomi,Xiaomi 11,5,Fair,256,6,79,2525
+Samsung,Galaxy S24,2,Good,256,12,83,37346
+Vivo,V Series,4,Fair,256,12,73,8137
+Oppo,Reno 10,0,Good,256,4,90,31019
+Apple,iPhone 13,0,Fair,128,16,94,56437
+Oppo,A Series,5,Good,256,8,71,5791
+Apple,iPhone 12,0,Like New,128,12,74,77111
+Motorola,Edge 40,5,Fair,256,4,78,2483
+Apple,iPhone SE,6,Like New,256,8,66,5633
+Google,Pixel 7a,3,Poor,128,3,82,12474
+Motorola,Edge 30,6,Good,256,12,62,2151
+Motorola,Edge 50,2,Good,128,4,66,12569
+Google,Pixel 6a,6,Good,256,6,55,9175
+Vivo,V30,1,Fair,256,12,77,21020
+Oppo,Reno 8,2,Good,256,12,85,17454
+Samsung,Galaxy S23,2,Fair,256,8,91,23315
+Motorola,Edge 40,5,Like New,128,12,71,6643
+Motorola,Edge 30,0,Fair,64,8,80,14329
+OnePlus,OnePlus 12,5,Good,256,8,63,11047
+Motorola,Moto G,0,Fair,128,6,99,16821
+Vivo,Y Series,2,Good,64,3,70,10653
+Oppo,Reno 11,4,Like New,128,8,90,7839
+Oppo,Reno 10,1,Poor,128,4,99,11359
+Motorola,Edge 50,3,Poor,1024,8,94,14062
+OnePlus,OnePlus 10,6,Good,128,8,68,5661
+Oppo,A Series,5,Poor,128,6,66,2813
+OnePlus,Nord,0,Like New,512,12,91,51450
+Xiaomi,Xiaomi 11,4,Like New,1024,12,80,12560
+OnePlus,OnePlus 9,4,Like New,128,8,68,11292
+OnePlus,OnePlus 12,0,Good,512,16,79,50166
+Samsung,Galaxy A,4,Like New,128,6,71,17090
+Vivo,V30,3,Good,256,6,70,16327
+Samsung,Galaxy S21,4,Like New,64,6,83,20535
+Apple,iPhone SE,2,Fair,128,8,75,15652
+Vivo,V Series,1,Fair,128,6,85,22130
+Xiaomi,Redmi Note,5,Fair,256,16,77,3167
+Google,Pixel 7a,5,Good,64,6,79,12825
+Motorola,Edge 30,1,Fair,128,8,86,10649
+Google,Pixel 7a,1,Good,256,8,87,30759
+Samsung,Galaxy S22,4,Fair,64,6,65,6918
+Motorola,Moto G,5,Good,512,12,77,3477
+Samsung,Galaxy A,1,Good,128,12,94,41559
+Xiaomi,Redmi Note,1,Like New,128,12,69,14574
+Vivo,Y Series,5,Fair,128,8,83,2994
+Vivo,Y Series,4,Poor,128,8,67,7364
+OnePlus,OnePlus 9,6,Fair,128,8,70,5561
+Oppo,Reno 10,5,Poor,256,12,70,5255
+Xiaomi,Redmi Note Pro,6,Poor,256,8,65,12989
+Google,Pixel 7,1,Good,128,8,83,32718
+Samsung,Galaxy S22,1,Fair,128,6,76,27584
+Google,Pixel 7a,1,Good,256,12,88,38922
+Motorola,Edge 30,0,Good,128,4,86,23056
+Vivo,Y Series,5,Like New,256,24,59,6600
+Apple,iPhone 13,4,Poor,512,4,65,13840
+Motorola,Moto G,0,Fair,128,8,78,17462
+Oppo,Reno 8,1,Good,256,6,80,26665
+Vivo,V30,1,Good,512,6,88,27365
+Google,Pixel 7,2,Good,256,6,75,24163
+Apple,iPhone SE,3,Fair,1024,12,84,22957
+OnePlus,OnePlus 11,2,Fair,128,6,79,14533
+Oppo,A Series,6,Good,256,6,63,6920
+Vivo,Y Series,1,Good,128,4,84,15171
+Motorola,Moto G,3,Good,64,6,88,15327
+Apple,iPhone 15,3,Good,1024,16,66,46608
+Apple,iPhone 15,2,Good,128,8,94,39862
+Google,Pixel 7a,5,Like New,1024,12,77,13592
+Xiaomi,Xiaomi 12,6,Like New,256,8,65,1500
+Apple,iPhone 14,0,Good,512,8,97,69933
+Motorola,Edge 40,3,Fair,1024,12,74,10221
+Xiaomi,Xiaomi 11,0,Good,256,3,90,22331
+Apple,iPhone 15,3,Good,1024,16,72,47875
+Apple,iPhone 14,4,Fair,256,8,81,22684
+Google,Pixel 6a,2,Poor,256,8,75,14596
+Motorola,Edge 30,2,Good,256,16,80,12595
+Oppo,Reno 11,2,Like New,128,6,86,21809
+Google,Pixel 7a,2,Fair,64,16,89,25309
+OnePlus,OnePlus 9,2,Good,128,16,74,17976
+Vivo,V30,2,Fair,128,6,86,10636
+Google,Pixel 8,4,Good,128,6,65,14877
+OnePlus,OnePlus 10,0,Like New,256,12,71,44237
+Google,Pixel 7a,0,Good,256,6,82,44788
+Apple,iPhone SE,3,Fair,256,12,83,19689
+OnePlus,OnePlus 9,4,Good,512,4,73,20516
+Xiaomi,Xiaomi 11,1,Good,1024,6,80,19128
+Vivo,V30,1,Good,512,8,85,26407
+Motorola,Edge 30,4,Fair,256,12,73,1500
+Oppo,A Series,2,Like New,128,12,85,9424
+Xiaomi,Xiaomi 11,5,Fair,512,8,56,4742
+Apple,iPhone 15,1,Fair,128,6,83,42558
+Google,Pixel 7a,0,Good,128,8,89,45582
+Vivo,V Series,3,Poor,128,6,66,6727
+Apple,iPhone 14,2,Fair,256,6,69,31833
+Vivo,V27,5,Good,256,6,66,5717
+Motorola,Edge 30,3,Like New,64,8,77,8096
+OnePlus,OnePlus 12,2,Good,256,6,80,25444
+Oppo,Reno 10,1,Good,128,4,80,18638
+Oppo,A Series,1,Good,128,12,79,16281
+Apple,iPhone 13,5,Fair,128,3,66,5021
+Apple,iPhone 15,1,Fair,128,16,87,48872
+Motorola,Edge 30,3,Good,256,8,87,7237
+Vivo,V27,5,Good,64,3,55,4011
+Apple,iPhone 14,6,Like New,128,16,70,7486
+Motorola,Edge 40,1,Good,64,8,83,13153
+Samsung,Galaxy S24,0,Like New,256,12,92,73873
+Motorola,Moto G,5,Poor,1024,8,78,4462
+Xiaomi,Xiaomi 11,4,Fair,256,8,67,3026
+Apple,iPhone 13,2,Good,256,8,88,41490
+Motorola,Moto G,4,Fair,512,8,63,8708
+Vivo,V27,1,Good,128,8,85,18023
+Oppo,A Series,4,Fair,64,6,71,4540
+Apple,iPhone 13,5,Good,256,6,69,9241
+Samsung,Galaxy S21,2,Good,128,4,72,23815
+Samsung,Galaxy A,3,Good,128,12,80,23076
+Google,Pixel 8a,2,Like New,128,6,93,35416
+Samsung,Galaxy S21,0,Good,128,16,80,49032
+Oppo,Reno 8,0,Good,128,6,90,36246
+Oppo,Reno 11,6,Fair,128,8,72,5213
+Oppo,Reno 11,3,Fair,64,6,74,3901
+Samsung,Galaxy A,1,Like New,512,12,95,56118
+Apple,iPhone 12,0,Good,256,12,85,78483
+Vivo,V27,2,Fair,64,8,79,12055
+OnePlus,OnePlus 11,6,Like New,64,8,57,3100
+Motorola,Edge 50,2,Good,64,12,81,8366
+Vivo,V27,6,Fair,64,6,65,6820
+Apple,iPhone SE,3,Good,64,8,82,16748
+Apple,iPhone 15,5,Fair,128,12,64,20849
+Apple,iPhone SE,5,Good,512,6,64,9207
+Samsung,Galaxy A,0,Good,512,8,92,55693
+Apple,iPhone 14,0,Like New,256,12,99,76925
+Oppo,Reno 10,6,Like New,256,4,70,15838
+Xiaomi,Redmi Note,6,Like New,256,6,80,6931
+Vivo,Y Series,0,Fair,256,8,92,19123
+Oppo,Reno 10,4,Fair,512,12,77,10895
+Vivo,V Series,6,Fair,256,8,71,2656
+Samsung,Galaxy S23,6,Good,256,8,77,19941
+OnePlus,OnePlus 10,2,Good,512,6,90,26910
+Oppo,Reno 10,5,Fair,256,3,60,6753
+Samsung,Galaxy S22,4,Fair,128,3,79,16258
+Apple,iPhone 12,6,Like New,64,6,67,8533
+Motorola,Edge 30,1,Fair,128,4,83,9591
+Oppo,Reno 10,4,Like New,64,4,59,7005
+Vivo,V27,0,Like New,128,8,76,30880
+Vivo,V27,2,Fair,64,8,77,6304
+Apple,iPhone 13,0,Good,128,4,76,58726
+Oppo,A Series,3,Good,1024,8,74,10026
+Oppo,Reno 11,5,Good,128,4,75,1500
+Motorola,Edge 40,4,Poor,128,8,68,2135
+Oppo,Reno 10,2,Like New,128,24,81,19458
+Oppo,Reno 11,2,Fair,128,8,72,7142
+Google,Pixel 8a,2,Good,256,3,83,35644
+Apple,iPhone 14,5,Like New,256,6,73,19631
+Google,Pixel 8,1,Good,64,12,73,35773
+Samsung,Galaxy S22,0,Good,256,6,82,53861
+Apple,iPhone 14,3,Good,64,16,66,20497
+Apple,iPhone 12,5,Good,256,8,73,17674
+Motorola,Edge 40,3,Good,512,3,78,11676
+Xiaomi,Redmi Note,1,Good,512,8,84,14109
+Xiaomi,Xiaomi 13,0,Fair,128,12,87,21710
+Motorola,Moto G,6,Fair,256,8,68,1500
+Xiaomi,Xiaomi 12,5,Good,256,16,72,9816
+Motorola,Moto G,1,Good,512,16,80,16045
+Apple,iPhone SE,0,Good,128,4,83,37546
+Oppo,Reno 11,0,Good,128,4,88,26445
+Google,Pixel 8a,2,Like New,128,6,79,25603
+Samsung,Galaxy S21,5,Good,64,8,85,4908
+Oppo,A Series,1,Like New,256,8,81,15259
+Motorola,Edge 50,5,Good,128,6,71,15806
+Apple,iPhone 15,0,Poor,128,16,92,47836
+Samsung,Galaxy A,5,Good,512,6,80,19685
+Apple,iPhone 14,1,Good,128,12,78,49768
+OnePlus,OnePlus 9,6,Good,1024,12,76,9850
+Apple,iPhone 14,3,Fair,256,4,75,26418
+Motorola,Edge 30,1,Good,512,6,100,17534
+Xiaomi,Redmi Note,1,Good,256,6,87,16568
+Vivo,V Series,5,Fair,64,16,59,8813
+Motorola,Edge 40,2,Like New,64,8,79,14151
+Xiaomi,Xiaomi 12,2,Good,512,12,91,25562
+Xiaomi,Redmi Note,5,Good,128,8,70,5030
+Apple,iPhone 15,3,Fair,128,8,76,31875
+Apple,iPhone 14,4,Poor,256,16,79,12839
+Xiaomi,Xiaomi 13,3,Fair,128,8,74,16163
+Apple,iPhone 15,0,Good,128,12,86,77538
+Apple,iPhone SE,0,Like New,128,8,80,46673
+Samsung,Galaxy A,0,Good,128,4,100,46053
+Vivo,V30,4,Fair,256,4,63,5568
+Google,Pixel 6a,3,Poor,64,6,78,6245
+Motorola,Moto G,5,Fair,128,12,73,2823
+Google,Pixel 7a,6,Good,128,8,65,3454
+Samsung,Galaxy S24,1,Fair,256,8,74,43854
+OnePlus,OnePlus 11,6,Fair,64,4,57,5042
+Apple,iPhone 13,6,Fair,128,8,69,9720
+Oppo,A Series,4,Fair,512,12,67,2118
+Samsung,Galaxy S21,3,Good,128,8,60,17852
+Google,Pixel 8,1,Good,256,24,87,37560
+Vivo,Y Series,1,Good,128,3,77,18898
+Xiaomi,Xiaomi 11,0,Like New,128,3,93,21260
+Google,Pixel 6a,4,Fair,128,8,71,6721
+Xiaomi,Redmi Note Pro,3,Poor,512,6,75,10230
+Oppo,A Series,1,Fair,128,12,85,13697
+OnePlus,OnePlus 11,0,Good,128,12,79,37165
+Motorola,Edge 50,0,Like New,256,4,81,29538
+Oppo,A Series,4,Good,128,16,71,9795
+Xiaomi,Xiaomi 12,4,Fair,256,3,64,8335
+Google,Pixel 8,4,Good,1024,12,79,16865
+Samsung,Galaxy S24,0,Poor,256,8,86,40344
+Samsung,Galaxy S24,0,Good,128,8,76,59157
+Vivo,Y Series,0,Good,128,4,84,22110
+Xiaomi,Xiaomi 12,5,Fair,1024,16,70,3567
+OnePlus,OnePlus 10,5,Good,128,16,65,6547
+Google,Pixel 6a,2,Poor,128,8,84,15845
+Xiaomi,Redmi Note Pro,0,Good,1024,8,93,20604
+Xiaomi,Xiaomi 13,2,Like New,1024,8,100,12850
+Motorola,Edge 40,5,Like New,128,8,78,6384
+OnePlus,OnePlus 9,1,Fair,128,8,71,25097
+Motorola,Edge 30,5,Good,256,8,66,5163
+Google,Pixel 8a,3,Fair,512,12,74,23803
+Vivo,V Series,0,Fair,128,8,93,23164
+Samsung,Galaxy A,6,Good,128,6,58,8875
+Samsung,Galaxy S22,3,Fair,128,16,72,18493
+Google,Pixel 8a,4,Poor,128,6,63,13911
+Xiaomi,Redmi Note,0,Like New,64,6,83,13795
+Motorola,Edge 30,2,Fair,256,24,76,14078
+Google,Pixel 7a,4,Good,64,6,70,8184
+Vivo,Y Series,4,Good,128,4,63,2898
+Google,Pixel 8,0,Good,512,8,96,67269
+Samsung,Galaxy S21,4,Fair,128,12,77,9448
+Apple,iPhone SE,6,Like New,128,4,55,7496
+Vivo,V Series,5,Good,512,8,69,15843
+Samsung,Galaxy S24,1,Fair,128,4,72,37908
+Vivo,V30,6,Like New,512,8,76,4899
+OnePlus,OnePlus 10,4,Fair,64,6,86,6917
+Apple,iPhone 13,0,Poor,128,4,88,34694
+OnePlus,OnePlus 12,0,Like New,256,16,81,57107
+Xiaomi,Redmi Note,6,Like New,128,8,60,1500
+Google,Pixel 8,1,Poor,256,12,81,21309
+Oppo,Reno 10,0,Good,128,16,87,30535
+Xiaomi,Xiaomi 12,3,Like New,256,16,88,10179
+Google,Pixel 7,3,Poor,128,12,84,8035
+Motorola,Edge 40,4,Fair,256,6,81,5917
+Vivo,V27,4,Good,256,12,74,9336
+Google,Pixel 8a,6,Good,128,8,56,4331
+Samsung,Galaxy A,5,Fair,64,6,63,9940
+Google,Pixel 8,0,Good,128,8,88,53445
+Oppo,Reno 11,0,Good,256,6,78,26364
+Samsung,Galaxy S21,0,Fair,128,8,90,47387
+Vivo,V27,2,Good,256,12,87,18126
+Xiaomi,Redmi Note,2,Good,64,8,85,5849
+Xiaomi,Xiaomi 12,6,Good,128,6,69,11047
+OnePlus,OnePlus 11,2,Good,256,4,65,19428
+Vivo,Y Series,0,Good,128,12,99,20414
+Apple,iPhone SE,6,Good,128,8,55,6300
+OnePlus,OnePlus 11,1,Good,256,8,83,32602
+Google,Pixel 7,6,Fair,256,12,70,5698
+Google,Pixel 7a,5,Good,64,12,72,8273
+Google,Pixel 6a,6,Like New,128,8,55,7752
+Samsung,Galaxy S24,5,Good,128,8,60,12245
+Samsung,Galaxy S22,1,Good,256,6,86,45092
+Apple,iPhone 15,4,Fair,128,16,77,16066
+Xiaomi,Redmi Note,2,Good,256,8,72,10931
+OnePlus,OnePlus 9,4,Good,256,12,76,13690
+Xiaomi,Xiaomi 12,5,Fair,512,4,57,6156
+Xiaomi,Xiaomi 12,3,Like New,128,8,82,17280
+Motorola,Edge 50,2,Like New,128,8,73,9837
+Xiaomi,Xiaomi 13,6,Fair,128,8,66,5747
+Motorola,Edge 50,4,Good,128,12,72,3862
+Xiaomi,Redmi Note,6,Fair,128,12,74,1500
+Motorola,Edge 30,1,Fair,512,6,86,10929
+Xiaomi,Xiaomi 13,5,Poor,128,16,64,2439
+OnePlus,OnePlus 10,2,Like New,128,6,83,20344
+Samsung,Galaxy S24,3,Fair,256,8,94,29665
+Oppo,Reno 10,6,Fair,1024,4,71,5993
+OnePlus,Nord,2,Good,128,6,80,22088
+Xiaomi,Xiaomi 11,1,Poor,256,16,78,8454
+Samsung,Galaxy S24,6,Good,512,3,60,14728
+Google,Pixel 8,6,Fair,128,16,71,13788
+Xiaomi,Redmi Note,2,Good,256,6,73,13975
+Motorola,Moto G,2,Good,128,12,80,4278
+Xiaomi,Xiaomi 13,1,Like New,128,4,96,18763
+OnePlus,OnePlus 12,0,Fair,128,8,89,36137
+Vivo,V30,3,Good,64,16,68,9965
+Xiaomi,Redmi Note,1,Like New,256,8,100,25767
+Oppo,Reno 10,5,Like New,512,8,83,7122
+Motorola,Edge 50,1,Fair,128,12,88,15862
+Xiaomi,Xiaomi 12,4,Like New,256,12,83,9781
+Vivo,V27,3,Good,128,4,74,11505
+Samsung,Galaxy S22,4,Fair,128,8,79,18317
+Vivo,Y Series,0,Good,256,8,85,20984
+Oppo,Reno 8,3,Good,128,12,66,10710
+Xiaomi,Xiaomi 12,4,Good,256,6,94,7170
+Motorola,Moto G,2,Poor,128,8,69,9126
+Xiaomi,Redmi Note,6,Fair,512,16,68,2877
+OnePlus,OnePlus 9,3,Good,128,8,79,15152
+Oppo,Reno 11,2,Good,128,8,85,7380
+Samsung,Galaxy S23,0,Good,256,24,87,57966
+OnePlus,OnePlus 10,1,Poor,256,6,84,16028
+Xiaomi,Xiaomi 11,3,Good,128,8,78,4395
+Oppo,A Series,2,Good,512,12,84,17153
+Google,Pixel 7,6,Fair,128,12,65,4748
+Google,Pixel 6a,5,Like New,64,16,68,17195
+Apple,iPhone 14,1,Good,128,8,74,51140
+Apple,iPhone 14,4,Like New,256,6,89,22170
+Apple,iPhone 12,3,Good,256,8,81,40070
+Apple,iPhone 12,0,Good,512,4,90,92235
+Oppo,Reno 8,4,Poor,256,16,68,3718
+Oppo,Reno 11,3,Good,128,4,69,7328
+Oppo,Reno 8,0,Like New,128,8,95,22318
+Apple,iPhone 14,3,Fair,64,8,75,21073
+Apple,iPhone 13,5,Fair,256,4,74,10006
+OnePlus,OnePlus 11,2,Fair,64,6,70,16202
+Xiaomi,Xiaomi 11,2,Fair,256,8,93,11321
+OnePlus,OnePlus 9,0,Good,256,3,95,36504
+Google,Pixel 8a,1,Good,256,16,84,42142
+Samsung,Galaxy S23,6,Like New,64,16,69,4750
+Motorola,Edge 50,4,Good,128,4,79,5952
+OnePlus,OnePlus 12,1,Poor,512,16,74,20375
+Apple,iPhone 12,3,Fair,256,6,90,29131
+Motorola,Moto G,1,Good,128,4,88,11633
+Vivo,V27,3,Like New,256,6,71,9121
+Apple,iPhone 12,1,Poor,512,12,75,42667
+Google,Pixel 7a,4,Like New,128,8,81,14885
+Oppo,A Series,3,Good,512,6,78,15148
+Motorola,Edge 30,4,Good,64,12,77,7197
+Oppo,Reno 8,3,Like New,1024,12,77,16840
+Google,Pixel 7,2,Good,128,12,72,22949
+OnePlus,OnePlus 11,1,Poor,128,8,88,18400
+Motorola,Edge 40,1,Good,64,12,83,14821
+Samsung,Galaxy S22,3,Good,512,8,76,28753
+Samsung,Galaxy A,3,Fair,1024,4,96,28863
+Xiaomi,Xiaomi 11,4,Good,128,12,80,5865
+Motorola,Moto G,0,Fair,128,6,95,14787
+Apple,iPhone 12,1,Fair,128,12,100,50826
+Xiaomi,Xiaomi 11,5,Good,128,12,72,7860
+OnePlus,Nord,6,Good,256,6,66,5747
+Xiaomi,Redmi Note Pro,6,Fair,64,6,60,1500
+Vivo,V Series,2,Fair,1024,12,77,13946
+Apple,iPhone 15,0,Fair,512,12,72,69514
+Vivo,V30,1,Like New,64,12,91,20537
+Google,Pixel 6a,0,Fair,256,8,78,37992
+Oppo,Reno 10,6,Fair,1024,6,72,2619
+Google,Pixel 8,6,Good,512,6,65,12566
+OnePlus,OnePlus 9,5,Fair,256,12,70,8403
+Oppo,Reno 8,5,Good,64,8,69,6486
+Motorola,Edge 50,2,Good,64,12,91,12504
+Samsung,Galaxy S21,3,Fair,256,6,86,19822
+Motorola,Moto G,5,Good,128,3,69,2656
+Oppo,Reno 8,5,Good,256,8,62,9796
+Google,Pixel 7,3,Good,256,8,84,19312
+Vivo,V Series,5,Fair,128,8,61,6381
+Motorola,Moto G,2,Good,128,6,68,3723
+OnePlus,Nord,2,Fair,128,12,84,20124
+Apple,iPhone 15,5,Fair,512,8,79,16174
+Motorola,Moto G,2,Good,128,12,77,5607
+Samsung,Galaxy S23,5,Poor,64,8,72,2415
+Oppo,Reno 10,3,Fair,512,8,73,7016
+Xiaomi,Xiaomi 12,2,Good,256,12,86,17511
+Google,Pixel 8a,1,Poor,256,8,93,30542
+Samsung,Galaxy A,4,Good,512,8,71,17057
+Motorola,Edge 30,3,Like New,128,8,68,1864
+Samsung,Galaxy A,2,Good,1024,4,69,36038
+Google,Pixel 7a,5,Good,512,16,76,9421
+Oppo,Reno 10,0,Like New,128,6,79,31088
+Vivo,V30,0,Good,128,6,91,29217
+Vivo,V Series,6,Good,128,12,71,3965
+Vivo,Y Series,4,Good,256,6,69,10676
+Xiaomi,Xiaomi 13,3,Like New,256,24,75,15579
+Samsung,Galaxy S23,0,Fair,256,8,96,42073
+Oppo,Reno 11,4,Good,1024,6,66,7103
+Oppo,Reno 8,3,Like New,128,4,69,5575
+Vivo,V Series,4,Good,256,4,71,17980
+Motorola,Edge 30,0,Good,256,4,98,20217
+Samsung,Galaxy S23,3,Good,256,3,89,27304
+Xiaomi,Redmi Note Pro,4,Good,64,6,72,3289
+Google,Pixel 8a,2,Like New,256,6,75,29884
+Oppo,A Series,0,Fair,256,8,97,18123
+Google,Pixel 7a,6,Good,128,6,55,6441
+OnePlus,OnePlus 9,4,Like New,256,4,75,16432
+Apple,iPhone 14,4,Fair,128,4,72,18809
+Oppo,Reno 10,5,Fair,128,6,79,3370
+Oppo,Reno 11,4,Good,512,6,84,5565
+Apple,iPhone 14,0,Good,128,4,80,55399
+Google,Pixel 7,3,Good,256,8,78,12546
+Google,Pixel 7,6,Good,256,16,61,7949
+Google,Pixel 8a,2,Like New,64,6,78,27722
+Vivo,V Series,6,Good,128,6,70,1500
+Samsung,Galaxy A,0,Poor,128,8,85,24606
+OnePlus,OnePlus 12,2,Fair,128,8,82,20226
+Samsung,Galaxy S23,2,Good,256,4,88,28714
+Samsung,Galaxy A,4,Good,64,12,85,14590
+Vivo,V30,1,Fair,1024,12,87,24199
+Vivo,V27,1,Good,128,16,85,21312
+Apple,iPhone 14,4,Like New,128,16,64,20080
+Motorola,Edge 50,1,Like New,512,8,97,23667
+Samsung,Galaxy S22,6,Fair,128,12,69,1500
+Samsung,Galaxy S22,6,Good,256,8,66,9909
+OnePlus,OnePlus 11,2,Like New,256,16,81,26016
+Samsung,Galaxy A,3,Like New,512,8,79,27408
+Google,Pixel 6a,2,Good,128,6,87,31473
+Vivo,V30,2,Good,64,3,88,15839
+Xiaomi,Redmi Note Pro,4,Fair,1024,8,86,5877
+Motorola,Edge 40,2,Like New,64,8,82,13543
+Google,Pixel 7,1,Fair,256,12,98,38718
+Apple,iPhone 12,1,Poor,256,6,93,36893
+Apple,iPhone 13,6,Good,256,12,65,5048
+OnePlus,OnePlus 12,1,Good,256,3,71,34559
+Samsung,Galaxy S22,2,Fair,1024,8,81,27419
+Oppo,A Series,4,Good,64,8,85,1500
+Oppo,A Series,0,Like New,256,6,82,28482
+Oppo,A Series,1,Good,256,8,85,21407
+Motorola,Edge 50,1,Fair,128,6,86,12217
+Xiaomi,Redmi Note Pro,6,Good,512,6,73,1500
+Motorola,Edge 30,6,Fair,128,12,62,3771
+Google,Pixel 6a,5,Good,128,6,62,7078
+Motorola,Edge 30,1,Good,512,12,89,19439
+Oppo,Reno 11,4,Like New,512,12,67,8839
+Oppo,Reno 8,4,Good,64,3,58,5750
+Xiaomi,Xiaomi 12,6,Like New,256,16,80,1991
+Apple,iPhone SE,1,Good,128,12,92,38464
+Motorola,Moto G,5,Good,64,12,84,7754
+OnePlus,OnePlus 11,1,Good,128,12,91,28457
+Motorola,Moto G,3,Good,512,8,82,7842
+Xiaomi,Xiaomi 11,6,Like New,128,24,68,7456
+Vivo,V Series,0,Good,128,6,87,25750
+OnePlus,Nord,1,Poor,256,4,88,23301
+Vivo,V27,5,Like New,128,12,65,2278
+Oppo,Reno 11,0,Good,128,6,79,29158
+OnePlus,Nord,4,Good,128,8,70,11327
+Google,Pixel 8a,3,Good,256,8,87,20883
+Xiaomi,Xiaomi 11,2,Fair,256,6,71,20246
+Oppo,Reno 10,6,Good,256,16,55,13800
+Motorola,Moto G,5,Good,64,4,74,2534
+Oppo,Reno 11,2,Good,128,6,77,16578
+OnePlus,Nord,0,Good,256,8,92,39315
+Xiaomi,Xiaomi 13,0,Poor,128,12,96,14149
+Google,Pixel 8,0,Poor,128,12,92,26836
+Vivo,V Series,6,Like New,128,6,60,1500
+OnePlus,Nord,4,Good,128,16,83,19018
+Xiaomi,Xiaomi 12,4,Good,128,8,79,9562
+Apple,iPhone SE,1,Good,512,12,84,41990
+Oppo,Reno 10,5,Good,128,4,69,3483
+Google,Pixel 8,5,Good,256,8,72,14438
+OnePlus,OnePlus 9,5,Good,128,8,67,3577
+Xiaomi,Redmi Note Pro,3,Good,256,8,64,5518
+Google,Pixel 7,4,Good,256,4,79,10900
+Oppo,A Series,3,Poor,512,8,82,10407
+Xiaomi,Redmi Note,2,Fair,128,8,62,2242
+Xiaomi,Redmi Note Pro,4,Like New,256,8,77,2866
+Apple,iPhone 14,2,Good,128,8,94,29814
+Apple,iPhone 12,6,Good,256,6,56,11144
+Google,Pixel 8,5,Fair,512,16,68,11007
+Vivo,V30,5,Good,256,8,68,11597
+Vivo,V30,5,Fair,256,8,82,6182
+Motorola,Edge 40,3,Like New,512,16,86,11064
+Motorola,Edge 30,6,Good,512,8,58,5603
+Google,Pixel 8a,1,Poor,128,6,87,20767
+Samsung,Galaxy S21,3,Good,128,8,95,30976
+Apple,iPhone 13,0,Like New,256,16,83,74457
+OnePlus,OnePlus 10,2,Fair,1024,3,80,22575
+OnePlus,OnePlus 11,4,Fair,128,8,77,12690
+Samsung,Galaxy S22,3,Fair,128,4,72,14629
+OnePlus,OnePlus 11,6,Fair,256,12,79,6965
+Apple,iPhone 15,4,Fair,64,8,69,15668
+Xiaomi,Redmi Note Pro,2,Like New,128,16,69,12109
+Vivo,V30,2,Good,128,8,76,17651
+Motorola,Moto G,4,Fair,64,3,78,3012
+Google,Pixel 8a,5,Fair,256,8,63,6976
+Google,Pixel 6a,1,Good,128,16,87,40770
+OnePlus,OnePlus 12,4,Like New,128,6,77,17059
+Samsung,Galaxy S21,4,Fair,256,4,63,8143
+Xiaomi,Xiaomi 13,0,Good,128,12,83,23933
+Xiaomi,Redmi Note,6,Like New,128,8,68,1500
+Apple,iPhone 13,3,Fair,128,4,82,24230
+Google,Pixel 8a,1,Good,64,6,80,33927
+OnePlus,Nord,4,Good,256,6,74,12864
+Samsung,Galaxy S21,4,Like New,64,8,71,12692
+Motorola,Moto G,6,Like New,128,8,71,1953
+Xiaomi,Redmi Note Pro,0,Fair,128,8,92,17799
+Motorola,Edge 30,2,Good,128,12,77,15917
+Motorola,Edge 40,1,Like New,128,6,88,20224
+Vivo,V Series,4,Good,128,12,69,3047
+Oppo,A Series,3,Like New,128,8,80,8428
+Xiaomi,Redmi Note,3,Like New,64,8,80,8475
+Vivo,V30,6,Good,512,8,84,4501
+Google,Pixel 8a,3,Good,128,12,74,16434
+Vivo,Y Series,2,Good,64,16,79,5407
+Oppo,A Series,0,Good,256,6,83,26174
+Motorola,Moto G,2,Good,128,4,72,4041
+Vivo,V30,6,Good,256,8,62,6278
+Xiaomi,Xiaomi 12,3,Like New,64,8,82,11954
+Motorola,Edge 50,6,Like New,128,6,71,4400
+OnePlus,OnePlus 9,3,Like New,512,16,79,20081
+Vivo,V27,3,Good,128,12,74,14071
+Xiaomi,Redmi Note,3,Fair,128,8,73,6408
+Oppo,Reno 10,3,Like New,256,8,69,11281
+Google,Pixel 7a,0,Fair,1024,4,84,44619
+Oppo,Reno 8,0,Fair,128,8,78,17226
+Apple,iPhone 14,3,Like New,256,8,87,34462
+Apple,iPhone 14,4,Like New,128,16,87,21069
+Xiaomi,Xiaomi 11,3,Good,256,8,61,9149
+Motorola,Moto G,3,Like New,128,4,79,8662
+Oppo,A Series,2,Good,256,6,83,10661
+Google,Pixel 8a,4,Like New,64,4,74,14308
+Motorola,Edge 30,4,Fair,256,16,68,10391
+Xiaomi,Redmi Note Pro,0,Good,128,12,96,15506
+Vivo,V27,3,Fair,256,12,80,12109
+Motorola,Edge 30,4,Fair,256,12,81,9758
+Google,Pixel 7,5,Good,512,4,63,16075
+Vivo,V27,2,Fair,1024,12,69,23268
+Apple,iPhone 13,6,Poor,128,12,69,4591
+Vivo,V27,4,Good,256,6,65,5872
+Samsung,Galaxy A,3,Like New,64,8,85,24216
+OnePlus,OnePlus 10,4,Good,512,8,56,16831
+Oppo,Reno 8,6,Good,256,16,61,2776
+Motorola,Edge 40,1,Good,128,4,79,16985
+Vivo,Y Series,1,Good,128,16,82,24138
+Motorola,Moto G,3,Good,256,16,79,7867
+Motorola,Edge 50,0,Fair,512,16,91,29076
+OnePlus,OnePlus 11,5,Good,512,3,74,15794
+Apple,iPhone 15,6,Good,256,6,71,23623
+Apple,iPhone 12,4,Good,128,12,71,25079
+OnePlus,OnePlus 12,6,Fair,512,6,82,12387
+Apple,iPhone 12,0,Good,256,4,99,78454
+Xiaomi,Xiaomi 12,4,Like New,256,12,70,11565
+Oppo,A Series,3,Fair,256,3,76,5569
+Vivo,V30,1,Like New,256,8,82,20873
+Google,Pixel 7,2,Fair,256,16,83,17623
+Vivo,V30,3,Good,256,8,69,15697
+Vivo,V Series,4,Good,512,16,66,11811
+Oppo,Reno 11,1,Fair,512,8,67,15566
+Google,Pixel 7a,4,Fair,128,6,70,16673
+OnePlus,Nord,6,Fair,128,4,74,1533
+Vivo,Y Series,0,Good,256,8,87,21589
+Samsung,Galaxy S23,6,Fair,256,6,64,6652
+Google,Pixel 6a,4,Good,256,12,75,16173
+Apple,iPhone 12,2,Fair,512,16,72,45105
+Oppo,Reno 10,5,Fair,64,3,69,7245
+Motorola,Edge 30,4,Like New,128,4,80,9744
+Apple,iPhone SE,5,Good,512,8,71,15238
+Samsung,Galaxy S23,0,Good,512,8,96,57321
+Xiaomi,Xiaomi 12,0,Like New,128,6,98,36461
+Xiaomi,Xiaomi 12,4,Good,128,6,78,5821
+Oppo,Reno 11,2,Good,128,6,75,14571
+OnePlus,Nord,1,Good,128,8,81,26279
+Vivo,V Series,2,Like New,256,3,96,18659
+Google,Pixel 7,5,Good,128,12,72,9132
+Oppo,Reno 11,1,Fair,128,6,86,16039
+Samsung,Galaxy S22,6,Good,256,8,58,15531
+Apple,iPhone SE,2,Good,256,8,80,23715
+Apple,iPhone 14,1,Fair,256,6,90,42805
+OnePlus,Nord,0,Poor,128,16,88,18228
+Vivo,V Series,6,Good,128,12,61,7152
+Apple,iPhone 14,0,Like New,128,16,86,67570
+OnePlus,OnePlus 10,2,Like New,512,8,90,27869
+Apple,iPhone 14,4,Poor,128,8,78,7249
+Vivo,V27,3,Fair,256,6,81,14555
+Motorola,Edge 50,1,Fair,256,8,88,17517
+Oppo,Reno 10,0,Fair,512,8,79,26588
+Motorola,Moto G,4,Like New,128,8,75,8252
+Motorola,Moto G,3,Good,128,4,85,2078
+Oppo,Reno 11,0,Fair,512,6,86,24049
+Apple,iPhone SE,1,Fair,128,3,92,27762
+Oppo,Reno 8,3,Good,256,6,81,6524
+Motorola,Moto G,1,Good,128,8,91,5976
+Motorola,Edge 30,2,Like New,1024,16,81,14714
+Google,Pixel 7a,0,Poor,256,6,95,23946
+Oppo,A Series,5,Good,64,4,57,2759
+Google,Pixel 7a,4,Fair,512,6,73,15404
+Apple,iPhone 15,5,Good,256,4,75,21978
+Vivo,Y Series,0,Good,256,12,90,27609
+Samsung,Galaxy A,2,Good,128,3,89,27683
+Apple,iPhone 12,1,Good,128,24,83,59451
+Xiaomi,Xiaomi 13,4,Fair,256,12,68,7258
+Samsung,Galaxy S22,5,Fair,128,8,56,10743
+Oppo,Reno 10,1,Fair,512,16,82,22091
+Google,Pixel 6a,5,Good,128,8,73,13867
+Apple,iPhone 14,4,Fair,256,24,79,22775
+Vivo,Y Series,5,Good,128,6,58,6165
+Xiaomi,Xiaomi 12,0,Good,256,24,97,40639
+OnePlus,Nord,6,Good,64,6,57,5890
+Motorola,Edge 50,3,Good,128,8,76,8572
+Xiaomi,Redmi Note Pro,1,Like New,128,16,80,13540
+Apple,iPhone SE,1,Good,256,8,88,37581
+Oppo,Reno 8,6,Like New,128,6,66,1500
+Google,Pixel 6a,6,Good,256,4,71,6391
+Motorola,Moto G,0,Like New,64,4,100,10868
+Vivo,V27,3,Good,256,8,80,13590
+Xiaomi,Redmi Note Pro,5,Fair,256,8,64,5134
+Motorola,Edge 30,4,Good,64,8,76,1500
+OnePlus,OnePlus 12,1,Like New,64,12,100,31513
+Samsung,Galaxy A,2,Fair,128,3,86,28978
+Google,Pixel 7,2,Fair,256,12,88,25411
+Oppo,A Series,2,Fair,1024,8,68,13010
+Xiaomi,Xiaomi 11,6,Fair,64,12,68,1500
+OnePlus,OnePlus 9,1,Poor,256,12,82,18962
+Oppo,A Series,4,Good,256,16,67,6975
+Oppo,A Series,6,Poor,256,4,65,1500
+Vivo,V30,5,Poor,256,8,70,3039
+OnePlus,Nord,5,Good,1024,16,64,10148
+Motorola,Edge 50,1,Fair,256,12,86,12314
+Xiaomi,Xiaomi 13,0,Fair,512,4,87,19254
+Google,Pixel 7a,5,Fair,128,8,75,8073
+Google,Pixel 7,5,Fair,512,12,71,7659
+Apple,iPhone 14,5,Good,1024,6,72,18583
+OnePlus,OnePlus 12,2,Good,512,8,88,24527
+Xiaomi,Redmi Note,3,Good,128,12,81,10792
+Vivo,V30,0,Fair,512,8,88,37691
+Oppo,Reno 11,2,Fair,64,6,64,14299
+Samsung,Galaxy A,3,Fair,256,8,81,23569
+Motorola,Moto G,0,Fair,128,8,81,14563
+Apple,iPhone 14,0,Poor,256,8,87,41052
+Motorola,Moto G,0,Like New,128,12,91,17367
+OnePlus,OnePlus 11,1,Poor,64,8,95,11686
+Google,Pixel 6a,6,Like New,128,16,80,11624
+Motorola,Edge 40,4,Good,64,12,65,8359
+Google,Pixel 7,6,Like New,128,12,55,6861
+Oppo,A Series,1,Good,512,8,87,19629
+Xiaomi,Redmi Note,4,Good,256,6,75,3918
+Vivo,Y Series,6,Like New,256,12,56,1836
+Motorola,Edge 40,2,Good,512,4,80,16692
+OnePlus,Nord,4,Fair,128,8,78,11331
+Oppo,Reno 11,4,Like New,256,4,63,8907
+Google,Pixel 8,5,Fair,256,8,61,9743
+Xiaomi,Redmi Note Pro,6,Like New,64,12,60,3832
+Samsung,Galaxy S24,4,Like New,256,8,71,16133
+Apple,iPhone 14,4,Like New,256,8,78,21693
+Xiaomi,Xiaomi 12,6,Good,256,4,63,1500
+Samsung,Galaxy A,4,Fair,256,6,73,14421
+Vivo,V27,2,Good,64,8,98,17776
+Oppo,Reno 10,4,Fair,256,16,65,9628
+Motorola,Edge 50,3,Good,128,16,71,9149
+Motorola,Edge 30,1,Fair,512,16,90,14130
+Xiaomi,Xiaomi 12,3,Poor,128,4,85,4617
+Apple,iPhone 12,4,Good,128,6,76,30703
+Google,Pixel 6a,6,Like New,128,8,80,9135
+Google,Pixel 6a,4,Like New,128,8,75,15900
+Vivo,V30,1,Good,128,12,68,15344
+Samsung,Galaxy S23,6,Good,128,12,66,5223
+Google,Pixel 7,4,Good,256,8,68,15039
+OnePlus,OnePlus 11,2,Fair,512,8,91,19368
+Samsung,Galaxy A,5,Poor,128,16,77,7925
+Apple,iPhone SE,2,Good,256,6,68,27378
+OnePlus,OnePlus 10,2,Good,512,12,91,28375
+Apple,iPhone 14,5,Good,128,12,77,9309
+Apple,iPhone 15,6,Good,512,4,63,11664
+OnePlus,OnePlus 11,3,Fair,128,16,76,12959
+Samsung,Galaxy S21,2,Good,128,12,92,27771
+Xiaomi,Xiaomi 13,6,Like New,128,12,55,3815
+Apple,iPhone 13,1,Good,128,4,88,46622
+OnePlus,OnePlus 12,5,Like New,256,4,78,9710
+Google,Pixel 6a,4,Good,512,12,72,17770
+Vivo,Y Series,5,Good,128,4,74,6351
+Motorola,Moto G,2,Good,512,4,81,10319
+Vivo,V30,5,Good,128,8,63,9853
+OnePlus,Nord,0,Fair,128,3,82,20679
+Google,Pixel 8a,5,Like New,512,12,75,14642
+Google,Pixel 8,0,Fair,512,8,83,53153
+Vivo,Y Series,4,Like New,256,4,61,3685
+Vivo,V30,1,Good,128,8,85,19805
+Vivo,Y Series,6,Fair,128,4,61,2233
+Oppo,A Series,5,Fair,128,4,59,3570
+Xiaomi,Xiaomi 11,0,Like New,256,8,89,28167
+Xiaomi,Redmi Note Pro,6,Good,128,8,71,9798
+Vivo,V Series,1,Fair,256,6,84,18513
+OnePlus,Nord,3,Poor,128,8,68,5741
+OnePlus,OnePlus 11,0,Good,128,8,92,32202
+Vivo,Y Series,0,Like New,128,8,96,22205
+Google,Pixel 7,1,Good,256,6,100,33830
+Samsung,Galaxy S22,3,Like New,256,12,88,34377
+Xiaomi,Xiaomi 11,3,Like New,1024,8,69,16280
+OnePlus,OnePlus 11,5,Good,512,6,76,12670
+Vivo,Y Series,1,Fair,256,12,86,13994
+Vivo,V27,5,Like New,128,12,60,10716
+OnePlus,OnePlus 11,0,Fair,512,4,90,26797
+Xiaomi,Redmi Note Pro,2,Fair,512,8,96,6322
+Vivo,V Series,1,Fair,512,12,94,23915
+Motorola,Edge 40,0,Good,128,4,80,25421
+Samsung,Galaxy S22,4,Good,128,16,73,12420
+Xiaomi,Redmi Note,6,Like New,256,8,69,1500
+Xiaomi,Xiaomi 11,4,Good,128,12,59,8531
+Motorola,Moto G,5,Good,128,16,55,5388
+Apple,iPhone 13,4,Good,128,24,74,21916
+OnePlus,OnePlus 12,0,Like New,256,8,89,51596
+Oppo,Reno 10,2,Good,128,12,66,8620
+Samsung,Galaxy S23,5,Fair,256,6,72,9587
+OnePlus,OnePlus 9,0,Fair,256,6,97,32734
+OnePlus,OnePlus 12,0,Good,256,12,86,46653
+Samsung,Galaxy S24,5,Poor,64,8,69,1500
+Samsung,Galaxy S24,0,Good,512,12,93,75871
+OnePlus,OnePlus 11,6,Good,128,4,69,9549
+Oppo,Reno 10,5,Fair,128,6,56,2325
+Apple,iPhone 13,4,Good,128,6,66,18903
+OnePlus,OnePlus 12,3,Good,128,8,73,16616
+Apple,iPhone 15,0,Good,256,4,81,75845
+Xiaomi,Xiaomi 11,2,Good,64,6,92,14779
+OnePlus,Nord,5,Good,512,24,74,13221
+Oppo,A Series,6,Good,64,12,56,6937
+Xiaomi,Redmi Note Pro,3,Good,1024,12,75,13909
+Oppo,A Series,5,Good,256,4,78,4526
+Motorola,Moto G,5,Good,64,8,64,13237
+Google,Pixel 6a,0,Good,256,12,95,55307
+Oppo,Reno 11,4,Fair,128,3,84,4686
+Google,Pixel 6a,4,Fair,512,8,83,14588
+Vivo,V27,3,Good,256,16,78,5801
+Vivo,V Series,5,Fair,256,4,79,5741
+Xiaomi,Redmi Note,6,Like New,128,16,61,9497
+Motorola,Edge 40,3,Good,1024,6,96,21983
+OnePlus,OnePlus 12,2,Good,256,6,82,26388
+Oppo,Reno 11,6,Good,256,6,74,6641
+Motorola,Edge 50,6,Fair,128,16,62,5961
+Vivo,V27,4,Poor,128,8,77,11853
+OnePlus,OnePlus 11,4,Good,256,12,77,9972
+Oppo,A Series,0,Good,256,8,81,30417
+Google,Pixel 8a,2,Good,512,16,73,34412
+Samsung,Galaxy S23,1,Good,256,8,83,37529
+Samsung,Galaxy S21,3,Like New,256,8,85,24998
+Xiaomi,Redmi Note Pro,5,Poor,128,12,55,1500
+OnePlus,OnePlus 11,1,Fair,256,12,81,26788
+Apple,iPhone SE,6,Poor,128,12,76,1500
+Google,Pixel 8a,0,Good,512,4,78,58604
+Motorola,Edge 30,0,Like New,128,16,98,26793
+OnePlus,Nord,6,Good,256,6,56,12255
+Vivo,V Series,0,Poor,512,24,81,21274
+Oppo,Reno 11,5,Like New,256,8,68,12734
+Xiaomi,Redmi Note Pro,5,Like New,128,4,84,2629
+Vivo,V27,2,Like New,256,6,75,18497
+Google,Pixel 8a,0,Fair,128,8,74,32909
+Samsung,Galaxy A,2,Fair,64,8,69,20049
+Apple,iPhone 14,0,Fair,256,12,95,60436
+Vivo,V Series,4,Like New,512,12,62,12452
+Vivo,V27,6,Fair,64,6,75,1500
+Motorola,Moto G,6,Good,512,8,66,1986
+Apple,iPhone SE,5,Like New,128,12,69,11187
+OnePlus,OnePlus 11,5,Good,512,16,71,9597
+Apple,iPhone 15,6,Good,256,8,59,17129
+Apple,iPhone 15,5,Good,512,16,70,21583
+Samsung,Galaxy S23,4,Poor,512,3,63,10763
+Xiaomi,Xiaomi 11,6,Good,1024,12,76,4534
+Apple,iPhone SE,2,Good,256,12,72,31946
+Vivo,V Series,2,Fair,128,8,84,16264
+Google,Pixel 8,6,Good,128,3,57,7601
+OnePlus,OnePlus 9,2,Like New,256,12,76,34990
+Xiaomi,Xiaomi 11,2,Good,128,6,77,11266
+Oppo,A Series,1,Good,512,4,100,21268
+OnePlus,OnePlus 10,1,Good,128,4,84,23426
+Apple,iPhone 12,4,Fair,512,12,66,26216
+Apple,iPhone SE,6,Good,128,6,62,10476
+Oppo,A Series,0,Good,512,8,76,19199
+Apple,iPhone 13,4,Like New,512,16,71,26522
+Motorola,Edge 30,5,Good,128,12,84,12002
+Google,Pixel 6a,6,Good,256,8,68,5925
+Oppo,Reno 10,5,Fair,128,8,76,6879
+Apple,iPhone SE,1,Good,512,6,77,40817
+Vivo,Y Series,3,Fair,512,8,75,7724
+Motorola,Moto G,6,Good,128,4,67,1500
+Google,Pixel 7a,6,Fair,64,4,59,8443
+Samsung,Galaxy S24,4,Like New,128,4,76,20095
+Vivo,Y Series,6,Good,128,8,70,7329
+OnePlus,OnePlus 9,4,Like New,512,6,77,16072
+Google,Pixel 7,0,Like New,128,4,87,45600
+Google,Pixel 7,6,Fair,512,16,74,9561
+Samsung,Galaxy S23,1,Fair,1024,4,82,35368
+Google,Pixel 7,2,Good,512,12,78,35532
+Samsung,Galaxy S23,1,Good,256,8,96,41723
+Apple,iPhone 15,5,Good,128,8,60,16234
+OnePlus,OnePlus 12,0,Good,512,3,74,52342
+Apple,iPhone 13,4,Fair,256,3,66,17877
+Google,Pixel 8,6,Good,1024,12,68,11661
+Oppo,Reno 11,5,Fair,128,8,79,6964
+Samsung,Galaxy S23,2,Good,64,4,75,26646
+Apple,iPhone 12,6,Poor,1024,6,80,10019
+Apple,iPhone SE,2,Like New,512,8,81,36597
+Xiaomi,Redmi Note,4,Good,128,4,72,1500
+OnePlus,OnePlus 12,3,Fair,256,8,70,17339
+Google,Pixel 7a,0,Good,64,8,100,43301
+Apple,iPhone 12,0,Like New,256,8,87,90334
+OnePlus,OnePlus 9,1,Good,128,12,74,19712
+Google,Pixel 7,6,Good,128,8,85,7903
+Google,Pixel 8a,6,Poor,128,16,68,1500
+Xiaomi,Xiaomi 12,2,Fair,128,8,87,18559
+Oppo,Reno 11,6,Good,128,8,79,3745
+Google,Pixel 7,0,Poor,128,8,93,29755
+Oppo,Reno 8,6,Good,128,8,73,1500
+Xiaomi,Redmi Note,1,Fair,256,3,85,13107
+OnePlus,OnePlus 12,0,Good,256,24,94,51307
+Samsung,Galaxy S22,5,Good,256,16,69,23522
+OnePlus,OnePlus 10,2,Like New,128,6,80,26315
+Xiaomi,Xiaomi 11,2,Like New,64,8,81,17802
+Samsung,Galaxy S21,5,Fair,512,12,66,19211
+Vivo,V30,2,Like New,512,16,84,24690
+Google,Pixel 7a,5,Good,1024,8,73,13483
+Oppo,Reno 10,1,Fair,512,3,91,18707
+Motorola,Moto G,0,Like New,256,12,93,20014
+OnePlus,OnePlus 9,2,Good,512,4,96,15467
+Samsung,Galaxy S24,4,Fair,128,12,81,16324
+Motorola,Moto G,1,Fair,256,8,83,11191
+OnePlus,Nord,1,Good,512,8,88,33071
+Samsung,Galaxy S24,5,Poor,256,6,80,3935
+Vivo,V Series,3,Fair,128,8,69,8441
+Google,Pixel 7,3,Good,128,8,93,14040
+Apple,iPhone 13,1,Good,128,6,78,52213
+Google,Pixel 6a,0,Fair,128,6,95,35009
+Google,Pixel 6a,0,Fair,512,6,88,35108
+Oppo,A Series,4,Good,256,12,72,6299
+Motorola,Moto G,0,Poor,128,8,78,11816
+Samsung,Galaxy A,1,Fair,256,8,91,35461
+Samsung,Galaxy S23,6,Good,128,8,55,5695
+Xiaomi,Redmi Note Pro,2,Fair,256,12,69,6808
+Apple,iPhone SE,5,Good,128,8,78,10210
+OnePlus,Nord,2,Fair,256,4,95,17327
+Samsung,Galaxy S22,6,Fair,256,6,60,3608
+Apple,iPhone 15,5,Like New,256,3,77,20460
+Vivo,V Series,3,Like New,256,12,83,9090
+Apple,iPhone SE,4,Good,128,8,72,17842
+Apple,iPhone 12,2,Fair,256,12,91,43610
+Vivo,V Series,6,Good,128,12,64,1500
+Samsung,Galaxy A,2,Fair,128,12,85,21682
+Oppo,Reno 11,5,Good,256,24,59,5917
+Apple,iPhone 14,4,Good,256,8,63,21537
+Samsung,Galaxy S21,4,Fair,512,6,82,16965
+Apple,iPhone 15,2,Good,128,4,85,42769
+Motorola,Edge 30,5,Good,512,8,68,7697
+Xiaomi,Redmi Note,5,Like New,128,12,84,10460
+Google,Pixel 8a,5,Like New,256,8,84,15566
+Samsung,Galaxy S24,5,Like New,512,6,73,13970
+Apple,iPhone 12,1,Good,256,12,73,55385
+Xiaomi,Xiaomi 11,6,Good,512,8,64,11196
+Samsung,Galaxy A,5,Good,512,6,62,15894
+Xiaomi,Xiaomi 12,1,Like New,128,12,85,25457
+Motorola,Edge 40,6,Good,1024,8,58,6504
+Oppo,Reno 10,3,Good,512,6,67,13897
+Google,Pixel 7a,2,Poor,128,6,62,14961
+Apple,iPhone 14,1,Good,64,8,86,41600
+OnePlus,OnePlus 10,2,Like New,128,8,62,25146
+Oppo,Reno 11,0,Good,512,6,85,30033
+Xiaomi,Redmi Note,4,Fair,512,8,78,2646
+Xiaomi,Xiaomi 11,4,Fair,512,12,67,2074
+Google,Pixel 7a,4,Fair,128,3,64,9816
+Samsung,Galaxy S22,3,Fair,64,8,76,20272
+Vivo,Y Series,2,Good,256,8,74,9948
+Oppo,Reno 8,5,Poor,128,6,70,1500
+Vivo,V30,6,Like New,128,6,57,6829
+Oppo,A Series,0,Fair,64,6,87,11907
+OnePlus,OnePlus 11,2,Fair,128,8,78,22427
+OnePlus,OnePlus 11,6,Fair,128,12,65,9352
+Samsung,Galaxy S22,6,Good,256,8,78,5968
+Vivo,Y Series,6,Fair,128,24,67,2366
+Xiaomi,Redmi Note,1,Good,128,8,88,11157
+Google,Pixel 7,3,Good,256,12,72,16560
+Vivo,Y Series,0,Good,1024,8,90,24444
+Xiaomi,Redmi Note,6,Good,256,12,63,6539
+Vivo,Y Series,3,Fair,256,16,77,7223
+Vivo,Y Series,1,Good,256,8,89,13998
+Apple,iPhone 15,0,Good,256,8,84,73273
+OnePlus,OnePlus 11,5,Good,256,16,66,7707
+Motorola,Moto G,5,Fair,128,16,65,5042
+Oppo,Reno 10,6,Fair,256,24,61,1500
+Samsung,Galaxy A,6,Fair,128,4,67,11764
+OnePlus,OnePlus 10,5,Like New,128,3,66,7007
+Xiaomi,Redmi Note,5,Fair,128,8,81,4385
+Oppo,A Series,5,Fair,128,12,90,2773
+Apple,iPhone SE,6,Like New,128,4,61,4365
+Xiaomi,Xiaomi 11,3,Good,256,8,79,13437
+OnePlus,OnePlus 10,5,Good,128,8,77,6988
+Samsung,Galaxy S21,5,Good,64,6,67,7814
+Xiaomi,Xiaomi 12,0,Like New,128,12,80,23806
+Google,Pixel 8,4,Good,128,6,87,21450
+Motorola,Edge 40,2,Like New,256,12,86,14888
+OnePlus,OnePlus 10,0,Like New,128,6,91,43407
+Oppo,Reno 10,1,Good,64,8,96,21131
+Apple,iPhone 13,0,Fair,64,8,94,51123
+Oppo,A Series,6,Good,128,6,65,1519
+Apple,iPhone 13,5,Good,128,8,61,10070
+Motorola,Moto G,0,Fair,128,12,84,15394
+OnePlus,OnePlus 12,4,Good,256,8,82,16171
+Google,Pixel 7,4,Like New,512,4,78,16111
+Apple,iPhone 14,3,Good,256,12,75,32627
+Motorola,Edge 50,4,Good,64,6,87,8510
+Samsung,Galaxy S22,6,Good,128,8,64,11355
+Motorola,Edge 50,3,Good,256,8,85,8487
+Motorola,Edge 30,4,Good,128,8,75,10303
+Oppo,A Series,3,Good,512,3,92,9876
+Motorola,Moto G,2,Poor,256,6,86,9348
+OnePlus,Nord,6,Good,64,4,66,9208
+Motorola,Edge 50,2,Good,128,8,79,16609
+Oppo,Reno 8,5,Good,512,8,69,7470
+OnePlus,OnePlus 9,4,Fair,1024,8,67,14883
+Apple,iPhone 13,4,Fair,512,4,62,22523
+Vivo,V Series,5,Fair,128,4,71,7148
+Samsung,Galaxy S24,5,Good,256,8,65,16325
+Xiaomi,Xiaomi 13,3,Good,128,8,72,13106
+Samsung,Galaxy A,4,Fair,128,12,72,11661
+Samsung,Galaxy S23,3,Good,256,6,77,28621
+Oppo,Reno 8,2,Poor,1024,4,80,5293
+Samsung,Galaxy A,5,Good,128,8,83,12745
+Motorola,Edge 50,6,Good,128,8,70,3206
+Motorola,Moto G,4,Good,128,8,90,2909
+Apple,iPhone 12,5,Good,128,4,65,18193
+Samsung,Galaxy A,5,Fair,64,4,75,4864
+Oppo,Reno 8,2,Like New,512,12,77,27691
+Xiaomi,Xiaomi 11,0,Good,64,6,84,17405
+Apple,iPhone 12,2,Good,256,8,98,45159
+Vivo,Y Series,5,Fair,128,6,63,1500
+OnePlus,Nord,5,Good,128,6,55,9122
+Apple,iPhone 15,3,Poor,128,6,71,21400
+Vivo,V30,5,Fair,128,24,55,8046
+Apple,iPhone 15,0,Good,256,3,80,81335
+Xiaomi,Xiaomi 11,4,Fair,256,4,66,4013
+Vivo,V27,4,Poor,512,12,73,8271
+Xiaomi,Xiaomi 12,3,Good,128,4,60,10634
+Xiaomi,Xiaomi 12,5,Good,256,6,79,8788
+Google,Pixel 7a,3,Good,512,6,62,25022
+Samsung,Galaxy S21,3,Good,128,12,76,15974
+Xiaomi,Xiaomi 11,4,Like New,512,8,70,17367
+Vivo,Y Series,5,Fair,512,12,76,4144
+Apple,iPhone SE,1,Good,512,12,87,36517
+Vivo,V27,2,Good,256,8,90,14301
+Google,Pixel 8a,2,Like New,256,6,78,34291
+Xiaomi,Redmi Note,1,Fair,128,12,80,8884
+Samsung,Galaxy A,2,Good,256,16,84,25660
+Xiaomi,Redmi Note,2,Good,1024,12,89,14289
+Samsung,Galaxy S23,2,Good,128,4,87,25516
+OnePlus,OnePlus 9,2,Like New,256,12,83,27757
+Motorola,Edge 30,3,Good,256,12,78,6505
+Apple,iPhone SE,4,Poor,128,16,73,16655
+Google,Pixel 8a,2,Good,256,6,84,33715
+Xiaomi,Xiaomi 11,5,Fair,256,12,85,6529
+Samsung,Galaxy S23,3,Like New,256,12,75,28125
+OnePlus,OnePlus 11,5,Fair,512,16,66,2603
+OnePlus,Nord,0,Good,128,12,84,35488
+Motorola,Edge 50,1,Good,512,12,87,29616
+Vivo,V27,3,Good,256,8,60,10613
+Oppo,Reno 10,2,Like New,512,4,79,18945
+Samsung,Galaxy S21,3,Good,128,8,84,20281
+Apple,iPhone 15,1,Good,128,12,80,61637
+Apple,iPhone 15,3,Good,512,4,78,35989
+Xiaomi,Xiaomi 11,4,Poor,64,8,90,1500
+Samsung,Galaxy A,5,Good,128,24,72,21968
+Samsung,Galaxy S24,1,Fair,256,16,66,35023
+Oppo,Reno 11,2,Good,256,12,69,16407
+Oppo,Reno 10,3,Like New,512,12,75,12293
+Oppo,Reno 10,3,Good,256,4,70,9613
+OnePlus,OnePlus 9,5,Good,512,8,70,6985
+Xiaomi,Redmi Note,2,Good,128,8,78,8328
+Xiaomi,Xiaomi 13,4,Fair,256,12,82,11069
+Samsung,Galaxy S22,6,Fair,512,6,56,1991
+Xiaomi,Redmi Note Pro,2,Good,256,4,79,15288
+Xiaomi,Xiaomi 12,5,Good,64,12,71,10436
+Google,Pixel 6a,2,Good,128,8,83,26669
+Oppo,A Series,2,Good,256,12,82,12924
+Motorola,Moto G,4,Like New,256,8,55,6540
+Xiaomi,Xiaomi 11,4,Like New,256,12,73,14788
+Motorola,Edge 30,3,Good,256,8,75,3849
+Oppo,A Series,1,Like New,512,12,91,22353
+Xiaomi,Redmi Note Pro,0,Fair,128,12,94,12818
+OnePlus,OnePlus 9,6,Like New,256,6,67,10756
+Oppo,Reno 10,6,Like New,256,6,68,3664
+Motorola,Edge 40,6,Fair,128,16,76,5856
+Vivo,V30,3,Poor,128,6,86,2294
+Samsung,Galaxy S24,6,Good,256,12,67,6254
+Google,Pixel 7,3,Good,512,4,94,22136
+Vivo,V30,0,Fair,128,12,83,30551
+Xiaomi,Xiaomi 11,1,Like New,64,6,75,19622
+Vivo,Y Series,1,Good,128,8,84,16035
+Apple,iPhone 12,2,Like New,512,8,77,57125
+Apple,iPhone 14,6,Good,256,6,55,10661
+Oppo,Reno 11,2,Poor,128,8,75,10932
+OnePlus,OnePlus 9,4,Fair,512,16,76,10108
+Xiaomi,Redmi Note,1,Poor,128,12,84,6985
+Google,Pixel 6a,4,Fair,128,24,67,11257
+Google,Pixel 6a,3,Good,128,12,77,17090
+Vivo,V27,1,Fair,256,8,85,17584
+Apple,iPhone 13,3,Good,512,8,82,31808
+Oppo,Reno 8,0,Good,64,16,83,22497
+Vivo,V27,6,Good,256,8,72,4830
+Motorola,Edge 50,4,Good,256,8,64,9213
+Google,Pixel 8,6,Good,512,12,61,7459
+Samsung,Galaxy A,6,Good,512,16,79,13253
+Motorola,Edge 40,1,Like New,256,8,76,16944
+Google,Pixel 8a,4,Good,128,4,68,16421
+Samsung,Galaxy S23,0,Good,128,8,78,46811
+OnePlus,OnePlus 9,6,Good,512,12,59,11725
+Vivo,V Series,5,Good,256,8,70,10312
+OnePlus,OnePlus 12,4,Like New,256,12,78,13466
+Samsung,Galaxy A,6,Poor,512,8,65,8201
+Motorola,Edge 40,5,Good,512,6,66,11098
+Samsung,Galaxy A,6,Good,256,8,55,6464
+Vivo,V30,0,Like New,512,8,82,36391
+Oppo,A Series,0,Fair,64,12,76,16844
+Vivo,Y Series,6,Good,256,3,71,1500
+Vivo,V Series,1,Good,1024,12,91,23888
+Samsung,Galaxy S21,2,Good,64,6,80,21756
+Samsung,Galaxy S22,0,Fair,128,16,92,45866
+OnePlus,OnePlus 9,4,Poor,256,12,80,5418
+Google,Pixel 7,5,Good,256,6,70,10445
+Vivo,V27,5,Like New,64,16,80,3924
+Motorola,Edge 40,4,Like New,128,8,65,11253
+Motorola,Edge 50,4,Like New,128,8,70,5644
+Vivo,V Series,3,Fair,128,16,73,4454
+Motorola,Edge 40,3,Poor,512,16,82,1580
+Google,Pixel 8,3,Poor,256,12,65,16276
+Google,Pixel 6a,6,Fair,256,16,77,10310
+Xiaomi,Xiaomi 12,1,Like New,64,6,89,26090
+Apple,iPhone 15,3,Poor,128,6,91,14398
+Motorola,Edge 30,4,Good,128,3,72,5679
+Motorola,Moto G,3,Good,512,6,72,16143
+Motorola,Edge 30,0,Fair,512,8,93,20211
+Xiaomi,Redmi Note Pro,2,Like New,128,6,89,9220
+Oppo,Reno 10,4,Fair,1024,8,67,9063
+Vivo,V30,4,Poor,64,4,57,6633
+Xiaomi,Xiaomi 11,5,Fair,128,8,55,6594
+Google,Pixel 6a,6,Fair,256,12,67,5173
+Apple,iPhone 12,4,Good,128,4,85,21720
+Oppo,Reno 10,4,Like New,512,12,62,10143
+Vivo,V Series,2,Fair,128,12,78,9777
+Motorola,Edge 40,2,Good,256,8,78,8887
+Oppo,Reno 10,5,Fair,128,16,84,12112
+Oppo,Reno 8,3,Like New,128,16,95,12143
+Oppo,Reno 10,5,Good,128,3,72,5050
+Xiaomi,Redmi Note Pro,0,Good,512,12,95,21521
+Apple,iPhone SE,0,Fair,256,6,95,40799
+Apple,iPhone 12,1,Fair,256,8,74,50683
+Samsung,Galaxy S22,1,Poor,64,8,90,18486
+Google,Pixel 6a,4,Good,64,12,65,16570
+Motorola,Edge 50,4,Good,64,12,71,9470
+Google,Pixel 7a,3,Like New,512,12,86,24543
+Apple,iPhone SE,2,Good,128,12,81,23943
+Samsung,Galaxy S24,4,Good,128,8,82,23347
+Vivo,V30,0,Good,256,4,98,33083
+Vivo,Y Series,3,Good,256,3,63,3747
+Google,Pixel 6a,1,Good,128,8,67,34952
+Oppo,Reno 8,0,Good,64,12,97,22981
+Motorola,Edge 40,1,Fair,128,4,94,16072
+Vivo,V27,0,Good,256,8,90,20158
+Vivo,V Series,3,Good,128,6,80,9806
+Motorola,Edge 40,3,Fair,256,8,84,12422
+Google,Pixel 6a,4,Fair,64,8,80,10544
+Motorola,Edge 40,3,Fair,512,6,74,10850
+OnePlus,OnePlus 12,1,Good,512,3,92,34935
+OnePlus,OnePlus 10,0,Good,64,6,85,33656
+Xiaomi,Xiaomi 11,4,Fair,128,8,75,6681
+Xiaomi,Redmi Note Pro,6,Good,128,16,67,4277
+Xiaomi,Xiaomi 13,1,Good,512,6,77,29161
+Google,Pixel 6a,1,Poor,256,8,78,25186
+Google,Pixel 7,2,Like New,256,8,98,33496
+Apple,iPhone SE,1,Fair,128,8,77,30305
+Xiaomi,Xiaomi 13,1,Fair,64,6,87,10722
+Xiaomi,Xiaomi 11,3,Like New,256,4,81,10814
+Vivo,V30,5,Fair,256,16,69,1593
+Xiaomi,Xiaomi 12,4,Good,512,16,78,7570
+Google,Pixel 7a,6,Fair,512,8,68,4747
+Apple,iPhone 13,2,Fair,256,8,73,31477
+Samsung,Galaxy S21,3,Fair,256,3,81,14353
+OnePlus,OnePlus 10,2,Like New,512,4,76,25666
+Google,Pixel 8,0,Fair,512,4,100,49883
+OnePlus,OnePlus 12,2,Fair,512,12,84,20997
+Google,Pixel 7a,1,Good,1024,6,79,46853
+Oppo,Reno 11,3,Good,128,6,79,6841
+Samsung,Galaxy S24,1,Like New,256,3,77,53540
+OnePlus,OnePlus 10,5,Fair,256,3,71,1500
+Samsung,Galaxy S22,5,Like New,128,8,67,12567
+OnePlus,Nord,6,Good,256,8,59,3038
+Motorola,Edge 30,0,Fair,128,8,81,14893
+Apple,iPhone 15,0,Poor,128,8,100,50822
+OnePlus,Nord,6,Poor,128,8,66,2672
+Apple,iPhone 12,5,Good,256,12,66,16109
+Vivo,V27,4,Like New,256,6,68,11409
+Motorola,Moto G,2,Good,256,6,84,8276
+Samsung,Galaxy S24,3,Like New,128,12,71,28061
+Samsung,Galaxy S23,3,Fair,256,12,68,16130
+Apple,iPhone SE,5,Good,64,8,69,6824
+Google,Pixel 7,3,Good,128,6,76,15542
+Oppo,Reno 10,0,Like New,128,4,85,30882
+Xiaomi,Xiaomi 13,4,Good,512,3,66,8259
+Vivo,V30,5,Fair,128,12,66,2516
+OnePlus,OnePlus 12,2,Fair,256,8,77,22585
+OnePlus,Nord,0,Like New,512,4,83,45783
+Google,Pixel 8,0,Like New,128,4,90,55965
+Samsung,Galaxy A,5,Good,512,6,87,13399
+Vivo,Y Series,3,Like New,128,6,87,8516
+Samsung,Galaxy S23,3,Poor,128,8,92,14451
+Google,Pixel 7a,6,Good,64,8,61,3511
+Xiaomi,Xiaomi 12,0,Like New,256,16,100,40825
+Apple,iPhone 15,1,Fair,512,12,86,56543
+Google,Pixel 6a,5,Good,256,16,77,8390
+Google,Pixel 7a,3,Good,256,16,80,17486
+OnePlus,OnePlus 12,0,Good,128,16,85,44321
+Samsung,Galaxy S22,4,Like New,512,24,79,20559
+Apple,iPhone 13,0,Good,128,6,92,65416
+Apple,iPhone 13,5,Fair,128,6,55,10816
+Google,Pixel 8a,5,Fair,1024,6,68,14073
+Apple,iPhone SE,5,Good,128,8,76,8184
+Vivo,V30,3,Good,128,12,79,13442
+Samsung,Galaxy S24,1,Good,64,4,88,43891
+Motorola,Edge 50,6,Good,128,12,59,4063
+Motorola,Edge 30,3,Good,512,12,79,9270
+Google,Pixel 7a,4,Good,128,8,72,10939
+Vivo,V Series,0,Like New,512,8,86,33702
+Apple,iPhone 12,4,Poor,64,4,67,16759
+Samsung,Galaxy S24,4,Fair,256,8,80,12769
+OnePlus,OnePlus 10,2,Good,256,4,83,22134
+Samsung,Galaxy S23,5,Fair,256,8,71,5032
+OnePlus,Nord,0,Like New,256,6,100,43052
+OnePlus,OnePlus 11,5,Fair,256,6,73,8906
+Oppo,Reno 10,6,Good,256,8,75,1500
+OnePlus,OnePlus 12,3,Like New,512,8,79,22614
+Vivo,Y Series,0,Fair,128,8,85,16360
+Oppo,Reno 10,3,Good,128,16,68,12163
+Vivo,V27,3,Good,256,3,79,12928
+Apple,iPhone 13,3,Good,128,16,55,22799
+Vivo,Y Series,1,Like New,128,3,86,15651
+Xiaomi,Xiaomi 11,4,Like New,1024,6,75,9151
+Vivo,V Series,1,Good,128,24,82,23183
+OnePlus,OnePlus 11,3,Good,128,12,76,7914
+Vivo,Y Series,4,Like New,256,8,63,5979
+Xiaomi,Xiaomi 11,4,Good,64,12,84,7994
+Apple,iPhone 14,5,Good,64,8,66,18295
+Google,Pixel 6a,6,Good,64,12,57,7412
+Samsung,Galaxy S23,5,Fair,128,4,73,10388
+Vivo,V27,5,Good,128,12,70,7776
+OnePlus,Nord,6,Good,512,16,62,12616
+Samsung,Galaxy A,1,Good,128,12,80,36976
+Xiaomi,Xiaomi 13,2,Good,128,12,80,9648
+Google,Pixel 7,3,Like New,256,8,87,17124
+Apple,iPhone 15,3,Like New,128,8,80,36870
+Oppo,Reno 8,4,Fair,128,8,73,7924
+Oppo,Reno 8,0,Good,128,16,95,27721
+Motorola,Edge 30,0,Good,128,8,88,19289
+Xiaomi,Xiaomi 12,5,Good,128,8,72,7867
+Google,Pixel 6a,5,Good,64,12,70,10427
+Xiaomi,Xiaomi 11,2,Fair,512,4,85,15405
+Xiaomi,Redmi Note Pro,2,Fair,1024,12,77,7206
+Samsung,Galaxy A,3,Like New,512,12,67,21523
+Apple,iPhone 12,3,Fair,64,6,84,20310
+OnePlus,OnePlus 10,1,Good,256,3,96,25164
+Google,Pixel 8,3,Good,256,12,68,19162
+Samsung,Galaxy A,5,Fair,64,6,70,14364
+Apple,iPhone 15,5,Fair,512,24,65,10496
+Oppo,Reno 11,5,Good,256,3,76,8621
+OnePlus,OnePlus 11,4,Poor,128,6,75,9968
+Xiaomi,Xiaomi 13,6,Good,1024,4,92,9616
+Xiaomi,Xiaomi 11,1,Good,128,12,82,20227
+Motorola,Edge 50,0,Like New,128,8,100,32656
+Motorola,Edge 40,0,Good,128,12,100,28692
+OnePlus,OnePlus 10,6,Good,128,16,69,5934
+Oppo,A Series,4,Good,1024,8,73,9720
+OnePlus,OnePlus 10,1,Good,256,6,85,34598
+Oppo,Reno 11,5,Fair,128,4,69,2166
+Google,Pixel 8a,2,Good,256,16,89,33101
+Apple,iPhone 13,4,Fair,512,6,66,17051
+Oppo,A Series,1,Fair,512,16,83,16554
+Apple,iPhone 14,0,Fair,512,16,86,57238
+Oppo,A Series,1,Fair,512,8,70,18974
+Apple,iPhone SE,1,Fair,256,8,91,33229
+Samsung,Galaxy S22,3,Like New,128,16,85,26624
+Xiaomi,Xiaomi 13,0,Fair,512,12,83,16727
+Vivo,V Series,1,Poor,128,12,92,8262
+Google,Pixel 7a,3,Good,128,8,64,23193
+Apple,iPhone 12,2,Good,128,8,81,41577
+Samsung,Galaxy S22,4,Poor,128,8,72,3323
+Vivo,Y Series,4,Like New,256,16,74,8232
+Motorola,Edge 40,6,Good,512,8,66,7032
+Apple,iPhone 13,5,Like New,128,12,68,18571
+Google,Pixel 7,1,Good,256,3,81,33532
+OnePlus,OnePlus 9,4,Good,128,12,72,16006
+Samsung,Galaxy S23,4,Good,256,8,84,15863
+Oppo,A Series,4,Fair,64,12,68,6550
+Xiaomi,Redmi Note,5,Good,64,4,87,4461
+Samsung,Galaxy A,1,Good,256,16,79,42166
+Motorola,Edge 50,2,Fair,256,8,82,11590
+Google,Pixel 7,5,Fair,128,8,74,7545
+Apple,iPhone SE,6,Good,128,6,63,8178
+Google,Pixel 8a,0,Like New,64,6,99,49712
+Samsung,Galaxy A,3,Good,256,6,81,26135
+Samsung,Galaxy S21,1,Fair,128,4,83,28067
+Vivo,Y Series,1,Good,128,8,95,20079
+Motorola,Edge 40,0,Good,512,8,80,23048
+Samsung,Galaxy S23,3,Fair,256,8,72,22369
+Oppo,Reno 11,4,Fair,128,12,77,10739
+Xiaomi,Redmi Note Pro,3,Good,256,8,83,9236
+Oppo,Reno 8,2,Fair,128,4,83,12522
+Motorola,Edge 50,5,Fair,128,12,68,2516
+OnePlus,OnePlus 12,4,Fair,256,8,71,10706
+Xiaomi,Redmi Note,6,Fair,128,8,74,3535
+Xiaomi,Xiaomi 12,2,Fair,128,16,82,14205
+Motorola,Edge 50,1,Good,512,12,77,26912
+Samsung,Galaxy S22,3,Good,256,8,69,21572
+OnePlus,OnePlus 11,3,Fair,512,8,89,14584
+Samsung,Galaxy A,3,Good,512,12,71,20100
+OnePlus,Nord,5,Good,128,12,71,11372
+Samsung,Galaxy A,0,Like New,256,6,99,62663
+Apple,iPhone SE,3,Fair,128,8,81,19466
+Vivo,V30,3,Good,256,16,71,18385
+Apple,iPhone 14,1,Good,128,12,76,50148
+Vivo,V30,4,Good,64,4,88,11863
+Apple,iPhone 12,5,Good,64,8,61,17931
+Oppo,Reno 11,3,Poor,256,8,72,9967
+OnePlus,Nord,0,Fair,64,6,91,20568
+Xiaomi,Xiaomi 13,0,Good,256,12,86,24315
+OnePlus,Nord,2,Good,512,8,85,20930
+Google,Pixel 6a,4,Fair,256,6,61,16489
+Google,Pixel 6a,2,Good,128,6,79,21529
+Xiaomi,Xiaomi 12,2,Poor,128,12,86,7941
+Google,Pixel 7,6,Like New,512,16,71,10812
+Xiaomi,Xiaomi 11,0,Like New,256,12,83,25828
+Oppo,Reno 8,0,Good,128,16,80,28863
+Google,Pixel 8,1,Good,512,16,86,40912
+OnePlus,OnePlus 9,6,Good,128,8,55,2378
+Samsung,Galaxy A,3,Fair,128,4,87,18172
+OnePlus,OnePlus 9,1,Like New,64,12,85,23226
+Samsung,Galaxy S21,2,Good,128,8,75,32705
+Samsung,Galaxy S23,6,Fair,128,8,57,7495
+Vivo,V30,4,Fair,256,16,68,13091
+Apple,iPhone SE,1,Good,128,6,72,33850
+Google,Pixel 8,1,Good,256,16,88,44525
+Oppo,A Series,0,Good,512,8,82,19615
+Vivo,V27,5,Good,512,3,72,10514
+Samsung,Galaxy S21,0,Fair,64,16,92,40469
+Samsung,Galaxy S21,2,Good,256,12,88,40000
+OnePlus,OnePlus 10,2,Good,128,8,82,23861
+Xiaomi,Redmi Note Pro,4,Fair,256,8,82,3989
+Vivo,V30,4,Good,128,6,84,11069
+Samsung,Galaxy S24,5,Like New,256,6,71,18371
+Samsung,Galaxy S24,2,Good,128,3,83,36325
+OnePlus,OnePlus 10,2,Poor,256,4,76,17329
+Oppo,Reno 10,2,Fair,128,6,72,11587
+Apple,iPhone 13,0,Good,128,8,98,60421
+Google,Pixel 8,5,Fair,256,4,74,4469
+Apple,iPhone 13,3,Good,128,8,82,23261
+Samsung,Galaxy S22,3,Good,256,6,72,20941
+Vivo,V Series,6,Good,256,6,78,10595
+Apple,iPhone 12,1,Good,256,16,82,68697
+OnePlus,OnePlus 10,6,Good,256,24,59,10991
+Vivo,V27,4,Poor,256,12,68,9702
+Xiaomi,Xiaomi 11,1,Good,512,4,97,20235
+Apple,iPhone 15,4,Fair,64,12,64,12233
+Google,Pixel 8a,5,Fair,256,6,63,7338
+Vivo,V Series,2,Good,256,8,100,10033
+Google,Pixel 8a,2,Like New,128,16,88,29356
+Xiaomi,Redmi Note,5,Good,128,8,63,2537
+Xiaomi,Xiaomi 13,1,Like New,128,16,76,21346
+Motorola,Edge 30,0,Good,256,12,75,23626
+Samsung,Galaxy S22,4,Poor,128,6,74,6858
+Oppo,Reno 8,6,Fair,256,4,71,6347
+Vivo,V Series,3,Like New,256,12,89,11627
+Samsung,Galaxy S21,0,Good,256,8,73,53374
+Oppo,Reno 10,3,Like New,128,4,66,7836
+Oppo,A Series,1,Poor,256,4,83,12842
+Motorola,Edge 50,5,Good,256,16,91,7398
+OnePlus,OnePlus 12,4,Good,128,6,80,16381
+Google,Pixel 7a,2,Good,128,16,83,21502
+Oppo,Reno 10,4,Good,128,12,63,9261
+Samsung,Galaxy S23,4,Good,512,6,56,20262
+Oppo,A Series,4,Fair,128,8,73,1500
+Vivo,V27,2,Like New,64,12,80,18784
+Motorola,Moto G,3,Like New,128,8,74,2649
+OnePlus,OnePlus 11,0,Like New,64,4,85,35045
+Xiaomi,Redmi Note Pro,2,Good,128,6,74,16220
+Apple,iPhone 14,2,Poor,256,16,73,26460
+Vivo,V30,3,Good,128,12,88,8629
+OnePlus,OnePlus 9,6,Fair,512,8,58,5826
+Apple,iPhone 14,6,Good,64,6,63,14399
+Oppo,Reno 8,3,Fair,128,8,76,6615
+Motorola,Edge 30,4,Poor,256,12,78,3256
+Xiaomi,Xiaomi 11,0,Good,256,4,81,24930
+Apple,iPhone 15,3,Poor,512,24,84,25740
+Oppo,A Series,4,Good,128,12,68,1500
+Motorola,Edge 50,4,Fair,256,6,72,9351
+Oppo,Reno 11,6,Good,256,16,78,3625
+Oppo,Reno 10,3,Good,128,12,69,11531
+Samsung,Galaxy S23,6,Good,512,8,71,10366
+Samsung,Galaxy S21,6,Poor,128,4,73,7329
+Vivo,Y Series,4,Fair,64,16,75,4571
+Xiaomi,Xiaomi 11,0,Good,256,8,87,32712
+Google,Pixel 8a,2,Poor,256,12,97,23282
+OnePlus,OnePlus 9,5,Fair,512,6,69,5835
+Motorola,Edge 40,4,Good,512,6,74,12894
+Oppo,Reno 10,6,Like New,128,16,63,6591
+Apple,iPhone 14,5,Like New,256,8,70,18705
+Xiaomi,Redmi Note Pro,0,Like New,1024,4,96,28078
+Vivo,V Series,6,Like New,128,12,63,1560
+OnePlus,OnePlus 10,2,Poor,128,6,64,6588
+OnePlus,OnePlus 12,5,Good,512,16,73,13255
+Vivo,V30,3,Fair,64,16,68,7706
+Apple,iPhone 13,3,Good,512,4,83,38895
+Google,Pixel 8a,0,Good,128,8,88,48832
+Google,Pixel 7a,0,Good,512,24,96,56566
+Oppo,Reno 8,4,Good,256,16,65,10376
+Samsung,Galaxy A,3,Good,256,8,72,27661
+Google,Pixel 8,3,Good,256,12,74,20984
+Samsung,Galaxy S23,1,Good,64,8,72,27436
+Oppo,Reno 11,3,Fair,256,6,85,15397
+Motorola,Edge 40,0,Like New,512,8,75,27012
+Google,Pixel 6a,1,Good,512,6,93,42570
+Google,Pixel 7a,3,Good,1024,6,80,27040
+Samsung,Galaxy S23,4,Good,256,8,71,21305
+Vivo,V Series,4,Fair,256,12,76,6471
+Motorola,Edge 30,6,Like New,256,6,68,2295
+OnePlus,OnePlus 12,5,Poor,256,6,66,1500
+Google,Pixel 8,2,Fair,256,3,83,21695
+Motorola,Edge 40,5,Good,64,4,75,4759
+Motorola,Edge 30,0,Good,64,16,80,17013
+Google,Pixel 7,6,Like New,256,8,68,5484
+OnePlus,OnePlus 10,2,Fair,128,6,59,16095
+Motorola,Edge 50,5,Good,128,16,55,10746
+Motorola,Edge 40,6,Like New,128,3,70,3829
+Xiaomi,Xiaomi 12,4,Good,512,8,69,7366
+Apple,iPhone SE,6,Like New,1024,12,58,16018
+Google,Pixel 8a,0,Good,256,12,88,55108
+Xiaomi,Redmi Note Pro,1,Good,512,6,81,21203
+Vivo,V30,4,Like New,512,12,65,11906
+Xiaomi,Xiaomi 11,3,Fair,128,8,63,8854
+OnePlus,OnePlus 12,0,Good,128,12,72,48018
+Xiaomi,Xiaomi 13,5,Good,128,6,75,1500
+Samsung,Galaxy S23,0,Good,64,12,85,42292
+Apple,iPhone 15,6,Poor,256,8,73,7650
+Motorola,Edge 40,1,Good,128,12,81,15762
+Vivo,V30,3,Fair,512,16,79,22743
+Oppo,A Series,5,Good,256,12,68,2171
+Xiaomi,Redmi Note,3,Fair,128,12,77,1916
+Apple,iPhone 13,5,Good,1024,6,70,16255
+Vivo,V30,4,Fair,512,4,69,10123
+Google,Pixel 8,6,Like New,256,8,55,12511
+OnePlus,OnePlus 10,3,Poor,256,3,83,7211
+Vivo,V27,6,Poor,1024,12,78,3857
+Motorola,Edge 40,3,Good,256,12,90,17378
+Motorola,Edge 50,6,Good,512,8,61,5541
+OnePlus,OnePlus 12,5,Good,64,6,63,10274
+Vivo,Y Series,0,Good,256,16,84,27859
+Google,Pixel 7a,4,Fair,256,8,71,10117
+Xiaomi,Redmi Note Pro,6,Fair,64,8,65,1500
+Oppo,Reno 11,0,Good,64,8,80,22296
+Motorola,Edge 40,5,Like New,64,4,57,2822
+Samsung,Galaxy S24,0,Fair,128,12,88,43431
+OnePlus,OnePlus 10,6,Like New,64,4,55,6579
+OnePlus,OnePlus 11,5,Good,128,8,68,9623
+Vivo,Y Series,1,Like New,512,6,77,17134
+Motorola,Edge 50,5,Like New,256,6,75,8091
+OnePlus,Nord,0,Like New,256,6,96,44947
+Motorola,Edge 30,3,Good,64,3,85,3345
+Motorola,Edge 50,6,Good,512,16,62,6633
+Google,Pixel 8a,1,Good,128,12,75,40563
+Google,Pixel 7a,1,Fair,128,3,78,19599
+Vivo,V Series,2,Fair,256,4,83,18119
+Xiaomi,Redmi Note,2,Like New,512,12,67,8795
+Samsung,Galaxy S24,0,Like New,1024,3,99,77694
+Motorola,Moto G,3,Good,256,8,74,7858
+Xiaomi,Redmi Note,1,Good,256,4,88,16521
+Xiaomi,Xiaomi 11,0,Good,256,8,74,29463
+Motorola,Moto G,1,Good,256,24,77,15137
+Vivo,Y Series,0,Fair,128,6,73,12830
+OnePlus,OnePlus 11,6,Like New,128,16,73,8013
+Google,Pixel 8,6,Good,1024,16,64,11420
+Samsung,Galaxy S21,2,Like New,1024,24,85,43450
+Motorola,Edge 50,6,Good,128,12,66,4911
+Google,Pixel 8,3,Good,128,12,80,20830
+OnePlus,OnePlus 9,6,Fair,128,8,63,4234
+Motorola,Edge 40,1,Like New,128,16,83,11413
+Google,Pixel 7a,1,Good,128,4,83,34506
+Google,Pixel 8a,5,Like New,256,12,72,16221
+Google,Pixel 6a,1,Fair,64,8,88,16409
+OnePlus,OnePlus 9,5,Like New,64,4,91,11610
+Samsung,Galaxy S21,2,Like New,128,6,94,31302
+Oppo,Reno 8,2,Fair,256,6,66,9875
+Apple,iPhone 15,3,Like New,128,8,75,30501
+OnePlus,OnePlus 11,5,Good,128,6,66,6279
+Motorola,Edge 40,0,Fair,256,6,98,16198
+Samsung,Galaxy S22,5,Fair,256,6,66,7934
+Motorola,Edge 50,5,Fair,128,8,73,10985
+Motorola,Edge 30,5,Good,256,4,55,6554
+Motorola,Moto G,6,Good,128,6,55,9796
+OnePlus,Nord,5,Fair,256,6,86,9055
+Apple,iPhone 12,3,Like New,128,8,77,36300
+Vivo,V27,3,Fair,512,3,69,7144
+OnePlus,OnePlus 10,2,Like New,1024,24,82,30474
+Oppo,Reno 8,5,Fair,256,6,61,5410
+Samsung,Galaxy S22,2,Good,512,6,78,35735
+Samsung,Galaxy S24,4,Good,128,8,61,18302
+Oppo,Reno 11,0,Good,256,12,82,31246
+Vivo,Y Series,2,Good,128,8,77,11687
+Oppo,A Series,1,Good,128,6,93,13775
+Oppo,A Series,3,Fair,256,8,80,6163
+Samsung,Galaxy S24,3,Good,256,8,82,25954
+Vivo,V Series,5,Good,256,8,69,10735
+Motorola,Edge 50,3,Good,512,24,83,12762
+Samsung,Galaxy S23,1,Fair,256,24,77,36612
+Samsung,Galaxy S22,3,Good,512,8,71,24858
+Oppo,Reno 8,0,Good,512,4,91,35414
+OnePlus,OnePlus 9,5,Poor,512,8,67,1500
+Oppo,A Series,5,Good,128,16,69,5941
+Samsung,Galaxy S22,1,Good,256,16,83,38689
+OnePlus,OnePlus 9,1,Poor,256,6,94,19253
+OnePlus,OnePlus 9,0,Good,1024,6,98,47926
+OnePlus,Nord,2,Poor,64,4,75,5191
+Motorola,Edge 50,0,Fair,128,12,74,21493
+Vivo,V30,6,Good,128,8,60,6310
+Vivo,V Series,0,Good,128,6,81,24535
+Motorola,Edge 40,4,Like New,512,6,79,8516
+Samsung,Galaxy S24,3,Good,64,6,84,23500
+Vivo,V27,1,Like New,128,16,76,25685
+Xiaomi,Xiaomi 12,5,Like New,256,8,63,7286
+Xiaomi,Xiaomi 11,0,Good,128,6,76,27631
+Motorola,Edge 40,6,Fair,128,12,66,3115
+Oppo,Reno 10,5,Like New,256,8,69,12316
+Vivo,V27,4,Fair,256,12,79,7033
+Xiaomi,Xiaomi 12,6,Poor,1024,12,69,1864
+Xiaomi,Xiaomi 11,2,Fair,256,4,85,8740
+Motorola,Moto G,1,Fair,1024,3,72,11225
+OnePlus,OnePlus 12,1,Fair,128,4,79,22774
+OnePlus,OnePlus 12,6,Good,256,12,73,13960
+Motorola,Moto G,2,Good,256,16,76,6742
+Apple,iPhone 12,5,Poor,256,6,56,8467
+OnePlus,OnePlus 12,2,Fair,128,12,87,23002
+Motorola,Edge 30,6,Fair,128,12,61,7352
+Vivo,V30,6,Poor,64,16,74,5660
+Xiaomi,Xiaomi 12,2,Good,512,8,80,23907
+Google,Pixel 8a,3,Good,512,6,74,25493
+Google,Pixel 6a,5,Good,128,12,80,10830
+Motorola,Edge 30,1,Like New,256,12,74,25994
+Xiaomi,Xiaomi 11,0,Good,256,12,99,35029
+Apple,iPhone 15,2,Fair,256,16,75,41274
+Xiaomi,Redmi Note Pro,4,Good,128,8,74,9713
+Google,Pixel 7,0,Good,512,12,89,56595
+Motorola,Moto G,2,Fair,256,6,77,3444
+Vivo,V30,6,Like New,256,8,59,6407
+Vivo,V30,0,Fair,256,6,85,32497
+Xiaomi,Redmi Note,0,Like New,256,4,80,22909
+OnePlus,OnePlus 9,2,Fair,128,3,96,16713
+Google,Pixel 7,0,Good,512,12,84,58182
+Samsung,Galaxy S24,0,Good,128,16,97,64324
+Vivo,V Series,1,Good,512,6,92,26426
+Oppo,Reno 8,0,Good,512,8,91,34155
+Oppo,Reno 8,5,Good,256,3,68,8723
+OnePlus,OnePlus 10,0,Fair,256,8,90,35563
+OnePlus,OnePlus 9,3,Fair,64,6,81,16104
+Oppo,A Series,4,Like New,128,8,74,11797
+Xiaomi,Xiaomi 13,4,Fair,256,16,60,5709
+Motorola,Edge 30,4,Fair,64,8,58,6092
+Google,Pixel 7,2,Fair,64,12,92,23632
+Google,Pixel 8,6,Good,1024,12,55,11587
+Motorola,Edge 40,0,Like New,128,4,90,17774
+Oppo,A Series,0,Poor,128,6,86,7939
+OnePlus,Nord,5,Good,128,4,70,5662
+Oppo,A Series,0,Good,256,8,79,19408
+Samsung,Galaxy S23,1,Fair,128,16,87,29839
+Google,Pixel 8,1,Good,256,8,86,46440
+Vivo,V30,0,Fair,256,8,100,27769
+Vivo,V27,0,Like New,64,6,89,29565
+Vivo,V Series,4,Fair,128,6,84,3032
+OnePlus,OnePlus 10,4,Poor,64,16,61,4945
+Oppo,Reno 10,0,Poor,512,6,96,19378
+Vivo,V Series,6,Fair,64,12,67,6432
+Vivo,V30,0,Fair,128,4,90,28583
+Apple,iPhone 15,4,Good,128,4,75,21266
+Motorola,Edge 50,5,Poor,128,6,83,7079
+Vivo,V30,3,Fair,256,16,79,6485
+Oppo,Reno 8,3,Good,128,6,70,14254
+Samsung,Galaxy A,0,Good,512,12,83,56278
+Oppo,Reno 8,1,Like New,64,6,91,21488
+Apple,iPhone 14,5,Good,256,8,73,20857
+Google,Pixel 8,2,Fair,256,8,68,28557
+Motorola,Edge 30,0,Good,128,8,92,15823
+Google,Pixel 7,5,Good,256,6,60,9566
+Motorola,Edge 30,4,Good,512,6,76,10668
+Samsung,Galaxy S24,0,Like New,256,16,82,74461
+Xiaomi,Redmi Note,0,Poor,512,8,86,13539
+Motorola,Edge 30,0,Good,256,6,84,15189
+Motorola,Moto G,0,Like New,128,8,100,21300
+OnePlus,OnePlus 12,4,Like New,512,4,76,22403
+OnePlus,OnePlus 10,0,Fair,128,8,98,31577
+OnePlus,Nord,4,Fair,256,8,96,12121
+Google,Pixel 7,1,Like New,256,4,85,39498
+Xiaomi,Redmi Note,6,Like New,512,8,77,9518
+OnePlus,OnePlus 10,5,Good,512,8,63,11369
+Google,Pixel 8a,2,Good,64,16,90,27186
+OnePlus,OnePlus 10,3,Fair,256,12,70,15538
+Samsung,Galaxy S24,0,Like New,128,8,88,64242
+Motorola,Edge 40,0,Good,256,12,92,24202
+Oppo,Reno 11,3,Good,256,6,82,6544
+OnePlus,OnePlus 9,0,Good,128,8,78,37740
+Oppo,Reno 11,4,Good,512,3,66,13849
+Xiaomi,Redmi Note Pro,2,Like New,128,4,85,14418
+Samsung,Galaxy S22,0,Good,256,8,85,58383
+OnePlus,OnePlus 11,3,Like New,1024,6,65,20875
+Apple,iPhone 12,3,Like New,256,12,76,38879
+Apple,iPhone 12,5,Poor,256,8,68,15585
+OnePlus,Nord,1,Good,64,4,86,27240
+Google,Pixel 6a,3,Good,128,8,81,24018
+Oppo,Reno 10,5,Like New,64,8,73,4080
+Samsung,Galaxy S24,1,Fair,128,12,78,34500
+Oppo,A Series,5,Fair,128,12,66,2750
+Samsung,Galaxy S22,5,Fair,256,6,76,7716
+Samsung,Galaxy S24,3,Good,256,12,72,23494
+Motorola,Edge 50,6,Fair,128,8,62,5353
+Oppo,A Series,6,Good,256,3,55,5007
+Xiaomi,Xiaomi 11,1,Fair,512,8,84,19528
+Apple,iPhone SE,6,Fair,128,6,68,7943
+Apple,iPhone 12,0,Like New,256,4,72,76652
+Google,Pixel 7,0,Good,64,6,79,36136
+Google,Pixel 8,0,Good,256,12,77,55151
+Vivo,Y Series,2,Like New,256,16,87,13527
+OnePlus,OnePlus 9,6,Fair,64,16,55,1500
+Samsung,Galaxy S21,4,Like New,128,6,72,13924
+Vivo,V Series,4,Fair,512,8,79,6871
+Samsung,Galaxy S23,0,Poor,128,12,90,33712
+Apple,iPhone 12,3,Good,256,6,73,34951
+Google,Pixel 7,2,Good,256,8,83,30952
+Google,Pixel 7a,3,Good,128,6,85,18308
+Xiaomi,Xiaomi 12,1,Fair,256,8,83,20141
+Vivo,Y Series,1,Good,256,8,66,16617
+Vivo,V30,6,Good,64,6,74,4471
+OnePlus,OnePlus 12,3,Good,512,3,80,19142
+Vivo,V27,2,Poor,128,12,80,3555
+Motorola,Edge 40,0,Good,256,8,72,20413
+Apple,iPhone 14,5,Good,128,6,67,17828
+Vivo,V Series,3,Poor,128,6,70,10679
+Samsung,Galaxy S21,2,Like New,256,16,71,31547
+Xiaomi,Redmi Note Pro,4,Like New,256,8,72,1500
+Oppo,A Series,0,Good,128,8,84,22597
+Samsung,Galaxy S24,3,Like New,256,8,73,30082
+OnePlus,OnePlus 9,6,Good,256,16,71,3018
+Google,Pixel 7,3,Good,128,6,79,7557
+Vivo,V30,0,Good,256,6,84,29783
+Samsung,Galaxy S22,1,Good,256,8,79,39569
+Motorola,Edge 40,0,Good,256,12,84,19677
+Google,Pixel 7,3,Good,256,4,75,22080
+Apple,iPhone 12,2,Good,256,6,85,43379
+Motorola,Edge 40,0,Fair,512,6,80,20310
+Oppo,Reno 8,4,Fair,512,8,84,17131
+Xiaomi,Redmi Note,1,Fair,128,8,89,11757
+Samsung,Galaxy S24,2,Fair,128,8,58,25606
+Samsung,Galaxy S22,6,Fair,512,6,66,8566
+Google,Pixel 8,0,Like New,512,12,96,71866
+Xiaomi,Redmi Note Pro,1,Poor,128,3,87,9496
+Xiaomi,Xiaomi 11,2,Fair,128,12,77,8332
+Samsung,Galaxy S23,3,Good,128,6,76,19706
+Xiaomi,Xiaomi 13,1,Like New,512,16,86,23242
+OnePlus,OnePlus 9,6,Good,512,8,71,7161
+Motorola,Edge 40,0,Good,512,8,77,31275
+Oppo,Reno 11,6,Fair,128,4,60,6004
+Motorola,Edge 40,3,Good,512,6,90,10856
+Apple,iPhone SE,0,Like New,64,12,88,49384
+Vivo,Y Series,0,Good,128,8,100,20100
+Apple,iPhone 12,0,Fair,128,12,100,58448
+Vivo,Y Series,2,Like New,256,8,76,18363
+Apple,iPhone 14,2,Fair,256,8,71,30862
+Xiaomi,Xiaomi 13,4,Good,128,12,71,1500
+Apple,iPhone 13,2,Good,128,8,89,30913
+Apple,iPhone 13,5,Good,512,16,79,23342
+Motorola,Edge 50,2,Good,64,8,99,7919
+Motorola,Edge 30,1,Good,128,6,84,20540
+Apple,iPhone 13,1,Fair,128,12,88,40381
+Vivo,V27,2,Like New,128,3,75,17507
+OnePlus,OnePlus 9,5,Good,128,6,55,7528
+OnePlus,Nord,1,Fair,256,4,84,25964
+OnePlus,OnePlus 10,1,Fair,128,8,75,23309
+Google,Pixel 8a,6,Good,128,8,70,9330
+Samsung,Galaxy A,4,Fair,512,3,58,10793
+Google,Pixel 7,1,Like New,64,6,78,32213
+Samsung,Galaxy S21,6,Like New,256,6,67,4404
+Apple,iPhone 15,1,Good,128,6,87,58839
+OnePlus,OnePlus 10,1,Fair,512,4,84,27016
+Motorola,Edge 40,3,Fair,64,6,92,8508
+Oppo,Reno 10,4,Good,256,12,85,1500
+OnePlus,OnePlus 9,1,Good,256,12,79,26776
+OnePlus,OnePlus 11,5,Fair,256,6,82,6409
+Oppo,A Series,1,Good,512,6,98,20386
+Motorola,Moto G,5,Good,64,4,68,1500
+Oppo,Reno 11,0,Good,128,6,88,35683
+Vivo,V27,3,Good,512,8,76,12448
+Oppo,A Series,4,Good,512,16,68,4129
+Vivo,V Series,1,Good,128,12,80,19239
+Google,Pixel 6a,4,Fair,256,8,83,9638
+Google,Pixel 8,4,Good,256,4,76,13531
+OnePlus,OnePlus 11,4,Like New,256,8,68,17395
+Samsung,Galaxy S21,2,Like New,512,16,73,39365
+Motorola,Edge 30,5,Like New,512,4,63,8137
+Motorola,Moto G,5,Good,128,12,68,8239
+Oppo,Reno 8,2,Good,256,6,88,18709
+Samsung,Galaxy S21,5,Like New,128,12,62,9415
+Google,Pixel 7,6,Good,64,6,72,9633
+Samsung,Galaxy S22,5,Like New,512,8,71,11905
+Vivo,V30,5,Good,256,6,70,6427
+OnePlus,OnePlus 11,5,Like New,64,8,77,8667
+Samsung,Galaxy S21,5,Good,256,8,76,13118
+Xiaomi,Xiaomi 13,2,Fair,128,8,69,5091
+Vivo,Y Series,5,Fair,64,12,60,1500
+Vivo,V30,1,Good,256,4,82,24467
+Apple,iPhone 12,2,Fair,256,12,83,36908
+OnePlus,OnePlus 10,6,Fair,256,4,76,9933
+Samsung,Galaxy S21,1,Like New,64,12,85,42271
+OnePlus,OnePlus 11,5,Good,256,4,83,5872
+Xiaomi,Redmi Note Pro,2,Fair,64,8,75,7690
+OnePlus,OnePlus 12,1,Good,512,8,80,44389
+Apple,iPhone SE,0,Good,128,16,86,46273
+Xiaomi,Xiaomi 11,3,Good,512,8,70,11244
+Apple,iPhone SE,3,Like New,64,4,86,21606
+Samsung,Galaxy S24,3,Poor,64,12,55,11774
+Apple,iPhone 13,0,Like New,128,6,84,70861
+Apple,iPhone 14,1,Like New,256,6,93,54741
+Google,Pixel 8a,0,Like New,512,8,86,64748
+Oppo,Reno 10,2,Good,256,12,89,20421
+Oppo,A Series,6,Fair,128,16,83,3509
+Apple,iPhone 12,1,Fair,64,16,85,43235
+Apple,iPhone 12,4,Fair,256,6,82,15040
+OnePlus,OnePlus 12,0,Good,128,4,100,42034
+Motorola,Edge 50,3,Good,512,12,80,16281
+Motorola,Edge 30,6,Good,128,6,65,1500
+Oppo,Reno 11,2,Like New,256,8,88,21089
+OnePlus,OnePlus 9,1,Fair,512,16,94,29909
+Samsung,Galaxy S23,3,Good,64,6,76,18332
+Apple,iPhone 12,1,Good,128,8,80,60130
+Samsung,Galaxy S21,6,Good,512,16,79,10602
+Apple,iPhone 12,5,Fair,128,8,67,13686
+Oppo,Reno 8,4,Good,256,16,82,9418
+OnePlus,OnePlus 9,4,Fair,512,8,75,11977
+Oppo,A Series,4,Fair,128,6,87,7943
+Xiaomi,Redmi Note Pro,5,Fair,512,12,62,1500
+Xiaomi,Redmi Note,3,Like New,128,12,70,11416
+Google,Pixel 8a,6,Like New,256,16,72,11939
+Oppo,Reno 8,2,Good,128,8,71,16939
+Apple,iPhone SE,0,Fair,256,8,89,49424
+Apple,iPhone 13,4,Poor,64,6,85,8946
+Google,Pixel 8a,4,Good,64,6,59,9815
+Google,Pixel 7,6,Good,128,24,68,9099
+Xiaomi,Xiaomi 13,2,Good,128,16,90,16387
+Motorola,Edge 40,2,Good,256,8,80,16330
+Xiaomi,Xiaomi 12,3,Good,64,16,69,9689
+OnePlus,OnePlus 9,2,Good,128,8,78,17836
+OnePlus,Nord,5,Fair,128,12,62,1931
+Oppo,Reno 8,2,Good,128,8,81,10618
+Samsung,Galaxy S24,5,Good,128,12,67,13111
+Xiaomi,Xiaomi 12,2,Like New,128,12,76,17950
+Xiaomi,Xiaomi 12,1,Good,256,8,88,32107
+Oppo,Reno 11,6,Fair,256,12,78,1500
+Motorola,Edge 30,3,Good,256,8,79,11239
+Google,Pixel 7,4,Like New,128,12,84,13343
+OnePlus,OnePlus 12,4,Like New,512,6,85,19170
+OnePlus,OnePlus 10,2,Like New,256,6,76,22218
+Google,Pixel 7,6,Good,256,12,67,12555
+Samsung,Galaxy S21,2,Good,128,12,77,32490
+Motorola,Edge 50,6,Good,128,16,55,4199
+Samsung,Galaxy A,3,Good,128,6,79,26351
+Motorola,Moto G,0,Like New,128,4,80,18343
+Oppo,Reno 10,0,Good,256,8,92,35058
+Vivo,Y Series,6,Like New,128,16,55,3565
+Apple,iPhone SE,3,Fair,128,16,78,19808
+Oppo,Reno 11,2,Like New,128,12,68,13709
+Apple,iPhone 13,5,Good,128,8,74,12366
+OnePlus,OnePlus 11,4,Like New,128,16,70,20738
+Samsung,Galaxy S22,4,Fair,64,6,69,7839
+Samsung,Galaxy A,4,Like New,256,16,82,18845
+Samsung,Galaxy A,1,Fair,128,8,82,24305
+Apple,iPhone 14,0,Like New,256,8,89,72136
+Oppo,A Series,5,Fair,512,8,67,1500
+Apple,iPhone 13,0,Good,512,12,92,75659
+Google,Pixel 7,5,Good,256,6,77,12707
+Motorola,Edge 30,0,Good,128,4,95,22858
+Vivo,V30,1,Good,256,12,80,22297
+Oppo,Reno 10,4,Fair,512,16,82,6322
+Samsung,Galaxy S23,4,Fair,128,8,65,16773
+Vivo,V Series,5,Like New,64,4,63,11796
+Motorola,Edge 30,4,Good,256,8,72,11904
+Samsung,Galaxy S23,0,Good,64,4,96,38948
+Google,Pixel 6a,5,Like New,256,6,60,16185
+Vivo,Y Series,1,Good,64,3,91,18842
+Google,Pixel 8,0,Good,64,8,88,40420
+Samsung,Galaxy S23,6,Good,256,6,62,13620
+Vivo,Y Series,1,Fair,256,4,93,13423
+Vivo,V30,3,Fair,256,6,70,10355
+Vivo,V27,3,Fair,512,8,95,11889
+Vivo,Y Series,5,Like New,512,6,68,7343
+Oppo,Reno 11,0,Fair,128,4,89,25599
+Google,Pixel 8a,0,Good,1024,8,100,72901
+Samsung,Galaxy S22,2,Good,128,12,82,23997
+Xiaomi,Redmi Note Pro,3,Like New,128,12,86,6469
+Samsung,Galaxy S21,5,Fair,512,8,55,11842
+Google,Pixel 7a,4,Good,128,12,69,19636
+Motorola,Moto G,1,Fair,512,12,87,2149
+Vivo,V Series,6,Good,64,12,74,2330
+OnePlus,Nord,3,Fair,64,8,83,6440
+OnePlus,Nord,6,Fair,64,4,71,1500
+Motorola,Edge 30,6,Fair,256,6,74,6974
+Apple,iPhone 14,0,Good,512,6,92,73468
+Xiaomi,Xiaomi 13,3,Good,128,8,59,2076
+Motorola,Moto G,2,Fair,64,16,92,6294
+Xiaomi,Redmi Note Pro,3,Good,128,6,70,14616
+Google,Pixel 7a,2,Good,128,8,83,18564
+Oppo,Reno 10,3,Fair,256,24,78,12923
+OnePlus,OnePlus 12,3,Good,256,8,77,25894
+Motorola,Edge 40,1,Fair,64,6,75,11227
+Google,Pixel 7a,2,Good,128,16,65,31296
+Apple,iPhone SE,1,Fair,256,6,76,27410
+Xiaomi,Redmi Note,5,Like New,128,4,76,9711
+Apple,iPhone SE,4,Good,128,8,61,18326
+Vivo,V27,2,Fair,256,6,73,12813
+Xiaomi,Redmi Note Pro,2,Good,128,12,84,5387
+OnePlus,OnePlus 9,0,Good,64,6,80,28512
+Google,Pixel 8,2,Good,128,12,76,21216
+Xiaomi,Xiaomi 13,6,Good,256,3,66,6873
+OnePlus,OnePlus 10,0,Good,128,16,90,40007
+OnePlus,OnePlus 12,1,Like New,512,4,76,40340
+Google,Pixel 8,5,Fair,128,16,70,10140
+OnePlus,OnePlus 11,3,Good,128,4,80,20044
+Oppo,Reno 11,0,Good,256,16,78,31167
+Apple,iPhone SE,3,Good,128,12,78,17870
+Oppo,Reno 11,5,Like New,128,8,63,7473
+OnePlus,OnePlus 12,2,Like New,64,3,81,29957
+Xiaomi,Xiaomi 13,2,Poor,256,8,86,11423
+Samsung,Galaxy S22,4,Fair,128,8,71,11830
+Google,Pixel 8,4,Like New,512,8,80,21655
+Oppo,Reno 11,6,Fair,128,8,72,5737
+OnePlus,OnePlus 12,1,Good,128,16,91,33004
+Samsung,Galaxy S24,1,Like New,128,24,87,49647
+Xiaomi,Xiaomi 13,1,Fair,128,8,93,15880
+Samsung,Galaxy S21,4,Good,512,4,76,24201
+OnePlus,OnePlus 11,3,Good,64,4,63,15916
+Google,Pixel 7a,2,Fair,512,12,74,22970
+Xiaomi,Xiaomi 13,4,Good,64,24,71,10684
+Motorola,Edge 50,2,Good,256,8,80,15699
+Motorola,Edge 50,1,Good,64,4,87,17784
+Oppo,Reno 10,3,Fair,256,8,70,11143
+Apple,iPhone 13,3,Fair,128,8,93,15602
+OnePlus,Nord,2,Fair,256,24,80,9185
+Apple,iPhone 14,3,Good,512,12,77,33725
+Apple,iPhone 13,6,Fair,256,4,60,6827
+Samsung,Galaxy S22,1,Good,128,6,76,30872
+Xiaomi,Xiaomi 12,1,Good,256,4,83,20822
+Vivo,V30,3,Like New,128,8,77,17472
+Oppo,A Series,0,Fair,64,12,87,15942
+Motorola,Edge 30,1,Good,128,4,97,18715
+Oppo,Reno 10,3,Good,512,6,76,15249
+Samsung,Galaxy S24,3,Good,128,16,76,22990
+Oppo,Reno 11,4,Like New,256,12,79,13448
+Vivo,V30,0,Poor,256,8,87,21716
+Apple,iPhone 15,5,Fair,128,8,73,14459
+Google,Pixel 8a,3,Good,128,24,66,22717
+Oppo,Reno 10,1,Fair,256,12,74,21088
+Google,Pixel 7,2,Good,128,16,81,23001
+Oppo,Reno 10,1,Fair,128,4,82,19889
+Vivo,V27,3,Like New,128,6,70,13646
+Google,Pixel 6a,3,Good,512,3,78,21299
+Apple,iPhone 14,3,Good,128,16,78,33267
+OnePlus,OnePlus 10,3,Good,128,12,71,11258
+Samsung,Galaxy S24,6,Good,128,6,61,8906
+Google,Pixel 7,6,Like New,64,16,67,5616
+Xiaomi,Xiaomi 13,3,Poor,1024,16,68,9448
+Google,Pixel 7a,6,Like New,256,6,60,13275
+Samsung,Galaxy S22,5,Like New,256,8,73,11166
+OnePlus,OnePlus 11,5,Good,256,8,69,21346
+Motorola,Edge 40,1,Good,128,3,80,12778
+Apple,iPhone 15,3,Like New,256,12,69,38917
+Samsung,Galaxy A,2,Good,1024,6,72,35794
+Vivo,V27,0,Fair,256,16,87,24549
+Apple,iPhone 15,0,Like New,256,12,100,90212
+Google,Pixel 7,4,Poor,128,16,77,12230
+Samsung,Galaxy S21,2,Good,512,12,70,31033
+Apple,iPhone 13,5,Good,64,6,75,7513
+Google,Pixel 8,4,Like New,256,8,67,15383
+Xiaomi,Xiaomi 13,0,Fair,128,12,88,26162
+Samsung,Galaxy S23,5,Fair,256,6,64,15042
+Apple,iPhone 14,3,Like New,512,12,93,30051
+Samsung,Galaxy S22,3,Like New,256,6,68,27434
+Motorola,Edge 40,6,Good,64,6,68,1500
+Oppo,A Series,4,Like New,256,8,67,7236
+Samsung,Galaxy S22,0,Poor,512,12,94,32152
+OnePlus,Nord,1,Good,256,8,87,33853
+OnePlus,Nord,2,Good,512,8,90,27621
+OnePlus,OnePlus 12,0,Poor,512,8,94,34169
+Samsung,Galaxy S24,1,Fair,512,12,79,43335
+Apple,iPhone 13,5,Fair,128,8,92,12574
+Xiaomi,Redmi Note,0,Good,128,8,92,13098
+OnePlus,Nord,1,Good,512,8,80,29317
+OnePlus,Nord,3,Good,512,8,78,22236
+OnePlus,OnePlus 11,0,Good,128,4,93,37314
+Vivo,Y Series,1,Good,128,8,89,14733
+Xiaomi,Redmi Note Pro,6,Like New,128,6,69,7959
+Google,Pixel 8a,4,Good,256,16,81,14660
+Samsung,Galaxy S24,6,Good,512,12,72,15986
+Oppo,Reno 11,2,Good,256,8,74,12507
+Vivo,V Series,4,Like New,64,12,90,13884
+Apple,iPhone 13,1,Good,128,12,100,52317
+Vivo,Y Series,2,Good,512,4,87,15956
+Motorola,Edge 50,1,Fair,128,12,85,13435
+Apple,iPhone SE,5,Fair,64,24,69,16164
+Oppo,Reno 10,1,Good,128,4,82,26606
+Apple,iPhone 13,1,Like New,512,6,83,61917
+Apple,iPhone 14,3,Good,128,8,59,29722
+Apple,iPhone 13,3,Like New,128,8,89,28912
+Google,Pixel 6a,2,Good,128,8,90,20903
+Xiaomi,Xiaomi 12,2,Poor,512,8,67,14101
+Google,Pixel 8,2,Good,128,12,88,27142
+Apple,iPhone 13,6,Good,128,4,65,15615
+Samsung,Galaxy S21,4,Fair,128,8,71,16862
+Oppo,Reno 8,6,Good,128,16,69,5975
+Vivo,V Series,6,Like New,512,8,55,6612
+Oppo,Reno 8,4,Like New,256,8,73,13811
+Apple,iPhone 12,5,Poor,128,3,70,10878
+Oppo,Reno 8,0,Like New,512,6,89,33362
+Motorola,Moto G,6,Good,128,8,55,1500
+Xiaomi,Xiaomi 13,3,Fair,512,8,80,14025
+Samsung,Galaxy S21,4,Good,64,12,81,16459
+Vivo,Y Series,1,Fair,128,8,87,21366
+Google,Pixel 6a,0,Like New,512,16,86,57913
+Apple,iPhone 15,6,Good,512,12,87,18568
+Samsung,Galaxy S22,3,Good,256,6,69,23966
+Google,Pixel 7,0,Poor,256,3,94,29156
+Apple,iPhone 13,4,Good,512,12,75,21511
+OnePlus,Nord,0,Like New,256,6,100,44218
+Google,Pixel 7,3,Fair,128,6,80,18062
+Vivo,Y Series,4,Like New,128,4,78,5223
+Apple,iPhone 15,5,Fair,256,12,73,19458
+Xiaomi,Redmi Note,3,Good,256,6,68,8534
+Vivo,V Series,2,Good,512,6,73,18604
+Oppo,Reno 11,5,Fair,128,8,67,9370
+Vivo,V30,1,Fair,128,12,92,19061
+Samsung,Galaxy S22,0,Like New,128,6,90,48879
+Oppo,A Series,1,Poor,512,12,83,9487
+Vivo,V Series,5,Poor,64,8,80,1500
+OnePlus,OnePlus 9,3,Fair,512,8,61,7374
+Google,Pixel 8,0,Good,64,8,78,44788
+Xiaomi,Redmi Note Pro,1,Good,128,4,64,13190
+Google,Pixel 8,0,Good,512,6,98,66053
+OnePlus,OnePlus 11,5,Like New,128,16,68,5921
+Vivo,V30,3,Good,512,4,84,15858
+Vivo,V Series,0,Good,64,16,87,28281
+Google,Pixel 8a,1,Good,256,4,92,39970
+Oppo,Reno 8,4,Good,256,8,72,11433
+Google,Pixel 8,4,Good,512,8,76,25575
+Oppo,Reno 10,5,Good,64,12,71,1500
+Xiaomi,Xiaomi 13,0,Good,128,4,91,25480
+Google,Pixel 7a,0,Poor,256,4,100,31775
+Samsung,Galaxy S23,0,Fair,1024,8,75,50740
+Motorola,Edge 30,2,Like New,512,6,80,20271
+OnePlus,OnePlus 10,5,Like New,512,8,71,13801
+Samsung,Galaxy S22,4,Fair,256,12,73,21083
+Samsung,Galaxy S23,1,Good,256,4,81,41996
+Vivo,V27,4,Fair,512,12,69,14828
+Apple,iPhone SE,4,Like New,512,3,85,19562
+Oppo,Reno 11,1,Like New,512,16,84,22615
+Oppo,Reno 11,5,Good,512,16,89,6367
+Apple,iPhone SE,2,Fair,512,8,85,29166
+Xiaomi,Xiaomi 13,0,Poor,64,24,86,17319
+Xiaomi,Xiaomi 12,2,Fair,128,12,85,13185
+OnePlus,Nord,5,Good,1024,4,70,17496
+Motorola,Edge 30,4,Fair,256,3,84,4802
+Google,Pixel 8a,1,Like New,128,3,75,40454
+Google,Pixel 7,5,Good,256,8,55,12659
+Google,Pixel 8a,2,Fair,256,8,83,21832
+Oppo,Reno 8,3,Good,512,8,83,13736
+Motorola,Moto G,0,Poor,512,12,90,19300
+Google,Pixel 7,6,Good,64,8,71,4011
+Vivo,V27,5,Like New,128,4,73,8841
+Oppo,Reno 10,1,Good,64,6,72,13512
+Vivo,V30,3,Fair,512,24,79,10498
+Motorola,Moto G,5,Good,128,6,80,1500
+Google,Pixel 8a,3,Fair,256,6,78,22874
+Oppo,Reno 10,1,Like New,256,4,74,19760
+OnePlus,Nord,6,Fair,256,24,63,10763
+OnePlus,OnePlus 12,1,Good,256,6,89,34066
+Google,Pixel 7,2,Like New,256,8,95,30941
+Vivo,V27,2,Fair,256,4,65,13827
+Xiaomi,Xiaomi 12,6,Fair,64,4,68,1500
+Google,Pixel 6a,3,Good,128,12,69,19309
+Google,Pixel 7,5,Good,256,8,73,12928
+OnePlus,OnePlus 11,6,Like New,128,12,70,11455
+Motorola,Edge 30,6,Poor,256,6,63,1500
+OnePlus,Nord,5,Good,128,24,74,6649
+Xiaomi,Redmi Note,6,Fair,512,8,74,5627
+OnePlus,OnePlus 12,6,Fair,128,16,64,11617
+OnePlus,Nord,6,Fair,256,6,55,3703
+Vivo,Y Series,4,Like New,128,8,84,2401
+OnePlus,OnePlus 10,0,Good,256,6,95,39569
+Apple,iPhone SE,0,Fair,128,12,93,34930
+Google,Pixel 8,5,Like New,256,12,63,16205
+Xiaomi,Xiaomi 11,2,Like New,128,8,88,11953
+Apple,iPhone 14,5,Good,256,3,85,19990
+OnePlus,OnePlus 10,6,Fair,256,6,64,6667
+Samsung,Galaxy S23,4,Fair,512,4,74,18917
+Xiaomi,Xiaomi 12,5,Like New,256,12,60,1500
+Motorola,Edge 30,1,Poor,256,6,78,3781
+Vivo,Y Series,3,Like New,512,4,68,14343
+Google,Pixel 7,6,Good,128,8,66,5416
+Oppo,A Series,5,Poor,256,4,66,1500
+Samsung,Galaxy A,1,Fair,128,16,87,31741
+Oppo,Reno 8,6,Poor,256,6,58,3884
+Xiaomi,Redmi Note Pro,3,Fair,64,16,75,5332
+Oppo,A Series,5,Good,128,12,61,6346
+Oppo,Reno 8,3,Good,256,8,78,13941
+Xiaomi,Xiaomi 11,4,Good,128,8,60,8787
+OnePlus,Nord,1,Poor,128,12,85,21172
+Xiaomi,Redmi Note Pro,2,Fair,128,12,78,8501
+Oppo,A Series,5,Good,512,3,70,5240
+Vivo,Y Series,5,Good,128,16,56,7350
+Vivo,Y Series,0,Good,128,8,93,21034
+Samsung,Galaxy S22,0,Good,1024,8,86,62074
+Xiaomi,Xiaomi 12,4,Fair,512,8,75,9120
+Apple,iPhone 14,3,Like New,64,12,62,27147
+Motorola,Edge 40,5,Good,256,8,59,3453
+Vivo,V27,0,Poor,64,8,85,11678
+Apple,iPhone 15,2,Good,512,4,91,45277
+Motorola,Edge 30,0,Good,128,8,92,11470
+Vivo,V30,4,Good,128,4,74,8281
+Oppo,Reno 11,6,Like New,128,12,58,5768
+Google,Pixel 7a,1,Good,256,6,75,30922
+Apple,iPhone 15,2,Like New,128,16,83,52239
+Vivo,Y Series,5,Like New,256,12,75,1939
+Vivo,V30,0,Like New,128,12,90,37429
+Xiaomi,Xiaomi 11,6,Good,256,16,79,6870
+Vivo,Y Series,6,Like New,512,6,60,11923
+Apple,iPhone SE,1,Poor,128,8,86,21797
+Xiaomi,Xiaomi 12,0,Like New,128,4,74,24834
+Apple,iPhone 13,4,Good,128,4,74,23256
+Vivo,V Series,0,Fair,256,8,100,30296
+Motorola,Edge 30,3,Like New,64,12,68,2610
+Vivo,V30,0,Good,256,12,95,37553
+Xiaomi,Xiaomi 11,3,Fair,256,6,88,12852
+Apple,iPhone SE,2,Good,256,12,75,27702
+Apple,iPhone 12,4,Good,256,6,77,17667
+OnePlus,Nord,6,Fair,64,3,78,3818
+Motorola,Edge 40,3,Fair,128,4,78,5188
+Samsung,Galaxy S24,4,Good,256,8,79,26690
+Oppo,Reno 11,4,Like New,128,8,59,8745
+Samsung,Galaxy S23,6,Like New,256,6,70,9408
+Google,Pixel 8,1,Fair,512,3,88,34558
+Samsung,Galaxy S22,1,Good,64,8,74,34396
+Google,Pixel 8,2,Like New,128,12,73,31720
+Google,Pixel 6a,5,Good,128,4,74,7530
+Apple,iPhone 13,6,Fair,64,12,63,9485
+Xiaomi,Xiaomi 11,1,Like New,512,8,93,23210
+Oppo,A Series,0,Like New,1024,8,90,18524
+Vivo,V27,4,Good,128,4,73,10444
+OnePlus,OnePlus 11,4,Fair,512,16,71,13981
+Vivo,V Series,2,Good,64,8,83,14138
+Vivo,V27,1,Fair,1024,8,91,19834
+Vivo,V Series,5,Like New,512,16,73,8311
+OnePlus,OnePlus 9,5,Good,128,12,66,11864
+Oppo,A Series,5,Good,256,12,79,3225
+Xiaomi,Redmi Note Pro,4,Good,256,12,78,9634
+Apple,iPhone 15,1,Good,128,4,87,49262
+OnePlus,OnePlus 12,2,Fair,128,12,81,21232
+Motorola,Edge 40,0,Good,256,6,92,23462
+Samsung,Galaxy S23,1,Fair,128,16,70,34534
+Google,Pixel 8,3,Like New,64,8,79,18251
+Oppo,Reno 8,3,Good,128,4,90,8730
+Samsung,Galaxy S22,0,Good,256,8,90,50889
+Google,Pixel 8,6,Good,128,12,66,7571
+Samsung,Galaxy S23,1,Like New,256,8,79,45379
+Xiaomi,Xiaomi 11,3,Poor,128,12,81,1500
+Samsung,Galaxy S22,3,Fair,128,3,75,15129
+Vivo,V Series,3,Fair,256,6,87,12331
+Apple,iPhone 12,5,Fair,64,8,62,12629
+Vivo,V Series,5,Like New,256,8,65,7685
+Oppo,A Series,6,Good,128,12,60,1500
+Oppo,Reno 8,2,Good,256,16,95,17832
+Oppo,Reno 10,1,Fair,128,8,83,16808
+Samsung,Galaxy S23,2,Good,512,8,76,33307
+Vivo,V30,3,Good,64,8,60,11863
+Xiaomi,Redmi Note,2,Fair,512,16,73,9187
+Vivo,V30,3,Like New,128,12,81,13086
+Vivo,V30,1,Fair,64,12,88,14049
+Xiaomi,Xiaomi 11,4,Good,256,6,68,12061
+OnePlus,OnePlus 9,4,Fair,128,12,68,5467
+Apple,iPhone 12,3,Fair,128,4,91,26596
+Apple,iPhone 14,6,Good,512,12,87,21186
+Google,Pixel 8a,6,Good,256,16,74,14747
+Oppo,Reno 10,6,Like New,256,16,78,8052
+Xiaomi,Xiaomi 11,0,Like New,1024,4,100,36100
+Google,Pixel 8,6,Like New,128,12,83,10351
+Samsung,Galaxy A,2,Good,64,4,78,21496
+Xiaomi,Xiaomi 12,3,Good,512,8,70,14061
+Motorola,Moto G,2,Good,128,12,95,11232
+Vivo,V30,1,Good,128,8,76,24125
+Motorola,Edge 50,6,Poor,64,6,57,5057
+Xiaomi,Xiaomi 11,4,Like New,128,12,65,12992
+Vivo,V Series,6,Good,128,8,64,4180
+Google,Pixel 8,6,Good,128,8,55,9753
+Vivo,V27,2,Like New,256,8,69,10444
+OnePlus,OnePlus 11,5,Fair,256,12,64,15967
+Samsung,Galaxy S22,3,Like New,512,8,67,25694
+Google,Pixel 7,3,Fair,64,4,85,15822
+Samsung,Galaxy A,5,Good,128,8,69,10712
+Apple,iPhone 12,4,Fair,256,12,77,20667
+Vivo,V27,6,Good,64,6,69,3427
+Oppo,Reno 8,5,Fair,128,4,67,1500
+Samsung,Galaxy S22,4,Good,256,16,81,10132
+Oppo,Reno 8,6,Good,256,16,69,9726
+Apple,iPhone 15,0,Fair,128,8,85,62445
+OnePlus,OnePlus 9,5,Good,256,12,56,6420
+Motorola,Edge 50,2,Good,256,16,85,18013
+OnePlus,OnePlus 9,3,Good,512,8,67,21250
+Motorola,Edge 30,5,Good,128,6,72,2687
+Oppo,Reno 10,1,Good,256,8,85,23972
+Apple,iPhone 12,6,Like New,256,16,55,19653
+Apple,iPhone 12,3,Good,128,12,79,27521
+Vivo,V Series,2,Like New,256,3,82,18684
+Xiaomi,Xiaomi 13,2,Good,256,16,82,17604
+Xiaomi,Redmi Note,2,Fair,128,12,82,15222
+Google,Pixel 7a,6,Good,128,8,60,9754
+Google,Pixel 8,0,Fair,128,24,93,43715
+Motorola,Edge 40,3,Like New,256,12,71,9826
+Xiaomi,Xiaomi 11,5,Like New,64,12,60,12967
+Samsung,Galaxy A,3,Fair,256,16,82,19109
+Motorola,Moto G,3,Fair,128,3,84,7254
+Motorola,Edge 30,2,Fair,256,12,85,10424
+Apple,iPhone 15,0,Fair,256,8,86,70546
+Google,Pixel 6a,4,Fair,256,16,57,16466
+Oppo,Reno 11,6,Fair,256,16,77,4668
+Xiaomi,Xiaomi 12,3,Fair,128,12,61,8747
+Samsung,Galaxy A,3,Fair,128,12,81,16687
+Apple,iPhone 12,0,Like New,256,12,100,86940
+Xiaomi,Redmi Note Pro,6,Like New,128,6,66,3865
+Google,Pixel 8a,6,Good,256,8,68,10637
+Vivo,V27,6,Good,256,4,68,2225
+Xiaomi,Redmi Note Pro,2,Fair,512,12,82,3947
+Vivo,V Series,4,Good,128,8,92,9550
+Samsung,Galaxy S22,3,Good,256,8,70,24390
+Google,Pixel 6a,1,Fair,64,6,76,24762
+Samsung,Galaxy S21,1,Good,512,8,82,41825
+Xiaomi,Redmi Note,2,Fair,256,8,94,10995
+Samsung,Galaxy S23,3,Like New,256,24,72,25994
+Google,Pixel 8,0,Good,256,16,91,62120
+OnePlus,OnePlus 10,4,Good,128,8,81,8664
+Samsung,Galaxy A,3,Good,256,12,83,28560
+Apple,iPhone 12,6,Like New,512,6,73,22888
+Xiaomi,Xiaomi 13,1,Good,64,4,96,17396
+Vivo,Y Series,0,Good,512,8,90,24158
+Samsung,Galaxy A,2,Good,512,12,77,37409
+Google,Pixel 6a,6,Fair,1024,4,66,4572
+Samsung,Galaxy S24,2,Like New,512,6,78,41074
+Oppo,A Series,4,Good,128,8,93,7253
+Google,Pixel 7a,5,Like New,256,4,65,19030
+Vivo,V30,1,Poor,128,8,88,9436
+Samsung,Galaxy S23,4,Fair,256,8,61,19855
+Apple,iPhone 13,1,Poor,128,16,85,27866
+Xiaomi,Redmi Note Pro,2,Fair,512,6,78,9788
+Motorola,Moto G,2,Good,128,6,86,12964
+Vivo,Y Series,4,Fair,128,3,78,11852
+Oppo,Reno 11,6,Good,64,4,77,5897
+Vivo,Y Series,1,Fair,256,12,95,17506
+Motorola,Moto G,2,Good,128,8,80,5471
+OnePlus,OnePlus 12,5,Good,128,6,61,8259
+Google,Pixel 7a,3,Fair,128,16,70,10774
+Samsung,Galaxy S21,3,Fair,128,12,79,16294
+Google,Pixel 8,4,Poor,512,4,74,13103
+OnePlus,OnePlus 10,0,Like New,128,6,90,40175
+Apple,iPhone 15,6,Good,128,12,61,19657
+Samsung,Galaxy S22,2,Good,128,12,92,37229
+Xiaomi,Xiaomi 12,4,Good,64,16,61,8127
+OnePlus,OnePlus 12,3,Good,128,4,72,15286
+Vivo,V Series,5,Good,64,12,60,9719
+Google,Pixel 7,4,Fair,64,4,71,14341
+Vivo,V30,1,Good,64,6,94,22698
+Motorola,Moto G,1,Fair,128,12,82,12090
+Apple,iPhone SE,6,Fair,256,12,66,9518
+Samsung,Galaxy S22,3,Good,64,3,82,15187
+Motorola,Edge 50,1,Good,256,6,82,16160
+Xiaomi,Redmi Note,1,Good,256,12,87,15273
+OnePlus,OnePlus 12,0,Like New,512,4,90,53974
+Xiaomi,Xiaomi 13,6,Fair,128,6,56,4573
+Vivo,V30,6,Good,256,6,61,5547
+Google,Pixel 7a,2,Like New,512,4,83,25164
+Apple,iPhone 12,1,Poor,1024,12,94,36787
+OnePlus,OnePlus 10,2,Fair,512,4,91,22954
+Vivo,Y Series,0,Fair,128,8,100,13621
+Oppo,Reno 11,3,Good,512,12,80,13487
+Oppo,Reno 10,4,Poor,512,4,69,3835
+Vivo,V Series,6,Good,128,8,65,1552
+Apple,iPhone 13,2,Good,128,6,79,31767
+OnePlus,OnePlus 11,1,Fair,512,12,81,31192
+Apple,iPhone 13,0,Fair,128,12,91,52330
+Apple,iPhone 15,2,Good,256,12,84,49962
+Oppo,Reno 11,4,Like New,128,8,63,11847
+Vivo,V30,0,Good,256,12,97,36603
+Samsung,Galaxy S23,5,Fair,64,8,55,11443
+Motorola,Edge 40,3,Fair,256,8,75,8217
+Xiaomi,Redmi Note Pro,5,Good,256,4,78,9535
+Apple,iPhone SE,3,Like New,512,4,81,27355
+Vivo,V Series,1,Fair,128,6,81,19142
+Oppo,Reno 11,0,Fair,64,6,100,17079
+Xiaomi,Redmi Note,3,Good,128,16,73,8852
+Motorola,Edge 40,3,Good,64,24,61,1857
+Google,Pixel 6a,5,Poor,1024,4,73,12645
+Oppo,Reno 8,6,Good,128,16,55,2775
+Google,Pixel 6a,1,Good,128,12,78,31284
+Vivo,V27,2,Good,512,8,85,13227
+Apple,iPhone 15,1,Good,128,16,81,57339
+Samsung,Galaxy S23,0,Fair,128,12,93,41813
+Vivo,V27,0,Good,256,8,79,34520
+OnePlus,OnePlus 9,0,Good,128,6,95,39987
+OnePlus,OnePlus 10,3,Like New,512,6,63,17533
+Oppo,A Series,1,Fair,256,16,95,8293
+Samsung,Galaxy S21,1,Like New,128,6,80,31966
+Xiaomi,Xiaomi 11,0,Like New,256,3,100,25766
+OnePlus,OnePlus 11,5,Good,512,6,62,5652
+Samsung,Galaxy A,4,Good,128,8,88,18048
+Vivo,V30,6,Poor,256,8,58,2998
+Samsung,Galaxy S22,0,Fair,128,16,74,41324
+Apple,iPhone 15,1,Fair,256,8,85,47286
+Motorola,Edge 40,3,Good,256,16,86,11142
+Oppo,Reno 10,4,Good,64,8,79,2994
+Samsung,Galaxy S23,0,Poor,128,8,97,29625
+Motorola,Edge 50,1,Good,64,6,91,20011
+Xiaomi,Redmi Note,2,Fair,256,6,74,7708
+Oppo,Reno 10,0,Good,256,16,94,32953
+Samsung,Galaxy A,2,Good,128,12,81,22275
+Vivo,V Series,5,Good,64,8,63,1500
+Xiaomi,Xiaomi 13,3,Good,512,16,78,14541
+Oppo,Reno 11,3,Like New,128,12,76,16398
+OnePlus,OnePlus 9,3,Good,128,4,88,14781
+Vivo,V Series,6,Good,64,8,61,11734
+Motorola,Edge 40,3,Good,256,12,72,5030
+Samsung,Galaxy S21,3,Fair,128,12,71,15336
+Vivo,Y Series,6,Good,512,4,80,4611
+Oppo,Reno 8,1,Fair,256,6,79,19548
+OnePlus,OnePlus 10,0,Good,64,8,98,31985
+Xiaomi,Xiaomi 11,3,Like New,256,6,68,8586
+Google,Pixel 8a,2,Good,128,4,84,30584
+Xiaomi,Xiaomi 11,1,Poor,64,8,86,10420
+Vivo,V Series,0,Good,256,8,98,28345
+Vivo,V27,6,Fair,128,4,74,5595
+Samsung,Galaxy S23,4,Good,512,8,73,18936
+Vivo,V Series,4,Fair,256,4,69,6744
+Google,Pixel 7a,0,Fair,128,8,100,36282
+Motorola,Moto G,2,Poor,1024,12,75,3726
+Oppo,Reno 11,4,Like New,256,16,55,6964
+Google,Pixel 8a,3,Poor,128,6,62,10218
+Google,Pixel 6a,4,Good,256,12,60,15279
+Google,Pixel 7,4,Fair,512,16,78,7899
+Oppo,Reno 8,2,Good,128,8,98,19399
+Google,Pixel 8a,5,Good,128,24,55,12676
+OnePlus,Nord,1,Good,128,6,78,23167
+OnePlus,OnePlus 9,0,Fair,128,4,89,34901
+Samsung,Galaxy S21,6,Good,128,12,78,9809
+Google,Pixel 7a,0,Good,256,8,82,42599
+Apple,iPhone 12,1,Good,512,6,89,72540
+Apple,iPhone 13,0,Fair,256,4,86,59340
+Motorola,Edge 40,1,Good,64,4,100,11341
+Apple,iPhone 15,2,Fair,128,4,82,32348
+Xiaomi,Redmi Note,0,Good,64,6,91,14628
+Oppo,A Series,3,Good,128,16,77,2020
+Motorola,Moto G,6,Fair,256,6,62,3592
+Google,Pixel 8a,0,Fair,128,12,96,46947
+Samsung,Galaxy S23,6,Fair,512,3,56,10640
+Vivo,V27,2,Good,128,6,64,14100
+Oppo,Reno 11,4,Good,256,16,72,13188
+Xiaomi,Xiaomi 11,3,Fair,512,6,83,6624
+Apple,iPhone 12,2,Like New,256,6,76,55118
+Apple,iPhone 13,0,Good,512,12,89,74706
+OnePlus,OnePlus 11,4,Fair,512,4,63,8611
+Samsung,Galaxy A,6,Good,256,4,74,7932
+Oppo,Reno 10,3,Good,128,16,82,9881
+Samsung,Galaxy S22,4,Poor,128,8,73,8708
+OnePlus,Nord,4,Good,512,8,74,13414
+Vivo,V Series,2,Like New,64,4,69,13948
+Oppo,Reno 8,0,Like New,512,6,77,30839
+Samsung,Galaxy S21,3,Good,128,8,76,22040
+Google,Pixel 7,6,Fair,256,12,69,3547
+Xiaomi,Xiaomi 12,2,Fair,128,6,85,16347
+Motorola,Edge 30,6,Good,512,16,62,7285
+Vivo,V Series,5,Good,64,12,75,5874
+Oppo,Reno 11,1,Good,128,8,96,18793
+Vivo,Y Series,4,Like New,512,8,72,8906
+Apple,iPhone 12,5,Fair,128,8,71,11684
+Samsung,Galaxy A,3,Good,128,12,75,21959
+Xiaomi,Xiaomi 13,4,Like New,512,4,72,9558
+Apple,iPhone SE,6,Fair,512,12,67,17513
+OnePlus,OnePlus 12,4,Fair,64,8,86,6359
+Samsung,Galaxy A,5,Good,256,16,76,4775
+Vivo,V Series,5,Good,128,16,76,4429
+Apple,iPhone 14,5,Good,128,3,65,8290
+Samsung,Galaxy S24,5,Like New,256,8,62,14184
+Samsung,Galaxy A,1,Good,128,8,87,33694
+Samsung,Galaxy S21,0,Fair,128,8,98,39261
+Xiaomi,Xiaomi 13,1,Poor,128,12,98,7910
+OnePlus,OnePlus 9,1,Good,512,4,65,33887
+Vivo,Y Series,4,Good,256,8,92,6822
+OnePlus,OnePlus 11,3,Good,128,16,80,20166
+Xiaomi,Redmi Note,3,Good,512,24,84,10134
+Motorola,Edge 50,0,Like New,512,3,74,33149
+Motorola,Edge 50,4,Good,128,16,71,7257
+Oppo,Reno 11,2,Fair,1024,4,87,21677
+Samsung,Galaxy S21,5,Fair,128,8,60,11379
+Xiaomi,Redmi Note,0,Fair,128,6,65,11074
+Oppo,Reno 8,2,Like New,128,8,83,18891
+Oppo,Reno 8,0,Good,128,3,88,25910
+Xiaomi,Xiaomi 13,1,Good,256,6,96,20497
+Motorola,Edge 40,6,Good,256,6,64,4518
+Oppo,Reno 11,3,Good,512,16,76,16979
+Xiaomi,Xiaomi 12,3,Fair,128,8,82,3135
+Vivo,V27,1,Fair,128,12,92,15599
+Samsung,Galaxy A,1,Good,128,12,79,40601
+OnePlus,Nord,4,Good,128,8,80,12913
+Apple,iPhone SE,6,Good,512,3,61,5341
+Apple,iPhone 13,5,Like New,256,4,69,9143
+Google,Pixel 7,5,Like New,256,8,74,18627
+Samsung,Galaxy S24,3,Good,256,16,83,28708
+Google,Pixel 6a,0,Good,128,6,91,48648
+Google,Pixel 8a,5,Poor,128,12,60,9954
+Xiaomi,Xiaomi 12,5,Good,128,12,55,4268
+Vivo,Y Series,3,Like New,512,16,75,1976
+Oppo,A Series,0,Like New,128,6,96,19624
+Google,Pixel 7,4,Fair,64,16,76,10649
+OnePlus,OnePlus 9,6,Like New,256,8,67,9559
+Oppo,Reno 8,1,Good,128,8,84,16541
+Apple,iPhone 13,1,Good,256,12,87,54273
+Xiaomi,Redmi Note,5,Good,64,6,61,4421
+Google,Pixel 6a,2,Good,256,12,87,31679
+Samsung,Galaxy S23,5,Good,128,8,76,11320
+Xiaomi,Xiaomi 13,4,Like New,512,12,70,12161
+OnePlus,OnePlus 9,1,Fair,256,12,88,26795
+Samsung,Galaxy S24,0,Good,64,8,74,54699
+Motorola,Edge 30,3,Good,256,3,78,6672
+Samsung,Galaxy S21,2,Like New,256,6,79,22569
+Motorola,Moto G,5,Good,256,16,79,3503
+Samsung,Galaxy S22,2,Good,512,8,79,33342
+Google,Pixel 7a,1,Good,512,16,91,37469
+Oppo,Reno 10,6,Good,128,8,62,1500
+Samsung,Galaxy A,5,Poor,128,8,55,4775
+Oppo,A Series,4,Good,128,16,71,6054
+Motorola,Edge 30,6,Fair,256,12,67,3914
+Vivo,Y Series,5,Fair,512,8,70,1500
+Samsung,Galaxy A,6,Good,256,3,67,3475
+Motorola,Edge 40,5,Good,128,16,65,9222
+Vivo,V30,2,Good,512,12,78,20632
+Oppo,Reno 10,0,Poor,256,8,79,16918
+Samsung,Galaxy A,4,Good,128,8,57,10817
+Oppo,Reno 11,5,Good,512,6,68,7709
+Apple,iPhone 13,6,Like New,128,8,59,10826
+Xiaomi,Xiaomi 12,4,Fair,256,6,81,6501
+Google,Pixel 6a,3,Like New,128,6,59,13753
+Xiaomi,Xiaomi 11,4,Like New,512,12,75,7715
+Xiaomi,Redmi Note,0,Good,128,8,100,25622
+Apple,iPhone 14,0,Good,128,12,87,62952
+Xiaomi,Redmi Note Pro,0,Fair,256,8,88,19143
+Vivo,V30,6,Fair,512,4,69,4691
+Google,Pixel 6a,5,Good,64,8,73,8483
+OnePlus,OnePlus 11,1,Good,128,4,81,24319
+Vivo,Y Series,2,Fair,512,12,72,15196
+Apple,iPhone 14,3,Good,256,16,82,32329
+Google,Pixel 7a,1,Like New,128,12,69,32007
+Xiaomi,Xiaomi 13,2,Good,128,12,87,13448
+Google,Pixel 8,2,Good,128,16,77,33684
+Vivo,V Series,4,Poor,256,12,73,1500
+Google,Pixel 6a,5,Fair,256,8,65,10478
+Vivo,V27,0,Like New,256,12,99,34532
+Apple,iPhone 13,3,Fair,64,8,79,17328
+Motorola,Moto G,6,Good,512,4,63,3749
+Xiaomi,Xiaomi 11,6,Fair,64,12,62,5173
+Samsung,Galaxy S21,5,Good,512,12,68,10545
+Samsung,Galaxy S21,5,Good,64,6,88,14290
+Motorola,Moto G,0,Good,128,16,77,16492
+Motorola,Edge 30,6,Good,128,4,74,3290
+Xiaomi,Redmi Note Pro,5,Good,128,12,74,4896
+Apple,iPhone SE,6,Good,128,16,78,11296
+Xiaomi,Xiaomi 11,6,Fair,256,6,70,12226
+Vivo,Y Series,1,Fair,512,16,84,16580
+Apple,iPhone SE,0,Good,256,12,96,54846
+Google,Pixel 7a,4,Like New,256,12,75,17740
+Google,Pixel 6a,3,Good,128,16,83,26232
+Vivo,V30,0,Good,512,8,99,33005
+OnePlus,OnePlus 10,1,Good,64,8,85,18936
+Google,Pixel 8a,6,Fair,128,12,62,8285
+Motorola,Edge 50,2,Poor,64,8,75,9648
+Apple,iPhone 15,1,Like New,128,6,88,51168
+Oppo,Reno 10,4,Fair,256,4,66,7428
+Oppo,Reno 8,4,Good,128,8,70,8009
+Motorola,Edge 40,2,Good,64,12,73,13487
+Motorola,Moto G,5,Good,512,16,73,6152
+Motorola,Edge 50,4,Like New,64,16,67,1665
+Oppo,Reno 8,1,Like New,256,6,74,19514
+Vivo,Y Series,2,Poor,128,8,72,3233
+Google,Pixel 7,5,Good,512,8,64,15046
+Google,Pixel 7,0,Good,256,6,84,48141
+Motorola,Moto G,0,Good,64,8,90,11727
+Samsung,Galaxy S23,4,Poor,512,8,72,11735
+Oppo,A Series,3,Good,128,16,80,4998
+Oppo,Reno 11,1,Fair,128,6,88,23854
+Motorola,Edge 30,3,Fair,256,12,83,10522
+OnePlus,OnePlus 11,1,Good,256,16,69,33083
+OnePlus,OnePlus 9,2,Fair,128,12,71,21854
+Google,Pixel 6a,1,Fair,128,6,89,30433
+Motorola,Moto G,4,Fair,128,6,74,4103
+Oppo,Reno 10,4,Good,256,16,81,9483
+Motorola,Edge 40,6,Like New,512,4,55,9214
+Vivo,V Series,0,Like New,128,4,84,27107
+Vivo,V Series,2,Good,1024,16,78,17208
+Motorola,Edge 50,1,Fair,128,12,86,22815
+OnePlus,OnePlus 12,4,Fair,256,12,73,9565
+Xiaomi,Xiaomi 11,3,Good,512,6,80,6751
+Google,Pixel 7,6,Like New,256,8,64,12849
+Motorola,Edge 30,6,Like New,64,12,76,1500
+Oppo,Reno 10,5,Fair,128,6,83,7016
+OnePlus,OnePlus 10,1,Good,64,6,75,30374
+Xiaomi,Redmi Note,0,Fair,256,3,88,10756
+Apple,iPhone SE,6,Like New,1024,8,72,11632
+Motorola,Edge 30,6,Good,128,6,70,9056
+Google,Pixel 8,1,Fair,128,16,81,35010
+Google,Pixel 6a,0,Like New,128,6,90,46067
+Xiaomi,Xiaomi 11,4,Like New,256,4,60,17313
+Samsung,Galaxy A,4,Good,256,16,73,18084
+Xiaomi,Redmi Note Pro,6,Good,128,16,55,4703
+Motorola,Edge 40,4,Poor,256,12,77,10277
+OnePlus,OnePlus 9,5,Fair,64,16,60,10057
+Samsung,Galaxy S21,5,Fair,256,6,70,15467
+Google,Pixel 8a,0,Like New,128,8,91,52909
+Samsung,Galaxy A,1,Good,128,6,85,41784
+OnePlus,Nord,5,Fair,256,8,64,8502
+Motorola,Edge 50,1,Good,256,12,83,18595
+Apple,iPhone 13,1,Poor,128,12,94,29577
+Motorola,Moto G,5,Good,256,3,66,4508
+Samsung,Galaxy S22,1,Like New,256,8,84,51610
+Vivo,V27,1,Good,128,24,80,21910
+Motorola,Edge 30,0,Fair,512,8,96,18699
+OnePlus,OnePlus 10,3,Like New,512,6,77,16540
+Xiaomi,Xiaomi 12,4,Good,64,8,67,8286
+Apple,iPhone 12,5,Fair,512,6,69,12685
+Apple,iPhone 15,6,Like New,256,8,63,13431
+Vivo,V Series,4,Good,64,8,84,6928
+Oppo,Reno 11,5,Fair,256,8,69,4431
+Samsung,Galaxy A,1,Fair,64,8,73,29741
+OnePlus,OnePlus 9,2,Good,256,8,84,20596
+Samsung,Galaxy S23,2,Poor,512,3,95,10976
+Google,Pixel 8a,0,Fair,128,4,98,35908
+OnePlus,OnePlus 9,6,Good,256,8,56,7106
+OnePlus,OnePlus 12,1,Like New,128,16,82,34325
+Xiaomi,Redmi Note,3,Fair,256,12,76,2782
+Samsung,Galaxy S22,2,Good,512,4,80,39896
+Vivo,V Series,0,Fair,128,8,91,24542
+Motorola,Edge 30,6,Good,256,8,62,4016
+Oppo,Reno 11,1,Good,128,8,77,20873
+Samsung,Galaxy S23,0,Good,256,12,96,56859
+Motorola,Edge 50,2,Good,256,24,71,11758
+Oppo,Reno 8,1,Fair,256,4,78,21112
+Samsung,Galaxy S24,6,Good,128,8,56,13503
+Oppo,Reno 8,1,Fair,256,8,89,11746
+OnePlus,OnePlus 11,2,Like New,256,8,81,25629
+Oppo,Reno 10,1,Fair,256,6,91,19669
+Google,Pixel 8,0,Fair,256,8,82,44615
+Oppo,Reno 10,0,Good,512,4,78,37981
+Samsung,Galaxy S22,3,Like New,128,12,73,30420
+Google,Pixel 8,1,Fair,64,8,83,27196
+OnePlus,OnePlus 12,0,Fair,1024,6,90,45148
+Samsung,Galaxy S21,2,Good,64,24,67,24986
+OnePlus,OnePlus 10,1,Good,512,12,88,32165
+Google,Pixel 6a,2,Fair,256,8,73,18640
+Samsung,Galaxy S21,6,Good,512,24,60,13196
+Motorola,Edge 50,2,Good,256,12,90,23276
+Xiaomi,Xiaomi 12,4,Good,512,4,55,15945
+Oppo,A Series,5,Like New,256,8,72,8410
+Motorola,Edge 40,0,Fair,256,8,91,10973
+Samsung,Galaxy S24,3,Good,128,8,70,18389
+Apple,iPhone SE,3,Poor,64,16,73,14075
+Google,Pixel 6a,3,Good,128,8,86,24730
+Google,Pixel 7,1,Good,512,4,100,41542
+Samsung,Galaxy S23,3,Good,128,8,85,20901
+Oppo,Reno 8,0,Good,256,12,100,36164
+Xiaomi,Xiaomi 13,6,Fair,256,8,60,6705
+Motorola,Edge 50,4,Fair,128,3,60,10056
+Apple,iPhone 13,0,Fair,1024,6,88,59737
+Oppo,Reno 8,3,Good,64,12,83,12011
+Samsung,Galaxy A,6,Good,256,4,55,15651
+Google,Pixel 8a,5,Like New,128,8,62,15005
+Google,Pixel 8a,1,Fair,64,4,78,30478
+Oppo,Reno 8,6,Good,128,8,68,5091
+OnePlus,OnePlus 10,1,Good,256,4,86,29954
+Samsung,Galaxy S23,1,Good,64,4,78,37344
+OnePlus,OnePlus 11,1,Good,512,12,86,31783
+OnePlus,Nord,6,Fair,256,4,56,2986
+Samsung,Galaxy S23,5,Good,64,4,66,8804
+Samsung,Galaxy S24,3,Poor,128,8,66,14377
+Samsung,Galaxy S23,4,Like New,128,4,72,11179
+Google,Pixel 7a,1,Good,256,3,78,36349
+OnePlus,OnePlus 10,0,Like New,256,8,94,43892
+Google,Pixel 7,5,Fair,64,8,69,10756
+Motorola,Edge 40,6,Good,256,8,63,1500
+Samsung,Galaxy S21,0,Good,128,24,100,57886
+Vivo,V Series,0,Fair,256,8,91,28485
+Oppo,Reno 8,3,Good,64,8,74,11878
+Samsung,Galaxy S21,0,Good,64,16,83,46484
+OnePlus,OnePlus 9,5,Good,128,8,60,11700
+Samsung,Galaxy A,6,Like New,256,12,65,15535
+OnePlus,OnePlus 11,1,Fair,256,8,87,27033
+OnePlus,OnePlus 10,2,Fair,128,8,65,18515
+Samsung,Galaxy S24,6,Fair,128,16,55,14705
+Apple,iPhone SE,2,Fair,256,3,76,24449
+Google,Pixel 8,1,Fair,64,16,75,26098
+Motorola,Moto G,0,Good,256,8,88,21335
+OnePlus,OnePlus 10,5,Like New,128,8,70,9192
+Oppo,Reno 8,6,Good,128,8,64,5026
+OnePlus,OnePlus 10,0,Poor,256,6,92,23788
+Vivo,V27,5,Poor,128,4,64,6878
+Samsung,Galaxy S24,1,Fair,256,16,84,47915
+Xiaomi,Redmi Note Pro,0,Good,128,8,80,17869
+Oppo,Reno 11,2,Good,128,16,83,22087
+Apple,iPhone SE,3,Fair,256,6,77,17788
+Vivo,V Series,5,Like New,64,6,59,10793
+OnePlus,OnePlus 9,4,Good,256,6,72,13475
+Google,Pixel 8a,1,Good,256,6,84,40273
+Motorola,Moto G,4,Good,512,8,75,12672
+Motorola,Edge 30,6,Fair,128,16,68,1500
+Apple,iPhone 13,4,Poor,128,16,67,9652
+Oppo,Reno 11,1,Fair,128,8,90,12617
+Xiaomi,Xiaomi 11,0,Good,512,6,92,34567
+Vivo,V30,3,Good,128,8,71,18234
+Google,Pixel 8,3,Fair,128,8,67,18843
+Xiaomi,Xiaomi 12,2,Good,256,12,75,15205
+Google,Pixel 8,0,Good,64,8,76,44899
+Vivo,Y Series,0,Fair,256,3,90,15191
+Oppo,Reno 8,3,Good,128,4,86,7839
+Vivo,V27,6,Like New,256,16,77,4318
+Xiaomi,Redmi Note Pro,4,Fair,256,12,64,7001
+Oppo,A Series,3,Good,128,16,83,6652
+OnePlus,Nord,6,Like New,256,6,66,8865
+Google,Pixel 8,4,Good,256,8,55,11077
+Oppo,Reno 10,5,Poor,128,6,66,9590
+Apple,iPhone 12,4,Good,512,16,69,27948
+Motorola,Edge 40,5,Good,256,6,79,8775
+Apple,iPhone 14,3,Like New,512,12,70,35567
+Xiaomi,Xiaomi 13,4,Poor,256,6,77,6549
+Google,Pixel 8a,4,Fair,128,4,72,9075
+Google,Pixel 8a,5,Good,128,4,57,8934
+Google,Pixel 6a,6,Good,128,8,61,5244
+Google,Pixel 8,2,Fair,64,12,93,22783
+Google,Pixel 7,4,Fair,128,24,71,16693
+Google,Pixel 7a,0,Fair,128,8,95,37955
+Xiaomi,Xiaomi 12,3,Poor,64,8,83,3580
+Oppo,Reno 10,6,Good,512,12,62,6285
+Xiaomi,Xiaomi 11,4,Good,128,4,63,7314
+Motorola,Edge 50,1,Good,256,12,75,19535
+Oppo,A Series,4,Fair,256,12,84,5889
+Vivo,Y Series,2,Good,256,8,82,14469
+Apple,iPhone SE,3,Good,128,3,63,15201
+Motorola,Edge 50,1,Fair,256,6,91,15932
+Samsung,Galaxy S22,4,Good,256,8,59,20565
+Samsung,Galaxy S22,1,Fair,512,16,78,39676
+Oppo,Reno 10,3,Like New,128,8,77,16988
+Apple,iPhone 13,6,Good,64,8,85,15876
+Oppo,Reno 10,5,Good,256,8,76,2579
+Oppo,A Series,2,Fair,128,12,77,10193
+Vivo,Y Series,6,Fair,256,6,65,1500
+Motorola,Edge 50,0,Good,256,4,95,23017
+Oppo,Reno 8,6,Good,256,12,77,2946
+Apple,iPhone SE,2,Like New,1024,6,78,34291
+Vivo,V Series,5,Fair,256,6,67,4552
+Samsung,Galaxy S21,6,Poor,512,8,59,4135
+OnePlus,OnePlus 9,4,Fair,256,6,78,10602
+Samsung,Galaxy S21,4,Good,128,16,81,25666
+Google,Pixel 8,5,Good,256,12,55,7375
+Motorola,Moto G,1,Good,256,24,81,17293
+OnePlus,OnePlus 9,1,Like New,1024,16,74,39175
+Oppo,Reno 8,2,Like New,128,6,82,14906
+Xiaomi,Xiaomi 11,3,Like New,128,8,67,4246
+Motorola,Edge 50,5,Good,512,12,58,9884
+Vivo,V30,1,Fair,64,3,93,11644
+Google,Pixel 7,3,Good,256,24,75,24399
+OnePlus,OnePlus 10,0,Fair,256,3,88,37696
+Vivo,Y Series,0,Poor,128,8,91,6532
+Xiaomi,Xiaomi 12,6,Good,128,8,73,9602
+Xiaomi,Redmi Note,5,Good,512,16,66,5483
+OnePlus,Nord,6,Fair,64,8,62,1500
+Samsung,Galaxy S23,2,Like New,256,8,77,29413
+Samsung,Galaxy A,3,Good,256,6,85,24441
+Samsung,Galaxy S22,4,Good,256,8,72,19151
+Samsung,Galaxy A,1,Fair,128,12,82,26049
+Motorola,Edge 40,5,Fair,64,8,72,3939
+Apple,iPhone 14,4,Fair,512,12,87,23950
+Motorola,Edge 40,2,Fair,128,4,81,13073
+Vivo,V30,3,Good,128,6,74,11442
+Oppo,Reno 8,2,Fair,512,16,96,17841
+Google,Pixel 6a,5,Fair,128,6,80,12513
+Apple,iPhone SE,6,Good,128,8,75,11438
+Oppo,A Series,6,Poor,1024,8,61,5764
+Apple,iPhone 12,5,Fair,64,16,64,13915
+Motorola,Edge 30,2,Good,128,6,66,11127
+Motorola,Moto G,5,Like New,128,6,77,4981
+Samsung,Galaxy S22,1,Good,256,16,85,40633
+Motorola,Moto G,6,Fair,512,8,55,6558
+Samsung,Galaxy S23,1,Like New,256,8,94,40889
+Samsung,Galaxy S21,2,Good,1024,8,78,35133
+Oppo,Reno 10,0,Good,64,8,86,24191
+Vivo,V27,0,Fair,256,16,76,25338
+OnePlus,OnePlus 12,2,Fair,64,12,84,21026
+Vivo,V Series,3,Fair,512,16,81,16709
+Vivo,V Series,0,Good,512,16,88,32800
+Oppo,Reno 10,5,Like New,128,8,66,4503
+Samsung,Galaxy S23,0,Fair,512,8,100,50660
+OnePlus,OnePlus 10,6,Good,256,8,56,6051
+Motorola,Edge 40,1,Good,64,12,78,16331
+Vivo,V Series,2,Poor,256,8,86,5867
+Oppo,Reno 8,1,Good,1024,4,76,24480
+Google,Pixel 7,5,Good,128,16,60,16308
+Samsung,Galaxy S24,5,Fair,64,8,78,11480
+Vivo,V27,0,Fair,1024,16,93,25583
+OnePlus,Nord,0,Good,128,8,92,36051
+OnePlus,OnePlus 12,4,Good,128,8,74,6172
+Vivo,V27,6,Like New,256,12,60,5471
+Xiaomi,Redmi Note,0,Good,256,12,86,26045
+OnePlus,OnePlus 11,1,Good,128,4,84,22601
+Apple,iPhone 13,3,Good,64,8,83,19493
+Google,Pixel 8a,0,Fair,512,12,91,49834
+Vivo,V Series,2,Like New,128,24,73,19802
+Google,Pixel 7a,0,Good,256,3,94,52309
+Motorola,Edge 30,3,Like New,512,6,63,12762
+OnePlus,OnePlus 9,5,Good,64,8,66,3434
+Oppo,Reno 10,2,Like New,512,6,71,19080
+Oppo,Reno 11,1,Like New,256,3,77,28910
+Xiaomi,Xiaomi 13,2,Poor,512,8,96,9260
+Oppo,Reno 11,3,Poor,128,8,65,6997
+Xiaomi,Xiaomi 12,1,Fair,128,8,78,18910
+Google,Pixel 7a,0,Good,256,8,92,43099
+Motorola,Edge 30,1,Fair,512,24,80,19990
+Oppo,Reno 11,6,Fair,1024,8,66,8251
+Oppo,Reno 8,5,Good,128,12,80,1500
+Samsung,Galaxy S21,0,Like New,256,6,93,55156
+Motorola,Edge 50,2,Fair,128,12,77,8432
+Apple,iPhone 13,2,Poor,256,12,79,25779
+Xiaomi,Redmi Note Pro,1,Good,512,6,88,13691
+Xiaomi,Xiaomi 13,5,Good,256,8,74,8185
+OnePlus,OnePlus 12,6,Good,128,12,65,7410
+Vivo,V Series,1,Good,1024,8,87,26058
+Vivo,V27,0,Fair,128,12,91,23821
+Apple,iPhone 13,1,Good,128,6,83,47567
+Samsung,Galaxy S23,4,Poor,256,8,68,10116
+Samsung,Galaxy S24,5,Fair,256,24,75,15031
+Vivo,V27,2,Like New,256,6,83,18241
+Xiaomi,Xiaomi 12,1,Fair,256,4,68,17938
+Motorola,Edge 40,1,Fair,64,4,78,9743
+Oppo,Reno 11,0,Good,128,24,84,34953
+Oppo,Reno 8,0,Good,256,4,86,27132
+Apple,iPhone 12,2,Fair,256,6,90,43180
+Samsung,Galaxy S22,4,Good,256,12,98,16979
+Google,Pixel 8a,0,Like New,128,12,68,56676
+OnePlus,OnePlus 11,1,Good,64,8,87,31390
+Motorola,Moto G,6,Good,256,24,66,2061
+Samsung,Galaxy A,6,Fair,128,3,64,4771
+OnePlus,OnePlus 10,4,Like New,256,8,77,12693
+Samsung,Galaxy S24,3,Good,128,8,78,25386
+Samsung,Galaxy S22,4,Good,128,6,70,16941
+Samsung,Galaxy S22,2,Fair,128,16,81,24140
+Samsung,Galaxy S23,1,Good,64,8,89,33120
+Xiaomi,Xiaomi 11,2,Fair,256,6,84,19656
+Google,Pixel 8a,4,Fair,128,4,74,12405
+Google,Pixel 8,4,Good,128,4,68,13557
+Google,Pixel 8,4,Fair,1024,16,95,22208
+Motorola,Edge 50,4,Good,128,6,76,10985
+Oppo,Reno 10,0,Fair,256,16,94,30692
+Xiaomi,Redmi Note,4,Good,128,4,69,12307
+Motorola,Edge 30,6,Good,128,24,67,5317
+Motorola,Moto G,4,Good,64,12,74,3529
+Motorola,Edge 40,4,Good,512,4,58,1500
+Samsung,Galaxy A,1,Fair,128,4,78,26270
+Vivo,V27,5,Fair,256,12,63,6449
+Samsung,Galaxy S21,3,Like New,512,4,72,22416
+Google,Pixel 6a,1,Good,64,6,76,22965
+Motorola,Moto G,3,Good,256,12,77,7587
+Google,Pixel 7a,0,Good,64,16,99,44531
+Samsung,Galaxy A,6,Like New,128,12,66,9242
+Vivo,V30,4,Good,512,16,63,15119
+Apple,iPhone 14,2,Fair,64,8,72,27926
+Samsung,Galaxy S23,5,Good,1024,12,66,20027
+Vivo,Y Series,0,Fair,256,6,77,23894
+Motorola,Edge 50,2,Good,128,12,83,23800
+Apple,iPhone 14,4,Good,64,12,84,21681
+Oppo,Reno 8,0,Good,256,8,83,27882
+Vivo,Y Series,4,Good,128,24,73,6600
+Apple,iPhone 13,5,Good,128,8,66,20586
+Google,Pixel 8,4,Poor,128,8,68,6327
+Google,Pixel 6a,1,Fair,64,8,86,29423
+Samsung,Galaxy A,5,Fair,1024,6,64,12009
+Samsung,Galaxy S21,2,Like New,128,6,74,30684
+Samsung,Galaxy S22,5,Like New,128,16,56,10290
+Samsung,Galaxy S22,4,Like New,256,8,73,14586
+Google,Pixel 7a,0,Poor,256,12,97,28102
+Google,Pixel 7,0,Fair,512,8,94,48176
+Samsung,Galaxy A,0,Good,512,16,100,62127
+OnePlus,Nord,0,Poor,128,12,83,27179
+Samsung,Galaxy A,2,Like New,128,4,87,28280
+Oppo,Reno 10,0,Good,256,8,79,25444
+Samsung,Galaxy S23,6,Good,64,12,71,9424
+Vivo,V Series,6,Good,256,6,78,7707
+Xiaomi,Redmi Note,1,Poor,64,8,88,7862
+Oppo,Reno 8,2,Fair,512,6,94,15976
+Motorola,Edge 50,5,Like New,256,4,64,12477
+OnePlus,OnePlus 9,4,Good,256,24,72,14021
+Xiaomi,Xiaomi 11,4,Good,128,16,65,6546
+OnePlus,OnePlus 10,6,Like New,1024,12,65,5608
+Apple,iPhone 12,4,Good,256,6,75,30463
+OnePlus,OnePlus 10,4,Good,512,24,73,13483
+OnePlus,OnePlus 10,3,Good,512,8,73,17518
+Samsung,Galaxy S22,3,Good,64,16,73,23509
+Apple,iPhone 14,2,Good,64,4,83,38411
+Vivo,V27,3,Poor,128,6,75,7231
+Xiaomi,Redmi Note,6,Good,256,12,56,3124
+Google,Pixel 6a,2,Good,256,16,65,26983
+Vivo,V Series,0,Good,128,6,83,23883
+Samsung,Galaxy S24,4,Fair,1024,6,62,18217
+Google,Pixel 6a,5,Like New,64,8,62,8810
+Oppo,A Series,6,Like New,256,24,62,7596
+Motorola,Edge 40,3,Fair,128,12,75,7268
+Google,Pixel 7a,5,Fair,128,16,64,13570
+OnePlus,OnePlus 9,1,Good,64,12,100,26117
+Apple,iPhone 12,2,Good,256,16,70,45370
+Apple,iPhone 14,2,Poor,256,8,90,27827
+Samsung,Galaxy S22,2,Like New,128,4,79,29735
+Oppo,Reno 10,5,Good,256,12,64,6810
+Motorola,Edge 30,6,Good,256,8,70,4431
+Google,Pixel 7a,2,Good,128,8,77,29631
+Oppo,Reno 11,0,Good,256,6,82,30058
+Samsung,Galaxy S21,5,Fair,128,12,83,14937
+Samsung,Galaxy S21,5,Good,512,12,55,13508
+Google,Pixel 6a,6,Good,256,8,63,12469
+Vivo,V27,1,Good,64,16,86,19277
+Xiaomi,Redmi Note,5,Fair,256,8,80,7156
+Oppo,A Series,5,Like New,128,4,66,8258
+Samsung,Galaxy S23,5,Good,512,6,90,11906
+Oppo,A Series,5,Fair,256,8,75,4574
+Apple,iPhone 15,6,Good,64,4,55,14743
+Samsung,Galaxy S22,3,Like New,256,12,65,29160
+Xiaomi,Redmi Note Pro,0,Good,128,12,90,23013
+Apple,iPhone 13,1,Fair,512,8,75,45938
+Oppo,Reno 10,6,Like New,512,16,70,12085
+Oppo,Reno 8,5,Fair,256,16,65,3748
+Xiaomi,Xiaomi 13,0,Fair,256,8,78,16930
+OnePlus,OnePlus 12,2,Good,256,4,73,24665
+Apple,iPhone 12,1,Good,128,6,91,60338
+Xiaomi,Xiaomi 12,2,Fair,64,8,64,8099
+Xiaomi,Redmi Note Pro,4,Good,512,8,81,1994
+Oppo,Reno 11,3,Fair,128,12,85,3878
+Xiaomi,Redmi Note Pro,3,Fair,128,8,74,8876
+Samsung,Galaxy S21,3,Like New,128,8,65,17429
+Apple,iPhone 14,4,Fair,1024,4,77,22946
+Oppo,Reno 11,4,Good,512,6,69,9042
+Samsung,Galaxy A,0,Good,128,8,76,46183
+Vivo,V27,0,Good,128,12,100,24057
+Apple,iPhone 12,2,Good,512,12,73,51311
+Motorola,Edge 40,3,Fair,128,8,65,4587
+Vivo,V27,6,Fair,1024,12,67,5176
+Google,Pixel 8a,6,Good,512,8,65,12609
+Apple,iPhone 15,4,Good,256,3,85,27895
+Vivo,V27,0,Fair,64,6,85,22170
+Samsung,Galaxy S23,0,Fair,256,4,85,44142
+Xiaomi,Xiaomi 13,3,Good,1024,4,79,9891
+Vivo,Y Series,4,Good,128,6,74,7606
+Motorola,Edge 40,4,Fair,512,12,75,9206
+Apple,iPhone 14,0,Good,128,4,90,60521
+Oppo,A Series,6,Good,1024,4,67,3464
+Samsung,Galaxy S24,3,Good,256,4,73,35325
+Motorola,Edge 40,4,Good,64,6,79,1642
+Xiaomi,Redmi Note Pro,0,Like New,128,6,85,20905
+OnePlus,OnePlus 10,5,Like New,64,3,75,12006
+Google,Pixel 7a,3,Fair,128,6,88,14290
+Apple,iPhone 15,1,Poor,512,24,79,39984
+Vivo,V30,2,Good,128,6,100,16730
+Samsung,Galaxy S24,2,Like New,512,6,75,42437
+OnePlus,OnePlus 11,0,Fair,64,8,82,29930
+Xiaomi,Redmi Note,6,Good,256,6,70,2923
+Motorola,Edge 50,5,Poor,1024,8,73,15515
+Xiaomi,Redmi Note,6,Good,256,8,66,2046
+Xiaomi,Redmi Note,2,Good,512,16,87,17814
+Xiaomi,Redmi Note,3,Good,1024,16,79,12380
+Oppo,Reno 11,3,Good,256,12,93,13935
+Google,Pixel 7a,3,Fair,256,6,76,21653
+Oppo,A Series,4,Like New,64,8,66,1500
+Oppo,A Series,3,Fair,128,6,72,8139
+Vivo,V Series,5,Fair,128,12,73,2835
+Vivo,V27,0,Fair,512,3,92,23221
+Oppo,Reno 11,1,Fair,256,8,86,16832
+Samsung,Galaxy S22,6,Good,256,6,58,6348
+Oppo,Reno 10,6,Good,512,8,74,1500
+Motorola,Edge 50,5,Fair,64,6,84,5956
+OnePlus,OnePlus 12,2,Good,512,8,81,29373
+Motorola,Edge 30,3,Like New,64,12,91,8312
+OnePlus,OnePlus 12,0,Good,128,8,95,46937
+Xiaomi,Xiaomi 11,1,Good,256,6,100,23002
+Oppo,Reno 11,5,Fair,128,4,73,4305
+Samsung,Galaxy A,2,Good,256,12,81,42792
+OnePlus,Nord,3,Fair,256,8,83,17970
+Oppo,Reno 11,0,Poor,512,8,85,27314
+Google,Pixel 8,3,Good,128,8,80,20692
+Vivo,Y Series,5,Fair,128,8,80,4714
+Apple,iPhone 15,4,Like New,64,8,79,19233
+Motorola,Moto G,3,Like New,128,3,76,5553
+Oppo,Reno 10,6,Like New,128,8,67,3303
+Vivo,Y Series,1,Good,128,8,90,24889
+Samsung,Galaxy A,2,Good,512,4,86,31140
+Vivo,V30,4,Good,512,12,79,11514
+Google,Pixel 8a,3,Good,512,6,79,21030
+OnePlus,Nord,6,Like New,64,4,59,8032
+OnePlus,Nord,0,Fair,256,12,83,30340
+Motorola,Edge 40,0,Like New,128,16,92,27315
+Motorola,Moto G,2,Fair,128,6,87,1500
+Google,Pixel 8,3,Fair,128,12,82,18202
+Apple,iPhone 15,6,Fair,512,3,60,5981
+Vivo,V30,3,Good,256,12,75,13001
+Samsung,Galaxy S21,3,Good,128,8,67,19938
+Apple,iPhone SE,1,Good,256,12,73,35134
+Xiaomi,Xiaomi 12,3,Poor,512,8,77,7084
+Google,Pixel 6a,3,Poor,64,8,87,13376
+Xiaomi,Xiaomi 11,4,Good,512,12,74,17542
+Vivo,V Series,4,Good,128,3,88,9492
+Apple,iPhone 14,3,Fair,128,6,75,18606
+OnePlus,OnePlus 9,1,Like New,512,8,84,36156
+Xiaomi,Xiaomi 12,1,Good,64,8,76,18486
+Oppo,Reno 10,1,Good,256,3,81,24305
+Xiaomi,Redmi Note Pro,4,Fair,64,8,63,5190
+Google,Pixel 7,5,Good,256,8,57,5679
+Xiaomi,Redmi Note,6,Good,256,8,56,7374
+Vivo,V Series,2,Good,512,16,81,21833
+Google,Pixel 7,0,Good,512,8,82,56803
+Vivo,Y Series,4,Fair,256,8,69,3589
+Oppo,Reno 10,0,Fair,128,8,91,23497
+OnePlus,OnePlus 10,4,Good,128,4,60,6864
+Samsung,Galaxy A,2,Good,256,12,81,31934
+Oppo,A Series,5,Fair,128,16,76,5467
+Samsung,Galaxy A,4,Fair,64,12,80,10186
+OnePlus,OnePlus 11,5,Good,512,16,73,12357
+Samsung,Galaxy S21,2,Good,128,8,80,29121
+Xiaomi,Redmi Note,5,Like New,64,8,64,2624
+OnePlus,Nord,3,Fair,512,6,76,20096
+Motorola,Edge 50,4,Good,256,16,86,8695
+Vivo,V Series,2,Good,256,8,83,16891
+Oppo,Reno 10,3,Fair,128,6,76,4202
+Vivo,V Series,5,Good,128,12,74,8349
+Apple,iPhone SE,2,Fair,256,8,81,21555
+Google,Pixel 7,0,Good,128,16,90,48761
+Samsung,Galaxy A,2,Good,256,12,78,27272
+Vivo,V27,2,Poor,128,16,77,10331
+Motorola,Edge 30,2,Poor,128,8,88,1500
+OnePlus,OnePlus 10,0,Poor,64,8,72,20603
+Xiaomi,Redmi Note,0,Fair,128,12,92,14740
+Xiaomi,Xiaomi 13,2,Good,128,4,77,15056
+Google,Pixel 7,2,Good,256,4,65,23076
+Google,Pixel 7a,0,Good,256,24,80,46311
+Apple,iPhone 15,2,Poor,128,16,80,23744
+Google,Pixel 8,2,Good,256,16,81,33932
+OnePlus,OnePlus 11,0,Fair,128,4,94,31636
+Oppo,Reno 11,1,Fair,128,6,91,17873
+Oppo,A Series,1,Poor,512,16,72,6986
+Oppo,Reno 11,1,Poor,256,4,87,19108
+Apple,iPhone 13,5,Good,256,8,75,18161
+Oppo,Reno 8,0,Good,128,6,90,24725
+Google,Pixel 7,4,Poor,128,16,77,9979
+Google,Pixel 8,4,Good,256,8,57,18288
+Vivo,V30,5,Good,256,6,61,7289
+Oppo,Reno 10,3,Poor,256,8,88,6582
+Apple,iPhone SE,3,Fair,1024,4,74,23207
+OnePlus,OnePlus 10,5,Good,128,12,87,15560
+Motorola,Edge 40,5,Like New,512,8,59,1500
+Xiaomi,Redmi Note Pro,1,Good,256,8,97,19839
+OnePlus,OnePlus 11,5,Poor,128,8,64,5155
+Xiaomi,Xiaomi 12,3,Good,64,6,83,12266
+Oppo,A Series,0,Good,256,4,86,25382
+Samsung,Galaxy S22,4,Good,128,16,74,7497
+Motorola,Moto G,6,Fair,256,8,70,5399
+Motorola,Edge 30,0,Fair,256,8,83,23489
+Vivo,V Series,0,Good,128,8,94,24185
+OnePlus,OnePlus 12,6,Good,256,24,63,4225
+Samsung,Galaxy S24,4,Good,256,12,74,27225
+Xiaomi,Xiaomi 11,1,Good,128,4,63,11157
+Xiaomi,Xiaomi 11,5,Good,512,8,66,8704
+Google,Pixel 8,2,Good,64,8,91,30563
+Oppo,Reno 10,2,Good,1024,12,86,22092
+Oppo,Reno 10,2,Good,64,24,87,16840
+Samsung,Galaxy S23,4,Good,128,12,73,15581
+Oppo,Reno 11,0,Like New,256,16,100,36048
+Samsung,Galaxy S24,2,Like New,64,8,83,30505
+Google,Pixel 6a,2,Fair,128,8,75,17955
+Apple,iPhone 13,0,Good,128,8,95,64312
+OnePlus,OnePlus 10,5,Like New,256,12,76,5590
+Vivo,V27,0,Poor,256,6,93,18698
+Google,Pixel 7a,6,Good,64,8,62,1500
+Motorola,Edge 40,0,Fair,128,4,90,18243
+Apple,iPhone 13,2,Good,128,6,92,37858
+Motorola,Edge 30,0,Fair,1024,16,92,21007
+OnePlus,OnePlus 10,2,Good,64,4,69,13266
+Motorola,Edge 50,4,Good,256,12,68,7516
+Vivo,V Series,0,Fair,128,8,83,23438
+Xiaomi,Redmi Note,3,Fair,256,8,71,8085
+Apple,iPhone 15,5,Good,512,16,55,17546
+Google,Pixel 6a,3,Fair,128,12,92,16569
+Apple,iPhone 14,0,Good,256,12,81,70415
+Google,Pixel 8a,4,Fair,128,6,66,13867
+Apple,iPhone 12,1,Fair,256,8,69,45051
+Motorola,Edge 30,0,Like New,128,12,95,24488
+OnePlus,OnePlus 9,3,Fair,128,12,76,16333
+Samsung,Galaxy A,1,Poor,64,12,81,21931
+Apple,iPhone SE,0,Fair,64,12,86,35452
+Vivo,Y Series,5,Like New,512,6,74,11635
+Oppo,Reno 8,4,Fair,256,6,69,8247
+Oppo,Reno 10,6,Good,128,16,55,2010
+Apple,iPhone SE,3,Good,256,8,66,17742
+OnePlus,OnePlus 12,3,Fair,256,12,66,17194
+Vivo,V27,5,Good,128,8,71,1500
+Xiaomi,Redmi Note,0,Fair,128,16,95,14601
+Samsung,Galaxy S24,2,Fair,256,16,92,34050
+Samsung,Galaxy A,5,Good,128,6,56,15663
+OnePlus,OnePlus 10,2,Poor,256,16,85,8546
+Vivo,V Series,6,Good,128,6,60,4961
+Samsung,Galaxy S22,1,Good,64,8,100,35329
+Vivo,V30,2,Good,256,12,91,20323
+Motorola,Edge 50,6,Like New,256,6,79,6045
+Vivo,V Series,1,Fair,1024,6,91,20961
+Oppo,Reno 10,6,Good,128,8,68,9837
+OnePlus,OnePlus 12,0,Poor,256,24,85,33417
+Oppo,Reno 10,1,Poor,512,4,79,21044
+Samsung,Galaxy S24,4,Fair,256,12,66,17204
+OnePlus,OnePlus 10,4,Good,1024,8,78,14137
+Samsung,Galaxy S21,6,Fair,1024,8,78,6707
+Samsung,Galaxy S22,6,Like New,512,12,62,10175
+Apple,iPhone 15,4,Fair,1024,8,67,27528
+Samsung,Galaxy S24,4,Good,256,12,61,23779
+Apple,iPhone 14,2,Poor,128,12,82,23586
+Google,Pixel 8,5,Good,512,24,79,13832
+Apple,iPhone 13,4,Good,512,12,83,23120
+Apple,iPhone 12,0,Poor,64,4,99,45387
+Vivo,V Series,5,Good,128,12,72,3585
+Apple,iPhone 13,2,Fair,128,8,81,34282
+Apple,iPhone 15,3,Fair,512,4,87,32348
+Apple,iPhone 13,3,Good,128,8,68,23687
+Samsung,Galaxy S23,5,Good,128,12,65,8132
+Xiaomi,Redmi Note,1,Good,256,6,98,12934
+Oppo,Reno 11,2,Fair,64,8,72,12562
+Motorola,Edge 40,0,Poor,1024,8,88,12907
+Xiaomi,Xiaomi 13,2,Good,128,8,85,19895
+Apple,iPhone 13,0,Fair,128,16,89,52921
+Oppo,Reno 8,4,Good,128,6,82,11243
+Apple,iPhone SE,6,Good,256,12,77,11710
+Motorola,Edge 50,3,Fair,256,12,80,15642
+Google,Pixel 8,6,Fair,128,8,76,6354
+Vivo,V30,6,Good,128,8,58,5866
+OnePlus,Nord,0,Good,512,4,87,37669
+Motorola,Moto G,3,Good,256,6,96,7823
+Google,Pixel 8a,3,Like New,256,8,92,31128
+Xiaomi,Redmi Note,2,Good,128,6,70,10625
+Vivo,V27,5,Fair,1024,12,69,14964
+Motorola,Edge 30,2,Good,256,8,81,15133
+Google,Pixel 8a,0,Good,128,4,91,48197
+Google,Pixel 8a,3,Fair,1024,8,87,25636
+Motorola,Edge 50,1,Good,512,12,99,18978
+OnePlus,OnePlus 9,2,Good,256,6,81,19866
+Samsung,Galaxy S22,3,Poor,256,12,86,10082
+Google,Pixel 8,5,Like New,128,4,74,13176
+Apple,iPhone 15,1,Good,256,16,84,63499
+Samsung,Galaxy A,2,Good,128,8,67,31775
+Google,Pixel 8a,0,Good,256,8,96,57479
+Oppo,Reno 8,2,Good,128,8,85,12058
+Oppo,A Series,4,Good,128,8,76,11780
+OnePlus,OnePlus 11,4,Good,512,12,65,3860
+Google,Pixel 8,2,Fair,128,3,96,23800
+Samsung,Galaxy A,0,Good,512,6,89,60564
+Oppo,A Series,4,Good,128,6,64,5996
+Samsung,Galaxy S24,4,Good,64,8,62,18424
+Oppo,Reno 11,0,Poor,64,16,93,15250
+Oppo,A Series,3,Like New,128,4,82,10557
+Motorola,Edge 50,0,Fair,128,12,84,18746
+OnePlus,OnePlus 12,3,Good,128,12,80,13976
+Vivo,V30,4,Poor,256,4,78,6022
+Motorola,Moto G,5,Good,128,4,70,1500
+Motorola,Edge 40,4,Like New,64,8,67,3996
+Oppo,Reno 11,5,Good,128,4,77,10522
+Vivo,V30,1,Good,64,12,91,27191
+Apple,iPhone 14,5,Fair,64,8,74,15372
+Vivo,Y Series,2,Good,128,8,74,13850
+Oppo,A Series,2,Fair,256,12,70,10124
+Samsung,Galaxy S21,5,Good,256,6,70,16775
+OnePlus,Nord,2,Fair,512,16,88,22928
+Oppo,A Series,0,Good,256,8,96,28770
+Samsung,Galaxy A,5,Poor,256,6,74,4537
+Google,Pixel 8,4,Fair,128,8,69,15755
+Motorola,Edge 40,4,Good,64,6,66,1531
+Motorola,Edge 40,1,Fair,256,24,84,17656
+Vivo,V30,4,Good,128,8,73,3895
+Apple,iPhone 13,1,Good,128,16,93,45987
+OnePlus,OnePlus 10,3,Good,1024,16,73,16440
+Vivo,Y Series,3,Fair,128,8,73,7408
+Xiaomi,Xiaomi 11,5,Good,64,12,85,7068
+Samsung,Galaxy A,6,Like New,512,8,78,20849
+OnePlus,OnePlus 10,1,Fair,128,4,77,21219
+OnePlus,OnePlus 12,0,Like New,128,16,100,52826
+Xiaomi,Xiaomi 11,3,Fair,64,8,68,8312
+OnePlus,OnePlus 9,6,Like New,128,16,62,9819
+Xiaomi,Xiaomi 12,1,Good,1024,8,82,29451
+Google,Pixel 8a,3,Fair,256,4,76,22921
+Xiaomi,Xiaomi 11,2,Like New,128,8,85,11926
+Samsung,Galaxy S21,2,Fair,128,6,81,14552
+Xiaomi,Xiaomi 12,4,Good,128,6,78,10993
+Vivo,Y Series,2,Fair,256,12,77,3423
+Samsung,Galaxy S24,3,Like New,128,3,80,30858
+OnePlus,OnePlus 9,5,Fair,128,16,70,5646
+Motorola,Edge 30,2,Good,256,8,69,9261
+Xiaomi,Xiaomi 12,0,Good,512,8,92,45532
+Motorola,Moto G,6,Good,512,6,66,3238
+Xiaomi,Redmi Note Pro,1,Good,512,4,78,14834
+Motorola,Moto G,5,Good,256,8,66,6660
+Xiaomi,Redmi Note Pro,5,Like New,256,6,66,7939
+Apple,iPhone 13,3,Good,512,8,75,36087
+Oppo,A Series,0,Good,64,8,100,13479
+Google,Pixel 7,6,Good,128,6,82,10037
+Apple,iPhone 14,4,Like New,128,8,55,19759
+Google,Pixel 8a,2,Good,1024,6,84,34497
+Google,Pixel 6a,5,Good,512,6,77,12885
+Apple,iPhone 14,5,Fair,512,12,67,8845
+Vivo,Y Series,5,Fair,128,3,76,6841
+Samsung,Galaxy S22,1,Good,512,6,97,45367
+OnePlus,OnePlus 12,4,Fair,64,8,62,8320
+Google,Pixel 8,2,Like New,128,8,81,31069
+Oppo,A Series,0,Poor,256,16,100,12726
+Motorola,Edge 30,2,Good,256,12,70,17187
+Oppo,Reno 11,0,Good,512,12,87,29339
+Samsung,Galaxy S24,0,Good,128,8,84,57568
+Oppo,Reno 8,5,Like New,128,8,77,6469
+Oppo,A Series,3,Fair,128,3,86,2928
+Google,Pixel 7a,2,Good,64,12,82,23355
+Xiaomi,Xiaomi 12,1,Good,512,8,84,24327
+Apple,iPhone 13,5,Good,128,6,55,9499
+Oppo,Reno 11,4,Poor,128,8,84,7043
+Vivo,V30,4,Fair,128,12,70,13643
+Google,Pixel 8,1,Fair,256,8,83,35024
+Xiaomi,Redmi Note,0,Fair,512,4,96,17237
+Google,Pixel 8a,0,Fair,128,16,90,43504
+Apple,iPhone 14,0,Good,128,4,96,60292
+Xiaomi,Redmi Note Pro,6,Like New,512,16,70,8571
+Motorola,Edge 40,2,Good,256,8,82,13678
+Vivo,V30,4,Good,128,16,75,2688
+Vivo,V30,6,Fair,128,16,56,8834
+Google,Pixel 7a,6,Like New,1024,8,64,14417
+Vivo,Y Series,2,Like New,256,12,89,15344
+Xiaomi,Xiaomi 12,3,Fair,128,4,69,1500
+Motorola,Edge 40,3,Like New,64,4,71,8391
+Xiaomi,Redmi Note,0,Like New,128,8,81,22384
+Vivo,V30,5,Like New,128,8,70,9398
+Motorola,Moto G,4,Fair,64,3,84,4277
+Apple,iPhone 15,2,Like New,128,8,85,49186
+Apple,iPhone 13,3,Like New,64,16,59,26251
+Google,Pixel 7,5,Good,128,12,74,15099
+Xiaomi,Redmi Note,0,Fair,128,6,84,15088
+Motorola,Moto G,4,Good,128,8,77,5268
+Google,Pixel 8,6,Like New,512,6,64,15016
+Xiaomi,Redmi Note Pro,5,Fair,128,6,62,2076
+Vivo,V30,4,Fair,512,16,72,6227
+OnePlus,OnePlus 9,0,Good,512,24,84,46218
+Google,Pixel 8a,5,Good,512,6,71,16834
+Xiaomi,Xiaomi 13,5,Good,128,6,62,9118
+Google,Pixel 6a,3,Fair,128,8,68,18161
+Vivo,V27,4,Good,256,8,79,9148
+Vivo,V30,4,Poor,128,4,82,5082
+Xiaomi,Redmi Note Pro,0,Fair,64,4,93,11026
+Google,Pixel 6a,1,Good,64,8,79,30039
+Xiaomi,Xiaomi 13,5,Like New,256,6,63,1500
+Samsung,Galaxy S22,6,Fair,512,12,60,9135
+Google,Pixel 6a,1,Fair,128,12,91,37948
+Samsung,Galaxy S24,2,Fair,512,8,74,27344
+Samsung,Galaxy S23,6,Like New,256,8,72,11620
+Apple,iPhone SE,1,Fair,64,12,89,27372
+Xiaomi,Redmi Note Pro,1,Fair,128,6,94,13097
+Apple,iPhone SE,0,Poor,64,16,97,21712
+Motorola,Edge 50,1,Good,512,4,89,24023
+Google,Pixel 6a,4,Good,256,16,61,13555
+OnePlus,OnePlus 11,2,Good,256,4,85,17428
+Oppo,Reno 10,6,Fair,256,12,66,7876
+Xiaomi,Xiaomi 11,6,Fair,128,3,62,5860
+Motorola,Edge 50,6,Good,512,12,76,2375
+Motorola,Edge 50,5,Good,512,8,68,5363
+Apple,iPhone SE,4,Like New,256,3,69,14234
+Samsung,Galaxy A,3,Good,128,12,86,16726
+Xiaomi,Redmi Note,6,Fair,64,4,62,4993
+Vivo,V27,0,Like New,64,8,83,27928
+Samsung,Galaxy S22,5,Good,128,6,60,10530
+Apple,iPhone SE,0,Poor,256,12,81,28924
+Vivo,Y Series,2,Good,256,12,75,12218
+Vivo,V27,1,Good,512,8,89,24802
+Samsung,Galaxy S23,4,Good,128,12,65,11438
+Google,Pixel 7,5,Good,128,16,55,12190
+Motorola,Edge 50,0,Like New,64,12,90,20992
+Samsung,Galaxy S24,4,Fair,1024,6,68,22170
+OnePlus,OnePlus 11,1,Good,256,8,84,26770
+Google,Pixel 7a,0,Good,128,6,98,39574
+Motorola,Edge 50,2,Good,256,8,81,15612
+OnePlus,OnePlus 11,4,Like New,256,6,85,14109
+Google,Pixel 7a,1,Like New,128,12,84,36548
+OnePlus,OnePlus 10,2,Like New,128,8,88,19869
+Oppo,Reno 11,6,Like New,128,8,61,5969
+Samsung,Galaxy S22,2,Fair,128,4,81,23677
+Samsung,Galaxy A,6,Like New,256,3,58,14207
+Samsung,Galaxy S24,5,Fair,128,12,62,12430
+Vivo,Y Series,2,Like New,256,8,79,10541
+Vivo,V27,4,Like New,256,16,62,5309
+Xiaomi,Xiaomi 12,4,Like New,256,8,74,6013
+Samsung,Galaxy S22,3,Good,512,6,74,26370
+Oppo,A Series,2,Good,128,12,82,14124
+Google,Pixel 7a,2,Fair,256,12,70,19015
+Oppo,Reno 11,0,Like New,64,4,94,26763
+OnePlus,OnePlus 9,0,Good,256,12,100,42046
+Vivo,V27,2,Fair,256,6,92,16099
+Oppo,Reno 11,5,Good,128,6,84,9748
+Samsung,Galaxy S24,1,Like New,64,3,85,33536
+Motorola,Edge 40,1,Like New,256,8,81,22532
+OnePlus,OnePlus 9,2,Like New,256,12,84,26427
+OnePlus,OnePlus 11,4,Fair,256,6,71,8592
+OnePlus,OnePlus 10,1,Good,128,12,70,25499
+Motorola,Edge 40,1,Good,256,12,91,18457
+OnePlus,OnePlus 11,0,Fair,256,8,86,31313
+Motorola,Edge 40,2,Good,128,4,69,8033
+Xiaomi,Redmi Note Pro,1,Good,256,6,80,12174
+Oppo,Reno 11,5,Like New,256,6,67,3985
+Vivo,V27,6,Good,512,16,65,10610
+Apple,iPhone 15,2,Like New,128,12,81,46702
+Vivo,V27,0,Good,128,4,99,33875
+Apple,iPhone 15,0,Good,1024,8,78,95525
+Xiaomi,Xiaomi 13,2,Fair,512,6,79,15859
+OnePlus,OnePlus 12,3,Fair,128,3,70,10475
+Motorola,Edge 40,3,Fair,512,6,87,8297
+Motorola,Edge 40,2,Like New,128,4,76,12703
+Oppo,A Series,2,Poor,512,6,78,5317
+Google,Pixel 7,1,Like New,128,6,93,34136
+Vivo,V Series,3,Fair,128,8,87,10874
+OnePlus,OnePlus 11,4,Fair,1024,8,85,14547
+Samsung,Galaxy S22,0,Good,64,8,75,39196
+Google,Pixel 7a,3,Good,512,8,80,23513
+Xiaomi,Redmi Note,4,Fair,128,8,75,6737
+Motorola,Edge 40,4,Fair,64,8,72,2972
+Oppo,Reno 8,3,Like New,512,16,77,13117
+Samsung,Galaxy A,3,Fair,256,4,87,20768
+OnePlus,OnePlus 9,4,Like New,512,8,81,6644
+Vivo,V30,2,Good,512,6,88,21116
+Google,Pixel 6a,3,Good,64,8,78,22521
+Samsung,Galaxy S22,2,Fair,128,8,99,15480
+Vivo,V27,3,Good,128,12,73,14159
+Google,Pixel 6a,0,Good,256,16,75,49936
+Vivo,Y Series,2,Good,64,8,78,4517
+Vivo,V30,0,Good,128,6,88,32277
+Vivo,V27,1,Good,512,12,95,28319
+Xiaomi,Redmi Note Pro,2,Good,128,6,76,5898
+Oppo,A Series,3,Fair,256,8,81,5128
+Vivo,V Series,6,Good,128,12,55,4803
+OnePlus,OnePlus 11,0,Good,64,8,97,37365
+Apple,iPhone 14,6,Good,128,8,66,9567
+OnePlus,Nord,2,Like New,128,4,78,21470
+Motorola,Edge 40,5,Good,256,4,86,3387
+Xiaomi,Xiaomi 13,4,Good,64,24,81,7934
+Apple,iPhone 12,6,Good,512,6,57,19263
+Xiaomi,Redmi Note,0,Good,512,6,87,21789
+Samsung,Galaxy S24,6,Good,64,8,87,9045
+Xiaomi,Xiaomi 11,0,Fair,512,8,100,25469
+Xiaomi,Xiaomi 12,6,Good,512,4,73,3582
+Motorola,Edge 30,4,Good,64,6,58,2346
+Google,Pixel 7,3,Like New,512,8,87,28981
+Google,Pixel 7,2,Like New,128,8,75,32049
+Motorola,Moto G,0,Good,256,12,99,11466
+Motorola,Edge 30,5,Fair,128,6,63,6128
+Oppo,A Series,5,Like New,512,16,73,9400
+OnePlus,OnePlus 12,6,Good,512,6,60,4955
+Google,Pixel 7a,5,Good,1024,6,66,11724
+OnePlus,OnePlus 12,6,Good,1024,16,70,8734
+Xiaomi,Xiaomi 11,6,Poor,64,12,55,9022
+Samsung,Galaxy S21,2,Good,256,6,99,38261
+Google,Pixel 7a,4,Like New,128,8,65,11571
+Samsung,Galaxy A,1,Good,128,12,76,32802
+Xiaomi,Xiaomi 13,5,Like New,128,4,74,9129
+Oppo,Reno 10,4,Like New,512,6,83,13327
+Vivo,Y Series,3,Good,256,8,74,13131
+Google,Pixel 7a,4,Good,64,12,64,8841
+Apple,iPhone 13,1,Like New,1024,8,77,67902
+Samsung,Galaxy S21,4,Good,512,8,65,16435
+Apple,iPhone SE,3,Good,128,16,79,22328
+Oppo,Reno 11,2,Like New,128,4,80,15883
+Vivo,V Series,6,Fair,256,12,69,11070
+Xiaomi,Xiaomi 11,0,Good,256,4,91,28544
+Samsung,Galaxy S21,5,Poor,128,12,76,6237
+Apple,iPhone 14,1,Poor,256,8,81,30503
+Vivo,Y Series,1,Good,64,6,78,12031
+OnePlus,OnePlus 9,1,Good,256,8,85,26536
+Apple,iPhone 13,0,Fair,128,16,88,60248
+Samsung,Galaxy S22,0,Good,128,8,90,56296
+OnePlus,OnePlus 11,5,Like New,128,3,63,8359
+Motorola,Moto G,6,Good,256,4,70,5447
+Vivo,V Series,4,Good,128,8,63,15355
+OnePlus,OnePlus 11,0,Fair,128,12,84,34855
+Motorola,Edge 30,6,Fair,128,8,74,2174
+Apple,iPhone SE,4,Fair,1024,6,64,14618
+Apple,iPhone 15,3,Fair,128,12,85,21106
+Apple,iPhone 14,6,Good,128,6,55,13667
+Vivo,V27,2,Good,128,4,68,18195
+Xiaomi,Xiaomi 12,2,Poor,256,8,68,14775
+Oppo,Reno 11,5,Poor,128,8,70,6263
+Apple,iPhone 14,3,Fair,128,16,82,24360
+Apple,iPhone 13,5,Fair,512,8,79,11873
+Oppo,A Series,4,Good,256,6,83,8100
+Apple,iPhone 13,5,Good,256,12,76,15179
+Samsung,Galaxy S21,2,Fair,128,6,74,24532
+Xiaomi,Xiaomi 12,0,Like New,512,16,81,36525
+Xiaomi,Xiaomi 11,3,Good,512,6,83,14739
+Samsung,Galaxy S24,4,Good,256,16,84,27005
+Google,Pixel 7a,5,Good,256,16,61,13044
+Motorola,Edge 40,1,Good,512,16,95,21656
+Google,Pixel 8a,5,Like New,1024,3,55,19141
+Google,Pixel 7a,5,Like New,64,12,72,16721
+Apple,iPhone 12,5,Good,1024,12,68,23360
+Google,Pixel 7,5,Good,256,6,67,13172
+Oppo,Reno 11,6,Like New,256,8,65,11138
+Motorola,Edge 50,4,Fair,128,8,66,8841
+Vivo,Y Series,2,Good,128,16,84,4148
+Samsung,Galaxy S22,3,Good,512,12,77,23841
+Apple,iPhone 12,5,Good,256,8,76,22737
+Xiaomi,Xiaomi 12,1,Good,128,8,97,21741
+Samsung,Galaxy A,4,Fair,256,6,74,19460
+Xiaomi,Xiaomi 12,4,Like New,128,8,66,16617
+Vivo,V27,4,Good,128,12,64,6299
+OnePlus,OnePlus 9,2,Fair,256,8,94,15887
+Xiaomi,Redmi Note,5,Like New,256,12,82,4231
+Motorola,Edge 40,0,Fair,128,8,95,16348
+Samsung,Galaxy S21,5,Poor,64,8,69,11725
+Vivo,V30,5,Good,128,12,76,4125
+Samsung,Galaxy S23,6,Poor,256,4,76,8398
+Oppo,Reno 11,6,Good,512,16,60,10889
+Motorola,Edge 40,2,Good,256,16,81,16647
+Samsung,Galaxy S24,0,Like New,256,16,79,73014
+Motorola,Moto G,4,Like New,128,16,72,4926
+Samsung,Galaxy S21,0,Good,64,8,100,53271
+Xiaomi,Redmi Note,1,Good,512,8,93,15915
+Vivo,V27,4,Good,256,12,74,12773
+Vivo,V27,4,Good,64,6,55,6535
+Oppo,Reno 8,4,Good,256,12,68,3201
+Google,Pixel 7,5,Good,256,6,70,10497
+Xiaomi,Xiaomi 12,1,Good,128,16,82,22500
+OnePlus,Nord,5,Good,64,8,69,7498
+Vivo,V27,4,Fair,256,12,75,5462
+Google,Pixel 8,2,Good,64,8,76,28137
+Oppo,A Series,3,Fair,128,8,77,9419
+OnePlus,OnePlus 9,3,Like New,512,16,75,19907
+Motorola,Edge 30,3,Good,1024,8,71,10545
+Samsung,Galaxy S22,2,Poor,128,6,95,13275
+Motorola,Edge 30,1,Like New,64,4,80,15789
+Apple,iPhone 12,1,Good,128,8,66,58160
+Apple,iPhone 13,2,Like New,128,8,95,44866
+OnePlus,Nord,1,Like New,512,8,77,33179
+Google,Pixel 7a,3,Good,256,3,84,26796
+Motorola,Moto G,6,Like New,128,3,60,1552
+OnePlus,Nord,0,Good,256,16,93,38950
+Apple,iPhone 12,2,Fair,128,12,80,30451
+OnePlus,OnePlus 9,0,Good,256,4,96,36167
+Google,Pixel 6a,6,Like New,512,4,63,11010
+Xiaomi,Xiaomi 13,4,Fair,128,6,68,5548
+Motorola,Edge 30,1,Good,128,12,86,14253
+Samsung,Galaxy S24,2,Fair,512,12,77,30576
+Xiaomi,Xiaomi 13,5,Good,128,8,55,2049
+Motorola,Edge 50,6,Good,128,8,60,1500
+Oppo,Reno 11,4,Fair,64,12,96,10519
+Xiaomi,Redmi Note,1,Like New,128,6,70,20318
+Oppo,Reno 8,4,Fair,256,6,75,14313
+Samsung,Galaxy S23,4,Good,128,8,71,18495
+Motorola,Edge 40,4,Fair,128,24,87,4423
+Apple,iPhone SE,0,Like New,128,8,79,45553
+Apple,iPhone 13,4,Good,256,8,74,24950
+Oppo,Reno 11,0,Like New,512,12,93,35521
+Google,Pixel 8a,6,Poor,256,6,64,7296
+Xiaomi,Redmi Note Pro,6,Like New,256,8,59,10603
+Xiaomi,Redmi Note Pro,3,Like New,512,8,76,10770
+Motorola,Edge 30,4,Fair,128,24,70,13848
+Samsung,Galaxy S21,0,Good,128,4,86,44480
+Samsung,Galaxy S21,6,Good,64,8,73,9976
+Apple,iPhone 12,1,Good,128,16,87,59470
+Oppo,Reno 8,1,Good,1024,12,89,24010
+Samsung,Galaxy A,4,Good,128,8,75,19070
+Xiaomi,Redmi Note Pro,6,Good,512,6,73,9336
+Google,Pixel 7,3,Good,64,6,87,24660
+Samsung,Galaxy A,3,Good,128,8,74,22783
+Google,Pixel 8a,3,Good,128,6,83,15344
+Apple,iPhone 14,2,Like New,128,12,70,39944
+Samsung,Galaxy S24,4,Fair,128,12,55,17800
+Samsung,Galaxy S22,6,Like New,256,12,80,10717
+Oppo,A Series,2,Good,128,6,78,11597
+Xiaomi,Xiaomi 13,5,Good,512,6,71,5539
+Vivo,V Series,5,Good,512,12,59,7056
+Google,Pixel 8,5,Fair,128,6,59,13326
+Samsung,Galaxy S21,5,Good,1024,4,63,19872
+Xiaomi,Xiaomi 11,6,Fair,64,8,70,1500
+Vivo,V Series,5,Fair,128,6,65,3258
+Xiaomi,Redmi Note Pro,6,Fair,128,4,63,1500
+Apple,iPhone 13,5,Fair,256,6,63,19729
+OnePlus,OnePlus 11,5,Like New,256,16,78,14243
+Vivo,Y Series,6,Poor,256,4,72,1500
+Xiaomi,Redmi Note,6,Fair,512,8,61,2978
+Vivo,V30,4,Good,128,8,78,9052
+Xiaomi,Xiaomi 11,4,Like New,512,8,71,7781
+Apple,iPhone 15,6,Like New,256,8,62,19518
+Oppo,Reno 10,2,Good,128,3,80,18150
+Oppo,Reno 10,0,Good,128,4,93,27490
+Motorola,Edge 50,6,Fair,128,8,58,1500
+Vivo,V27,4,Good,128,16,77,6571
+Samsung,Galaxy S21,2,Good,256,8,100,33192
+Vivo,V27,5,Good,128,8,70,4732
+Samsung,Galaxy S21,0,Like New,128,24,88,57477
+Vivo,V Series,3,Like New,256,12,76,15460
+Samsung,Galaxy S23,1,Fair,256,12,88,29918
+Xiaomi,Redmi Note,2,Good,512,8,68,9284
+Oppo,Reno 10,6,Poor,256,16,79,3258
+Apple,iPhone 13,3,Fair,256,8,84,30186
+Apple,iPhone 12,0,Fair,128,8,83,63180
+Oppo,A Series,2,Good,256,12,81,12438
+Apple,iPhone 14,1,Fair,128,8,80,39891
+Xiaomi,Xiaomi 13,6,Poor,128,16,68,2412
+Vivo,V27,2,Fair,1024,24,81,20484
+Xiaomi,Xiaomi 11,2,Like New,256,8,82,18556
+Google,Pixel 8,2,Good,256,6,72,35396
+Google,Pixel 7a,1,Like New,128,12,80,31064
+Motorola,Edge 30,5,Like New,256,6,78,3350
+Xiaomi,Redmi Note Pro,4,Fair,128,8,69,5685
+Xiaomi,Redmi Note Pro,3,Fair,128,4,55,7498
+Samsung,Galaxy S24,2,Like New,128,12,79,45411
+Motorola,Edge 40,4,Like New,128,16,92,1713
+Motorola,Moto G,0,Fair,64,4,95,11024
+Motorola,Edge 50,6,Like New,256,12,61,5201
+Apple,iPhone SE,3,Like New,128,16,76,22419
+Motorola,Edge 40,1,Fair,512,4,90,21546
+Motorola,Moto G,3,Fair,512,6,63,9186
+Samsung,Galaxy S21,5,Good,128,8,62,6318
+Oppo,Reno 10,1,Good,256,12,87,28479
+Xiaomi,Xiaomi 13,3,Good,128,8,89,16370
+Google,Pixel 8a,4,Good,512,4,69,19845
+Motorola,Edge 50,5,Fair,128,6,82,1500
+Xiaomi,Redmi Note Pro,3,Fair,128,8,71,5719
+Xiaomi,Redmi Note,5,Good,128,3,55,5644
+OnePlus,OnePlus 12,5,Good,512,8,75,16278
+Vivo,V30,6,Good,128,3,70,1500
+Vivo,V Series,2,Like New,512,12,86,17211
+Samsung,Galaxy A,4,Good,128,12,78,20573
+Motorola,Edge 40,1,Like New,256,16,86,25095
+Apple,iPhone SE,5,Fair,128,4,67,10122
+OnePlus,Nord,6,Good,64,8,63,10001
+Vivo,V30,2,Fair,128,12,77,16107
+Samsung,Galaxy S22,3,Good,128,8,73,24657
+Google,Pixel 6a,5,Fair,256,4,55,9322
+Samsung,Galaxy S23,0,Poor,256,4,78,31934
+Motorola,Edge 30,4,Good,128,8,71,2531
+Google,Pixel 7a,5,Like New,128,8,55,13464
+Xiaomi,Xiaomi 13,6,Fair,64,16,55,1500
+Vivo,Y Series,1,Like New,256,12,82,19629
+Xiaomi,Xiaomi 12,5,Good,256,12,68,6497
+Motorola,Edge 50,5,Like New,512,24,66,9533
+Apple,iPhone 13,0,Fair,512,12,69,56876
+Samsung,Galaxy S24,4,Like New,128,4,85,18772
+Vivo,V Series,4,Good,128,4,61,9133
+Oppo,Reno 8,6,Good,512,12,59,8570
+Motorola,Edge 50,0,Good,128,8,78,28360
+Google,Pixel 8,6,Good,64,16,76,4934
+Samsung,Galaxy S24,3,Fair,128,4,80,14994
+Oppo,Reno 11,1,Fair,256,6,80,14556
+Oppo,Reno 10,2,Good,256,12,76,13335
+Samsung,Galaxy S21,5,Good,1024,12,70,21663
+Xiaomi,Redmi Note Pro,6,Fair,128,16,55,7408
+Xiaomi,Xiaomi 13,2,Fair,128,4,83,7890
+Google,Pixel 8,6,Good,128,8,61,15221
+Vivo,V Series,4,Good,256,8,77,13821
+Apple,iPhone 12,1,Like New,128,16,88,57500
+OnePlus,OnePlus 11,4,Like New,512,6,68,11290
+Apple,iPhone SE,5,Like New,256,8,55,6704
+Motorola,Moto G,0,Like New,256,4,86,17221
+Motorola,Edge 50,0,Like New,512,12,76,32334
+Vivo,V Series,0,Fair,128,4,89,20832
+Xiaomi,Xiaomi 12,3,Fair,256,24,75,4927
+Samsung,Galaxy S22,0,Fair,128,4,83,34403
+Google,Pixel 8a,6,Good,512,12,55,12031
+Apple,iPhone 13,0,Good,512,12,97,81178
+Motorola,Edge 50,0,Like New,256,6,84,22107
+Motorola,Edge 50,1,Fair,128,6,100,11459
+Oppo,A Series,5,Good,1024,8,69,9709
+OnePlus,OnePlus 12,6,Good,512,8,68,5254
+OnePlus,OnePlus 11,1,Poor,256,12,85,18046
+Apple,iPhone SE,3,Fair,1024,8,79,16132
+Google,Pixel 6a,5,Good,256,6,78,14598
+Google,Pixel 7,5,Fair,128,16,78,2092
+Oppo,A Series,1,Like New,128,6,70,14018
+Oppo,Reno 8,5,Like New,64,8,76,9778
+Samsung,Galaxy S24,6,Like New,256,16,69,15547
+OnePlus,OnePlus 10,5,Like New,256,16,69,9304
+Xiaomi,Redmi Note,3,Fair,64,6,90,3382
+OnePlus,OnePlus 10,2,Good,128,6,94,20490
+Apple,iPhone 12,6,Like New,256,8,72,11817
+Oppo,Reno 11,6,Poor,256,6,61,2712
+Motorola,Moto G,3,Good,1024,12,67,8173
+Xiaomi,Xiaomi 12,5,Good,128,8,75,5830
+OnePlus,OnePlus 10,2,Good,512,6,91,28873
+Oppo,A Series,5,Good,128,8,55,1500
+Apple,iPhone 14,0,Good,128,12,97,59868
+Google,Pixel 7a,6,Good,256,12,63,6995
+Oppo,Reno 11,3,Fair,128,8,62,9555
+Vivo,V27,4,Good,256,4,77,8638
+OnePlus,OnePlus 11,1,Good,128,8,91,27701
+Motorola,Edge 30,3,Like New,128,8,74,5810
+Samsung,Galaxy A,0,Fair,256,12,80,42032
+Apple,iPhone SE,6,Good,64,16,79,6250
+OnePlus,OnePlus 10,5,Good,128,16,64,7090
+Vivo,V Series,3,Poor,128,8,86,10477
+Motorola,Edge 50,5,Good,128,16,57,7004
+Google,Pixel 7a,5,Like New,256,6,72,10559
+OnePlus,OnePlus 12,0,Good,128,8,91,47664
+Samsung,Galaxy A,0,Good,256,8,95,58047
+OnePlus,OnePlus 9,1,Poor,256,12,96,13863
+Samsung,Galaxy S23,0,Good,256,12,81,44253
+Samsung,Galaxy A,4,Good,128,6,77,11471
+Motorola,Edge 30,3,Good,256,16,66,12143
+Samsung,Galaxy S23,3,Good,512,16,66,29061
+Apple,iPhone 13,0,Like New,128,16,83,63758
+Xiaomi,Xiaomi 12,6,Fair,512,8,68,7657
+OnePlus,OnePlus 10,6,Like New,64,24,79,9291
+Google,Pixel 8a,4,Fair,128,12,88,19262
+Samsung,Galaxy S24,0,Fair,256,8,85,56598
+Samsung,Galaxy S24,2,Like New,128,8,83,41382
+Google,Pixel 6a,5,Fair,64,12,77,9808
+Motorola,Edge 40,5,Fair,64,12,75,5531
+Google,Pixel 6a,1,Good,64,8,83,28291
+Xiaomi,Redmi Note Pro,5,Good,256,24,70,7968
+Xiaomi,Redmi Note Pro,6,Like New,128,6,64,1500
+OnePlus,OnePlus 11,3,Like New,512,8,75,19782
+OnePlus,OnePlus 10,2,Fair,512,6,78,22003
+Google,Pixel 8a,3,Like New,128,8,76,28593
+Apple,iPhone 12,0,Good,128,6,85,71079
+Motorola,Edge 40,3,Good,128,6,68,12139
+Xiaomi,Xiaomi 12,0,Like New,512,8,95,38574
+OnePlus,OnePlus 12,0,Fair,128,4,92,38227
+OnePlus,OnePlus 9,3,Fair,64,3,92,8662
+OnePlus,OnePlus 11,3,Fair,1024,12,80,19780
+Motorola,Moto G,6,Like New,128,6,62,2606
+Oppo,Reno 10,3,Good,128,3,72,6717
+Apple,iPhone 13,6,Fair,512,4,66,10346
+Google,Pixel 8a,5,Good,512,6,73,19473
+Apple,iPhone 14,2,Fair,128,4,78,24507
+Google,Pixel 8a,6,Good,128,16,55,4204
+Samsung,Galaxy S24,3,Good,128,8,71,26378
+OnePlus,OnePlus 10,4,Good,128,8,73,5950
+Google,Pixel 8,0,Good,128,8,94,57775
+OnePlus,Nord,1,Like New,128,4,72,33375
+Google,Pixel 7a,3,Fair,256,12,79,20862
+Oppo,A Series,1,Good,256,16,86,16794
+Oppo,Reno 10,4,Like New,1024,4,69,17502
+Apple,iPhone 15,0,Fair,512,4,83,74445
+Google,Pixel 8,1,Good,64,8,78,32458
+Oppo,Reno 11,4,Good,128,4,74,13464
+Xiaomi,Redmi Note Pro,4,Poor,256,4,82,1500
+Samsung,Galaxy S24,6,Fair,128,12,75,8586
+Xiaomi,Xiaomi 11,6,Good,64,8,56,1500
+Samsung,Galaxy S23,5,Fair,256,6,68,11293
+Apple,iPhone 14,0,Good,128,12,70,60325
+Motorola,Edge 40,4,Good,64,4,74,4377
+Xiaomi,Redmi Note Pro,1,Good,256,6,89,14419
+Oppo,Reno 10,1,Like New,1024,12,97,28232
+OnePlus,OnePlus 11,1,Good,256,8,70,29531
+Oppo,Reno 11,3,Good,128,8,68,15801
+Google,Pixel 7a,0,Fair,256,12,89,36565
+Motorola,Edge 40,3,Good,512,8,64,13565
+Apple,iPhone 13,1,Good,64,16,86,45159
+Apple,iPhone SE,3,Fair,256,8,82,19006
+Oppo,A Series,4,Poor,256,8,63,3787
+Oppo,A Series,1,Good,256,12,85,14043
+Vivo,V27,0,Fair,128,6,78,22175
+OnePlus,OnePlus 10,5,Fair,512,12,80,11007
+Apple,iPhone 15,5,Like New,128,6,71,16396
+Vivo,V27,1,Good,64,8,79,12814
+Xiaomi,Redmi Note,6,Good,64,12,55,3239
+Samsung,Galaxy A,1,Fair,128,8,87,33995
+Oppo,Reno 8,6,Good,64,4,76,7923
+Vivo,V30,0,Good,256,8,82,37681
+OnePlus,Nord,4,Fair,512,12,69,13043
+Oppo,A Series,0,Good,64,24,82,17367
+Oppo,A Series,1,Good,512,8,97,18240
+Xiaomi,Xiaomi 11,2,Fair,1024,4,65,9746
+Motorola,Edge 50,0,Poor,64,8,98,11094
+OnePlus,OnePlus 11,3,Fair,256,8,74,13882
+Vivo,V Series,1,Good,1024,4,84,23779
+Vivo,Y Series,0,Like New,256,16,85,23329
+Vivo,V Series,6,Good,256,8,67,1500
+Motorola,Edge 40,6,Good,512,8,59,1500
+Apple,iPhone 12,6,Good,256,8,74,17916
+OnePlus,OnePlus 11,1,Fair,128,3,93,19198
+Google,Pixel 8a,2,Fair,128,8,73,21086
+Vivo,Y Series,2,Good,256,8,86,12252
+Xiaomi,Redmi Note Pro,2,Good,128,6,78,6810
+Xiaomi,Redmi Note,2,Good,128,8,81,14171
+Samsung,Galaxy S23,3,Good,128,8,89,17800
+Oppo,Reno 8,3,Fair,512,8,71,11223
+OnePlus,OnePlus 9,2,Like New,256,16,88,23558
+Apple,iPhone 12,6,Fair,128,8,69,11727
+Vivo,Y Series,6,Like New,128,8,64,1941
+Samsung,Galaxy S22,2,Good,128,16,83,29682
+Apple,iPhone 14,1,Poor,64,8,86,29159
+Apple,iPhone 12,3,Good,256,8,67,31575
+Google,Pixel 6a,2,Like New,64,12,76,21799
+Apple,iPhone 13,6,Good,1024,8,57,13427
+Oppo,Reno 10,3,Good,128,16,74,17054
+Xiaomi,Redmi Note Pro,0,Like New,64,8,99,17836
+OnePlus,OnePlus 9,0,Like New,512,8,93,52706
+Apple,iPhone SE,0,Like New,128,4,77,45351
+Google,Pixel 8,2,Good,128,6,78,32726
+Samsung,Galaxy S24,2,Good,64,8,82,31888
+Vivo,V30,5,Fair,256,6,75,8673
+OnePlus,OnePlus 10,6,Fair,128,8,60,1500
+Google,Pixel 8,0,Like New,512,6,78,58543
+Apple,iPhone 12,6,Good,256,3,65,17846
+Samsung,Galaxy A,4,Like New,512,8,77,24893
+Samsung,Galaxy S21,2,Good,256,8,82,40027
+Apple,iPhone 14,2,Good,256,6,73,32751
+Motorola,Edge 40,3,Fair,256,12,91,10390
+Vivo,V30,1,Good,128,4,83,18790
+Vivo,V30,6,Good,256,4,67,3387
+OnePlus,OnePlus 9,0,Fair,256,16,83,32210
+Oppo,A Series,0,Fair,64,16,97,16622
+Xiaomi,Redmi Note Pro,1,Good,256,8,89,12895
+Apple,iPhone 15,1,Good,128,8,87,56515
+Apple,iPhone 15,0,Poor,256,12,79,50227
+Xiaomi,Redmi Note,2,Good,64,8,89,13412
+Google,Pixel 6a,2,Fair,64,4,86,20287
+Apple,iPhone 13,0,Fair,64,4,96,47410
+Vivo,V27,5,Good,128,4,69,5599
+Motorola,Edge 50,6,Good,64,12,65,2201
+Xiaomi,Xiaomi 12,5,Like New,128,8,68,9616
+Vivo,Y Series,3,Good,256,6,95,5457
+Vivo,Y Series,6,Good,128,6,61,3749
+Vivo,V27,2,Fair,1024,4,71,11115
+OnePlus,OnePlus 10,2,Fair,512,12,77,20628
+Vivo,V30,0,Fair,128,16,84,22270
+Xiaomi,Xiaomi 11,4,Poor,128,8,83,3415
+Motorola,Edge 40,0,Fair,128,12,77,14985
+Oppo,Reno 8,4,Like New,128,6,68,6359
+Samsung,Galaxy A,5,Good,128,8,71,11923
+Google,Pixel 8a,1,Good,256,8,94,35242
+Samsung,Galaxy S24,4,Good,256,4,79,14280
+OnePlus,Nord,2,Good,128,8,93,24378
+Google,Pixel 8,2,Good,256,12,83,33481
+Oppo,Reno 8,3,Good,128,4,75,8588
+Oppo,Reno 8,1,Good,512,8,91,28370
+Google,Pixel 8a,5,Fair,1024,16,58,11058
+OnePlus,OnePlus 12,2,Good,128,12,67,22220
+Xiaomi,Redmi Note,3,Good,256,8,84,5936
+Vivo,V Series,5,Good,512,6,71,14182
+Vivo,V30,1,Good,128,12,92,25038
+Samsung,Galaxy S24,3,Good,64,4,70,22324
+Samsung,Galaxy A,6,Good,256,6,75,11816
+Motorola,Edge 50,2,Good,128,4,86,7479
+OnePlus,OnePlus 10,0,Good,128,8,88,34781
+Samsung,Galaxy S22,1,Like New,256,8,86,46899
+Apple,iPhone SE,6,Poor,128,12,68,4896
+Google,Pixel 8,5,Fair,64,8,62,16711
+Google,Pixel 8,5,Good,1024,16,66,14702
+Xiaomi,Xiaomi 12,1,Good,128,8,87,25860
+Samsung,Galaxy S23,5,Good,256,8,66,16091
+Motorola,Edge 50,2,Fair,256,6,69,12795
+Motorola,Edge 50,5,Good,64,6,71,6550
+Google,Pixel 8,6,Fair,256,8,72,7568
+Samsung,Galaxy S24,1,Fair,256,12,93,35267
+Xiaomi,Xiaomi 12,6,Good,128,6,69,6597
+Motorola,Edge 40,4,Fair,256,8,79,7772
+OnePlus,OnePlus 10,5,Good,512,8,77,12947
+OnePlus,OnePlus 11,5,Good,512,8,70,10916
+Xiaomi,Redmi Note,1,Good,64,6,67,14974
+OnePlus,OnePlus 10,5,Fair,128,4,78,4174
+Google,Pixel 7a,1,Like New,256,6,77,42876
+OnePlus,OnePlus 12,1,Good,512,16,75,36222
+OnePlus,Nord,0,Good,512,12,79,43713
+Motorola,Edge 40,1,Poor,128,4,100,11741
+Google,Pixel 6a,6,Good,512,4,69,7461
+Google,Pixel 8a,2,Good,128,8,72,31145
+Motorola,Edge 50,2,Good,128,6,75,12653
+OnePlus,OnePlus 9,3,Good,256,12,77,18062
+Apple,iPhone 15,4,Fair,128,8,77,19142
+Oppo,Reno 8,4,Poor,256,12,75,3683
+Apple,iPhone 15,3,Fair,128,4,69,32457
+Xiaomi,Xiaomi 12,5,Fair,256,16,72,3815
+OnePlus,Nord,3,Good,512,12,72,10996
+Samsung,Galaxy S21,5,Good,128,12,77,9868
+Apple,iPhone 13,6,Good,256,16,66,13508
+Vivo,Y Series,4,Good,256,8,67,5227
+Google,Pixel 6a,0,Good,128,4,94,46339
+OnePlus,OnePlus 12,1,Fair,256,8,87,33177
+Motorola,Edge 50,4,Good,256,12,69,7854
+Apple,iPhone 13,3,Good,128,12,82,21920
+Xiaomi,Redmi Note Pro,1,Good,512,8,89,12112
+Google,Pixel 6a,2,Fair,128,12,90,21093
+Xiaomi,Xiaomi 13,0,Fair,128,6,94,15219
+Apple,iPhone 12,1,Good,128,6,82,53573
+Vivo,Y Series,5,Fair,256,8,55,8920
+Samsung,Galaxy S21,0,Fair,512,8,89,50961
+Motorola,Edge 30,5,Good,128,6,72,5272
+Motorola,Edge 40,2,Fair,64,12,81,5473
+OnePlus,OnePlus 9,5,Good,64,8,55,8332
+Samsung,Galaxy S24,1,Good,256,8,90,49110
+OnePlus,OnePlus 11,5,Like New,128,6,62,10116
+Oppo,Reno 11,4,Good,128,6,78,11244
+Vivo,V Series,5,Good,128,12,83,9833
+Vivo,V27,0,Like New,128,12,86,29167
+Samsung,Galaxy S21,5,Good,256,6,73,15120
+Xiaomi,Xiaomi 12,1,Good,256,12,84,23335
+Samsung,Galaxy S23,2,Good,128,12,85,33465
+Motorola,Edge 30,0,Like New,128,12,89,20475
+Google,Pixel 8a,6,Like New,128,8,61,9247
+Motorola,Edge 50,4,Good,256,8,66,13045
+Motorola,Edge 50,6,Fair,64,12,78,1874
+Vivo,Y Series,3,Fair,128,8,80,1955
+Google,Pixel 8,1,Good,256,6,91,41325
+OnePlus,Nord,2,Fair,128,8,84,22149
+Xiaomi,Redmi Note,3,Good,256,8,84,1500
+Samsung,Galaxy S24,1,Poor,128,8,77,25851
+Apple,iPhone SE,6,Like New,128,16,66,7005
+Xiaomi,Xiaomi 13,6,Good,256,8,69,4497
+Oppo,Reno 8,3,Good,128,6,87,10499
+Xiaomi,Redmi Note Pro,4,Good,128,16,94,9729
+Oppo,A Series,4,Like New,512,6,76,8263
+Samsung,Galaxy S23,4,Like New,128,3,68,19920
+Google,Pixel 8,0,Good,512,12,78,65943
+Xiaomi,Xiaomi 11,3,Fair,128,16,69,9040
+OnePlus,OnePlus 12,5,Fair,512,12,63,9102
+Apple,iPhone 12,5,Good,512,8,55,22032
+Apple,iPhone 13,4,Fair,64,8,67,16679
+Vivo,V Series,6,Good,256,12,71,1500
+Xiaomi,Xiaomi 11,4,Poor,256,16,73,6167
+OnePlus,Nord,2,Like New,128,4,78,20729
+OnePlus,OnePlus 10,3,Fair,128,16,64,11412
+Apple,iPhone 13,4,Fair,512,8,81,17907
+Vivo,V27,6,Fair,256,3,69,1925
+Apple,iPhone 13,1,Fair,1024,4,84,53179
+Oppo,Reno 10,2,Good,512,4,63,15722
+Samsung,Galaxy S22,4,Fair,512,16,69,20302
+OnePlus,OnePlus 9,5,Good,256,8,72,10315
+OnePlus,OnePlus 9,2,Good,256,12,80,19442
+Oppo,Reno 10,4,Poor,512,3,74,6446
+Apple,iPhone 15,0,Good,256,12,93,80433
+OnePlus,OnePlus 11,2,Good,64,8,82,20990
+OnePlus,OnePlus 11,6,Fair,256,16,70,5596
+OnePlus,OnePlus 12,4,Good,64,8,66,15312
+Samsung,Galaxy S24,6,Like New,512,12,55,18896
+Vivo,V27,1,Good,256,8,88,15821
+Google,Pixel 6a,2,Fair,256,8,86,21010
+Google,Pixel 8,6,Fair,128,16,69,3778
+Google,Pixel 8,6,Like New,256,8,66,18677
+Vivo,V Series,6,Good,128,16,63,3346
+OnePlus,OnePlus 12,2,Good,256,3,82,21257
+OnePlus,OnePlus 12,5,Fair,256,8,72,17378
+OnePlus,OnePlus 9,3,Fair,128,16,80,10908
+OnePlus,OnePlus 10,5,Poor,128,16,90,1500
+Apple,iPhone SE,5,Good,256,8,62,7758
+Xiaomi,Redmi Note,3,Good,128,8,100,8719
+Apple,iPhone 12,2,Good,512,12,70,50342
+Samsung,Galaxy S21,6,Good,512,6,68,7976
+Samsung,Galaxy S21,3,Good,256,16,67,22147
+OnePlus,Nord,3,Like New,128,6,79,17008
+Oppo,Reno 8,4,Like New,64,4,81,12980
+Xiaomi,Xiaomi 12,6,Poor,512,12,65,4998
+Vivo,V Series,0,Like New,1024,8,96,35558
+OnePlus,OnePlus 10,6,Good,128,8,62,5827
+Vivo,V Series,2,Fair,256,6,64,15309
+Apple,iPhone 14,0,Like New,128,24,93,78678
+Xiaomi,Xiaomi 12,2,Good,128,8,81,13013
+Oppo,Reno 11,3,Good,1024,24,73,19626
+Xiaomi,Redmi Note,4,Good,512,6,70,5737
+Vivo,V30,3,Good,1024,8,80,11588
+OnePlus,OnePlus 9,0,Good,128,6,81,29291
+Apple,iPhone SE,3,Good,128,8,80,24186
+Oppo,Reno 10,1,Like New,512,4,94,31301
+Apple,iPhone SE,1,Like New,256,3,100,38170
+Oppo,A Series,4,Good,128,8,84,5714
+Motorola,Edge 50,5,Good,256,12,70,1500
+Oppo,A Series,1,Poor,64,8,86,10385
+Google,Pixel 7a,4,Like New,256,8,70,16398
+Vivo,Y Series,2,Good,512,8,77,7267
+Samsung,Galaxy A,2,Good,64,8,87,26870
+Google,Pixel 6a,4,Fair,128,12,70,6757
+Apple,iPhone SE,1,Good,256,12,87,40579
+Oppo,Reno 8,5,Like New,256,12,61,3978
+Motorola,Edge 30,2,Good,128,6,91,13421
+Oppo,A Series,0,Good,64,8,85,15178
+Oppo,Reno 8,5,Fair,256,12,78,1500
+OnePlus,OnePlus 9,5,Good,128,16,63,12536
+Apple,iPhone 13,3,Fair,256,8,71,27549
+Vivo,V30,5,Good,256,8,80,6615
+Google,Pixel 8,1,Good,128,12,79,39981
+Apple,iPhone 15,2,Like New,256,24,68,52640
+Vivo,Y Series,2,Fair,256,8,72,11066
+Vivo,Y Series,5,Fair,256,6,76,10158
+Google,Pixel 8,2,Good,256,12,86,34682
+Oppo,Reno 8,5,Good,128,12,63,5323
+Apple,iPhone 15,2,Like New,128,4,75,44783
+Apple,iPhone 13,4,Good,128,6,78,18690
+OnePlus,OnePlus 9,1,Fair,128,8,95,19656
+Motorola,Edge 50,3,Good,128,12,76,15200
+Samsung,Galaxy S22,0,Fair,128,12,92,44512
+Apple,iPhone 15,5,Fair,256,4,76,9396
+Motorola,Edge 30,0,Fair,128,6,100,15385
+Oppo,A Series,6,Fair,512,12,56,6124
+Motorola,Edge 40,5,Good,256,4,64,1500
+Oppo,A Series,4,Good,64,8,69,2949
+Oppo,Reno 10,6,Good,256,8,72,14835
+Xiaomi,Xiaomi 11,5,Fair,128,6,67,3729
+Xiaomi,Xiaomi 12,0,Poor,512,12,90,25035
+Oppo,Reno 11,5,Good,512,4,70,12856
+OnePlus,OnePlus 10,2,Poor,512,12,80,11630
+Apple,iPhone 15,5,Poor,256,8,70,12409
+Oppo,A Series,6,Good,512,8,73,11553
+OnePlus,Nord,6,Fair,256,16,57,7710
+Vivo,V30,3,Good,512,6,75,23785
+Google,Pixel 7a,1,Good,128,12,74,30403
+Oppo,Reno 8,0,Like New,512,6,90,41157
+Apple,iPhone SE,1,Good,256,24,83,39599
+Motorola,Edge 30,6,Fair,128,3,74,1943
+Google,Pixel 8,4,Good,1024,8,73,23716
+Google,Pixel 8a,2,Fair,256,6,77,25305
+OnePlus,OnePlus 12,3,Good,512,8,75,21848
+Vivo,V Series,1,Fair,64,4,98,16239
+Google,Pixel 7a,3,Good,256,6,64,13159
+Oppo,A Series,2,Good,256,4,75,8793
+Google,Pixel 6a,5,Good,64,3,69,11533
+Apple,iPhone 13,0,Good,256,12,83,73333
+Vivo,V27,6,Like New,256,8,69,6952
+Samsung,Galaxy A,0,Like New,128,4,88,53534
+OnePlus,OnePlus 10,2,Good,256,16,82,25272
+Oppo,Reno 10,2,Good,128,8,81,18757
+Vivo,V30,5,Good,512,6,68,3797
+Vivo,V30,4,Good,512,8,62,9760
+Google,Pixel 7,1,Fair,128,8,86,26802
+Oppo,Reno 8,3,Good,256,8,62,12921
+OnePlus,OnePlus 12,3,Fair,128,12,71,7893
+Motorola,Edge 40,3,Good,128,8,81,4798
+Xiaomi,Redmi Note Pro,0,Like New,512,16,98,24926
+Apple,iPhone 14,1,Fair,128,12,100,44883
+Google,Pixel 6a,3,Fair,128,24,73,14476
+Google,Pixel 7a,1,Good,128,8,77,29899
+OnePlus,OnePlus 9,3,Good,256,12,81,19686
+OnePlus,OnePlus 12,1,Good,512,12,99,40479
+Xiaomi,Redmi Note,5,Good,128,12,81,7697
+Apple,iPhone 15,1,Fair,128,3,76,41932
+Samsung,Galaxy S21,4,Good,64,4,72,10109
+Oppo,A Series,5,Like New,128,6,76,10086
+OnePlus,OnePlus 11,2,Like New,128,6,88,26990
+Xiaomi,Xiaomi 12,0,Like New,256,16,93,33719
+Xiaomi,Redmi Note,0,Good,256,12,84,21558
+Xiaomi,Redmi Note,2,Good,64,4,85,7895
+Google,Pixel 6a,0,Fair,256,8,95,42249
+Google,Pixel 7a,6,Good,256,6,58,5348
+Oppo,A Series,6,Good,128,12,76,6778
+Vivo,V27,6,Good,128,16,73,9204
+OnePlus,Nord,6,Good,256,6,59,3809
+Motorola,Edge 50,4,Good,64,8,80,7642
+Vivo,V30,2,Good,512,16,87,26369
+Apple,iPhone 14,3,Poor,512,8,83,15510
+Oppo,Reno 11,1,Poor,512,16,97,12873
+Google,Pixel 8a,5,Fair,64,8,69,11482
+Vivo,Y Series,3,Fair,64,6,79,5318
+Xiaomi,Redmi Note Pro,2,Good,512,12,59,6370
+Oppo,Reno 11,4,Good,128,4,82,7488
+Samsung,Galaxy S21,2,Good,128,12,89,35920
+Samsung,Galaxy S23,2,Fair,256,12,91,34244
+Vivo,V30,1,Like New,64,6,77,19630
+Xiaomi,Xiaomi 13,0,Good,256,8,96,25117
+Xiaomi,Redmi Note Pro,0,Like New,512,12,96,22907
+Samsung,Galaxy S21,2,Good,256,16,75,38365
+Samsung,Galaxy A,6,Fair,128,8,74,10630
+Oppo,Reno 8,1,Like New,1024,12,88,34698
+OnePlus,OnePlus 9,4,Good,256,6,59,15830
+Xiaomi,Xiaomi 11,2,Good,64,16,85,8847
+OnePlus,OnePlus 10,2,Fair,256,12,74,15569
+OnePlus,OnePlus 12,1,Like New,64,4,71,27211
+Samsung,Galaxy S23,3,Like New,128,12,80,22073
+Vivo,V27,4,Good,256,12,72,7030
+Vivo,Y Series,2,Good,128,12,92,9262
+Apple,iPhone 13,3,Fair,64,6,78,21852
+OnePlus,OnePlus 11,3,Good,256,12,83,18404
+Xiaomi,Redmi Note Pro,1,Poor,128,12,88,12437
+Google,Pixel 7a,4,Good,256,6,81,16383
+Motorola,Edge 40,3,Good,128,6,70,6436
+OnePlus,OnePlus 11,0,Poor,256,16,90,25125
+Apple,iPhone 15,3,Like New,512,8,75,35619
+OnePlus,OnePlus 10,2,Fair,64,8,86,7540
+Xiaomi,Redmi Note Pro,5,Like New,256,16,71,7664
+Samsung,Galaxy S21,2,Good,128,4,75,30737
+Oppo,Reno 10,6,Like New,128,12,62,5634
+Apple,iPhone 13,4,Good,128,8,86,19557
+Apple,iPhone 13,0,Fair,128,4,74,43395
+Xiaomi,Redmi Note,2,Like New,64,16,86,14581
+Xiaomi,Xiaomi 11,6,Like New,256,12,75,7418
+OnePlus,OnePlus 9,1,Good,256,6,89,31465
+OnePlus,OnePlus 10,4,Good,1024,16,89,16572
+Apple,iPhone 15,5,Good,512,16,77,21121
+Motorola,Edge 50,4,Poor,128,12,76,1500
+Google,Pixel 7a,0,Like New,128,4,84,45908
+Apple,iPhone 15,2,Good,64,6,84,35836
+Google,Pixel 8a,2,Good,256,12,86,31739
+Vivo,V Series,2,Good,512,16,80,24413
+OnePlus,OnePlus 11,6,Good,128,6,59,6308
+Vivo,V Series,0,Fair,128,8,78,12337
+OnePlus,OnePlus 12,3,Good,128,4,78,16076
+Samsung,Galaxy S21,6,Fair,512,8,55,5246
+OnePlus,OnePlus 9,6,Good,128,8,61,6121
+OnePlus,Nord,4,Good,256,3,55,6778
+Apple,iPhone 15,6,Fair,128,8,72,12789
+Xiaomi,Redmi Note Pro,2,Fair,128,8,90,7608
+OnePlus,OnePlus 12,4,Fair,128,8,73,9774
+Motorola,Moto G,3,Good,256,16,91,8262
+Google,Pixel 7a,0,Poor,256,4,99,27368
+Google,Pixel 7a,0,Fair,128,4,92,34425
+Google,Pixel 7a,6,Fair,128,8,64,5686
+Samsung,Galaxy A,1,Fair,128,8,81,30796
+Motorola,Moto G,2,Poor,64,6,85,5731
+Apple,iPhone 12,4,Good,64,16,72,22930
+Motorola,Edge 30,4,Fair,128,6,77,9534
+Vivo,V30,3,Fair,256,6,82,9959
+Oppo,Reno 8,6,Fair,512,12,63,5750
+Google,Pixel 7,5,Fair,256,16,78,18627
+OnePlus,OnePlus 9,6,Good,256,8,63,7166
+Oppo,Reno 10,4,Good,1024,3,73,10756
+OnePlus,OnePlus 10,6,Good,1024,8,57,4074
+Google,Pixel 8a,4,Fair,128,6,71,10781
+Oppo,Reno 8,3,Fair,128,8,94,9555
+Vivo,V27,5,Fair,128,12,62,7051
+Vivo,Y Series,6,Fair,512,8,69,5673
+Apple,iPhone SE,0,Good,64,8,84,41577
+Vivo,V30,6,Like New,128,12,55,8819
+Apple,iPhone 12,4,Good,256,6,77,22646
+Xiaomi,Xiaomi 11,6,Fair,256,6,61,5731
+Vivo,V27,5,Good,256,12,72,7193
+Motorola,Moto G,6,Fair,256,3,73,2877
+Vivo,V27,1,Poor,256,4,86,10923
+OnePlus,OnePlus 9,1,Good,512,3,87,28533
+OnePlus,Nord,1,Fair,64,8,77,15835
+OnePlus,OnePlus 10,1,Good,512,8,90,34912
+OnePlus,OnePlus 10,1,Good,256,8,83,32160
+Motorola,Moto G,3,Good,128,8,61,5822
+Google,Pixel 7a,1,Good,1024,8,91,43408
+Motorola,Edge 40,1,Good,512,6,93,16906
+Google,Pixel 7,3,Good,512,12,88,25225
+OnePlus,OnePlus 12,5,Like New,512,24,86,15220
+Samsung,Galaxy S23,0,Good,128,8,94,49940
+Xiaomi,Xiaomi 12,3,Good,128,8,81,15859
+Vivo,Y Series,4,Good,128,12,82,8578
+Oppo,Reno 11,4,Fair,512,6,66,2913
+OnePlus,OnePlus 9,0,Good,512,6,75,42301
+Google,Pixel 8,5,Like New,1024,16,65,14499
+Motorola,Edge 50,0,Poor,512,6,98,18205
+Xiaomi,Redmi Note Pro,1,Fair,256,4,79,1500
+Apple,iPhone 12,2,Fair,128,8,84,35564
+Xiaomi,Redmi Note,5,Fair,128,8,74,6131
+Apple,iPhone 14,1,Like New,128,8,86,51097
+Apple,iPhone 14,5,Fair,256,6,59,9072
+Motorola,Edge 30,6,Good,128,12,68,10827
+Apple,iPhone SE,6,Good,512,6,62,13698
+OnePlus,OnePlus 9,2,Like New,256,16,94,24724
+Xiaomi,Xiaomi 11,0,Fair,128,6,97,19939
+Motorola,Edge 50,1,Good,512,3,81,14500
+Google,Pixel 6a,5,Good,256,8,83,13674
+Apple,iPhone 12,1,Like New,256,6,87,61235
+Oppo,Reno 10,4,Fair,128,8,59,9207
+Vivo,Y Series,2,Good,128,6,80,14103
+Vivo,V30,5,Good,64,8,82,6697
+Motorola,Edge 50,4,Good,256,6,66,4865
+Google,Pixel 7,4,Fair,256,8,72,16965
+Vivo,V27,5,Good,1024,4,58,7694
+Google,Pixel 8,6,Poor,512,6,56,6573
+Samsung,Galaxy S23,2,Good,64,6,74,21647
+Oppo,A Series,3,Like New,1024,12,67,12309
+OnePlus,Nord,4,Good,128,12,68,11192
+Vivo,V Series,5,Like New,64,6,83,1629
+OnePlus,Nord,3,Good,256,4,76,21335
+Oppo,Reno 8,2,Good,512,3,87,24004
+Xiaomi,Xiaomi 12,5,Fair,512,6,78,10692
+Google,Pixel 7a,6,Good,512,8,56,12302
+OnePlus,OnePlus 9,3,Good,128,8,70,21608
+Oppo,A Series,0,Good,128,16,94,16886
+Apple,iPhone 12,2,Good,64,12,75,34437
+Google,Pixel 7a,3,Like New,256,4,82,20177
+OnePlus,OnePlus 11,4,Good,128,4,86,12848
+Xiaomi,Redmi Note Pro,4,Like New,64,3,61,4183
+OnePlus,OnePlus 9,5,Good,128,4,66,4937
+Motorola,Edge 40,0,Poor,256,8,86,13565
+Google,Pixel 6a,3,Fair,256,4,72,15660
+Samsung,Galaxy S21,4,Fair,128,4,68,15574
+Samsung,Galaxy A,6,Good,128,4,61,8883
+Motorola,Edge 40,0,Fair,256,8,88,12583
+OnePlus,OnePlus 10,6,Good,256,3,67,8373
+OnePlus,OnePlus 10,0,Like New,128,16,96,47588
+Motorola,Edge 40,1,Fair,64,8,84,11947
+OnePlus,OnePlus 9,5,Like New,512,6,78,15083
+Google,Pixel 8a,5,Good,256,8,64,11709
+Samsung,Galaxy S24,6,Fair,128,8,56,10609
+OnePlus,Nord,4,Good,256,8,70,10293
+Motorola,Edge 50,4,Good,256,8,76,8093
+Xiaomi,Redmi Note,3,Good,128,6,83,6919
+Vivo,Y Series,3,Like New,128,6,88,10478
+Oppo,Reno 10,3,Poor,512,3,79,4820
+Apple,iPhone SE,2,Like New,256,12,86,26497
+Google,Pixel 7,5,Good,128,8,80,12485
+OnePlus,Nord,2,Good,256,8,74,24088
+Xiaomi,Xiaomi 11,4,Fair,128,16,71,7222
+OnePlus,OnePlus 12,4,Fair,256,8,95,16590
+Vivo,V30,3,Good,128,16,83,13151
+OnePlus,OnePlus 9,4,Poor,64,8,77,7222
+Xiaomi,Xiaomi 11,0,Like New,128,8,95,26504
+Apple,iPhone 13,2,Fair,1024,8,70,36115
+Vivo,V Series,3,Like New,256,6,71,14061
+Vivo,V27,2,Good,512,6,72,25085
+Oppo,Reno 11,6,Like New,64,8,69,7436
+OnePlus,OnePlus 10,6,Poor,256,4,62,6000
+Apple,iPhone SE,4,Fair,128,6,74,14504
+Motorola,Edge 50,2,Good,256,12,78,7689
+Google,Pixel 8a,0,Good,128,8,75,50898
+Vivo,V Series,5,Good,256,3,76,9915
+Motorola,Edge 40,6,Good,64,4,55,3563
+Xiaomi,Xiaomi 13,3,Good,64,16,71,9710
+Vivo,V27,5,Like New,256,16,58,4244
+Oppo,Reno 8,6,Good,128,8,58,3312
+Google,Pixel 8a,3,Good,64,6,78,16620
+Apple,iPhone 15,1,Fair,512,8,94,59997
+Apple,iPhone 13,0,Good,128,6,76,65468
+Google,Pixel 6a,5,Good,256,12,65,18460
+Xiaomi,Xiaomi 11,3,Good,512,8,63,9454
+Apple,iPhone 14,1,Good,256,12,79,50202
+Samsung,Galaxy S21,0,Good,64,8,89,42889
+Motorola,Edge 40,6,Fair,256,16,71,1500
+Oppo,Reno 10,2,Like New,256,8,63,13928
+Apple,iPhone SE,2,Good,128,8,85,24214
+Xiaomi,Xiaomi 11,4,Fair,256,8,65,10200
+Apple,iPhone 14,2,Good,1024,8,71,42756
+Motorola,Moto G,6,Good,128,16,66,6576
+Oppo,Reno 10,4,Fair,128,8,78,12025
+Oppo,Reno 10,2,Good,256,16,80,18490
+Xiaomi,Redmi Note,1,Like New,128,8,75,18707
+Motorola,Edge 40,6,Fair,256,6,64,1500
+Vivo,V Series,4,Fair,128,6,67,4725
+Xiaomi,Redmi Note Pro,6,Like New,64,3,70,3746
+Google,Pixel 8,2,Like New,256,12,89,36941
+Oppo,A Series,0,Fair,1024,4,96,25533
+Xiaomi,Redmi Note,6,Good,64,6,65,1500
+Oppo,Reno 8,1,Good,512,6,93,22845
+Xiaomi,Xiaomi 13,5,Good,128,12,61,5774
+Oppo,A Series,4,Fair,64,16,87,3155
+Apple,iPhone 14,1,Good,256,12,76,48476
+Apple,iPhone SE,5,Like New,128,6,55,9541
+Apple,iPhone 13,0,Like New,256,8,99,76168
+Xiaomi,Xiaomi 11,2,Good,128,6,75,18941
+Motorola,Edge 30,2,Fair,128,16,81,6702
+Samsung,Galaxy A,4,Good,128,4,65,18129
+Samsung,Galaxy S23,3,Good,512,16,96,32520
+Oppo,Reno 8,4,Fair,512,12,87,7281
+Oppo,Reno 11,3,Good,128,12,89,13108
+Motorola,Edge 40,5,Good,128,12,70,7281
+Google,Pixel 7a,1,Like New,1024,6,92,47811
+Google,Pixel 7,5,Fair,128,6,69,8793
+Apple,iPhone 14,0,Fair,512,8,97,61104
+Samsung,Galaxy S24,0,Fair,256,6,85,54816
+Vivo,V30,5,Good,512,12,82,8137
+OnePlus,OnePlus 12,1,Good,128,8,81,32560
+Motorola,Moto G,5,Like New,128,16,66,4723
+Motorola,Edge 40,0,Poor,128,16,84,15674
+OnePlus,OnePlus 9,1,Like New,64,4,86,32889
+Samsung,Galaxy S24,6,Good,128,6,62,7963
+Motorola,Edge 50,1,Fair,1024,8,88,20585
+Apple,iPhone 15,6,Like New,128,4,61,8706
+Google,Pixel 6a,2,Good,64,12,87,28281
+Vivo,V Series,5,Like New,128,12,81,7340
+Motorola,Edge 40,6,Good,128,12,66,2910
+Oppo,Reno 10,0,Poor,256,8,100,18047
+Apple,iPhone 12,2,Good,64,12,89,39929
+Samsung,Galaxy A,4,Poor,256,8,90,8230
+OnePlus,Nord,6,Like New,512,24,65,13298
+OnePlus,OnePlus 11,1,Good,128,12,71,29591
+Samsung,Galaxy S22,1,Fair,256,12,79,37212
+Vivo,V Series,2,Fair,128,4,76,9220
+Samsung,Galaxy S24,1,Good,128,12,77,42283
+Motorola,Moto G,1,Fair,512,6,67,10313
+Xiaomi,Xiaomi 12,0,Fair,512,8,96,32687
+Xiaomi,Redmi Note Pro,5,Fair,128,8,55,5210
+Samsung,Galaxy S24,5,Good,128,6,76,11690
+OnePlus,OnePlus 12,1,Like New,128,4,100,37854
+Xiaomi,Xiaomi 11,3,Like New,256,6,70,8958
+OnePlus,OnePlus 9,4,Good,256,12,76,11061
+Motorola,Moto G,4,Good,64,8,70,4951
+Apple,iPhone SE,6,Good,512,16,72,6317
+Apple,iPhone 15,4,Good,256,12,63,22695
+Motorola,Moto G,4,Good,64,8,72,9856
+Xiaomi,Xiaomi 11,0,Good,512,12,97,36382
+Apple,iPhone 13,0,Good,256,8,88,77369
+Vivo,V27,4,Good,128,6,60,9566
+Apple,iPhone 15,6,Like New,256,16,75,19294
+Vivo,V27,2,Fair,512,16,70,14149
+Motorola,Edge 50,4,Good,1024,4,73,8905
+Vivo,V27,1,Like New,128,12,89,25045
+Vivo,V Series,3,Good,256,4,78,16656
+OnePlus,Nord,5,Good,512,16,89,14391
+Oppo,A Series,4,Good,1024,8,79,5345
+Samsung,Galaxy S22,0,Good,64,6,86,45877
+Google,Pixel 6a,6,Good,256,12,70,6308
+Samsung,Galaxy S21,6,Fair,512,8,67,7911
+Google,Pixel 7a,3,Like New,64,4,77,23190
+Oppo,Reno 8,2,Good,128,12,82,11563
+Google,Pixel 8a,3,Like New,256,12,73,33942
+Apple,iPhone 15,5,Good,256,8,71,21765
+OnePlus,OnePlus 11,3,Good,256,12,73,15830
+Oppo,A Series,0,Fair,64,4,73,13627
+Xiaomi,Xiaomi 11,0,Like New,256,6,97,27814
+Xiaomi,Xiaomi 12,5,Good,128,12,64,5310
+Google,Pixel 7a,5,Good,512,6,70,12738
+OnePlus,OnePlus 10,5,Good,128,8,63,7593
+Xiaomi,Xiaomi 11,0,Fair,64,16,82,15701
+Motorola,Edge 30,1,Like New,1024,12,76,21743
+Vivo,V27,2,Good,256,8,88,12039
+Xiaomi,Redmi Note,1,Good,128,8,94,9562
+Vivo,V27,2,Fair,128,16,81,8120
+Oppo,A Series,3,Good,256,16,72,15220
+Apple,iPhone 14,1,Poor,1024,4,71,34758
+Google,Pixel 8a,0,Poor,128,8,94,32422
+Google,Pixel 7a,2,Fair,512,6,75,23669
+Apple,iPhone 12,5,Good,128,4,60,18662
+Samsung,Galaxy S24,4,Fair,256,6,73,21084
+Oppo,Reno 10,2,Like New,128,8,78,17933
+OnePlus,OnePlus 10,2,Fair,64,12,68,20949
+Samsung,Galaxy A,4,Good,512,16,62,19370
+OnePlus,Nord,1,Like New,128,8,87,32273
+OnePlus,OnePlus 9,5,Good,512,8,64,12985
+Samsung,Galaxy S21,6,Fair,64,4,69,3321
+Apple,iPhone 14,0,Fair,128,6,89,51231
+Oppo,Reno 10,6,Good,512,4,74,1500
+Oppo,Reno 11,0,Good,256,16,81,29909
+Google,Pixel 7a,3,Fair,128,4,78,13795
+Xiaomi,Xiaomi 13,4,Fair,256,12,78,6359
+Vivo,V27,2,Fair,128,6,75,10388
+Oppo,Reno 8,1,Good,512,8,93,26881
+Apple,iPhone 14,0,Good,64,16,75,53663
+Vivo,V Series,5,Fair,256,16,62,12294
+Apple,iPhone 12,0,Like New,64,6,74,70680
+Apple,iPhone 13,3,Good,256,16,71,27320
+Google,Pixel 8,2,Like New,512,6,79,39380
+Motorola,Edge 30,6,Good,512,12,72,8310
+Apple,iPhone 14,6,Fair,128,3,64,10176
+OnePlus,OnePlus 12,5,Good,128,8,64,6826
+OnePlus,OnePlus 10,5,Good,128,12,57,16606
+Google,Pixel 7,3,Like New,512,12,67,26208
+Vivo,V Series,2,Fair,64,12,83,6879
+OnePlus,OnePlus 12,1,Fair,256,6,91,30343
+Samsung,Galaxy A,6,Good,128,12,62,8483
+Apple,iPhone 15,2,Fair,1024,6,90,45399
+Samsung,Galaxy S22,3,Like New,256,6,69,20475
+Samsung,Galaxy S24,0,Fair,256,3,85,50823
+Xiaomi,Xiaomi 12,1,Fair,512,6,82,18684
+Google,Pixel 8,4,Like New,1024,4,85,21878
+Google,Pixel 8a,2,Poor,256,12,81,20376
+Oppo,A Series,4,Like New,256,4,58,5233
+Xiaomi,Xiaomi 11,1,Good,256,8,92,20285
+Samsung,Galaxy A,0,Like New,128,4,100,57065
+Google,Pixel 7,6,Fair,64,12,63,2816
+OnePlus,Nord,3,Like New,256,6,69,15746
+Oppo,Reno 10,2,Like New,256,6,87,13928
+OnePlus,OnePlus 11,2,Good,64,8,96,16676
+Samsung,Galaxy S23,4,Poor,128,16,80,10345
+Motorola,Moto G,3,Good,256,24,64,9585
+Google,Pixel 7,2,Good,128,8,86,22261
+Apple,iPhone 14,6,Good,256,16,68,15254
+Motorola,Edge 50,6,Fair,256,8,58,4407
+Samsung,Galaxy S24,1,Good,128,16,95,42823
+Oppo,A Series,4,Good,128,3,76,6620
+Oppo,Reno 8,6,Poor,128,3,76,6976
+OnePlus,Nord,3,Good,128,4,68,8187
+Xiaomi,Xiaomi 13,0,Good,256,12,91,35547
+Xiaomi,Redmi Note,0,Fair,256,4,81,13384
+Motorola,Edge 50,4,Good,512,6,75,3830
+Apple,iPhone SE,6,Good,64,8,77,8134
+OnePlus,Nord,0,Good,256,16,77,43684
+Samsung,Galaxy S24,3,Fair,128,8,66,19228
+Motorola,Edge 30,3,Poor,512,12,84,7675
+Apple,iPhone 13,1,Good,64,6,84,49481
+Xiaomi,Xiaomi 12,4,Good,256,16,82,11849
+Motorola,Edge 30,6,Good,256,4,59,14478
+Vivo,V27,1,Like New,128,6,85,25447
+OnePlus,OnePlus 10,0,Like New,1024,8,94,52732
+Apple,iPhone 12,2,Like New,64,6,82,41547
+Motorola,Edge 30,2,Like New,128,8,66,11439
+Apple,iPhone SE,5,Good,256,12,92,13927
+Apple,iPhone 12,3,Like New,256,6,78,39216
+Vivo,V27,0,Like New,128,3,77,24708
+Oppo,A Series,2,Good,128,4,83,5929
+Motorola,Moto G,5,Good,128,3,72,8175
+Oppo,Reno 10,3,Like New,512,16,85,19276
+Apple,iPhone 13,3,Like New,256,8,84,27582
+Apple,iPhone SE,1,Good,128,4,82,33377
+OnePlus,OnePlus 11,2,Good,128,4,67,23028
+Apple,iPhone 14,0,Fair,512,12,92,67197
+Vivo,Y Series,0,Fair,512,12,75,15872
+Apple,iPhone 12,0,Fair,64,16,98,61730
+Xiaomi,Redmi Note Pro,4,Good,256,4,67,6135
+Oppo,Reno 10,1,Fair,128,8,89,18330
+Motorola,Moto G,4,Good,128,4,68,1500
+Samsung,Galaxy S24,6,Good,512,12,61,1500
+Google,Pixel 7,4,Good,512,8,66,13764
+Xiaomi,Redmi Note,4,Good,64,12,79,7313
+Oppo,Reno 11,0,Good,512,3,83,29860
+Google,Pixel 6a,3,Like New,256,12,83,25206
+OnePlus,Nord,6,Fair,256,6,60,9730
+Oppo,Reno 11,2,Like New,256,12,79,17420
+Vivo,V27,5,Fair,256,6,69,4112
+Google,Pixel 7a,4,Fair,512,12,74,6441
+Apple,iPhone 14,1,Good,128,4,77,39513
+Xiaomi,Xiaomi 12,0,Like New,256,8,94,31211
+Vivo,V27,0,Good,128,12,86,28537
+Vivo,Y Series,1,Good,512,8,89,16120
+Google,Pixel 7a,2,Poor,64,6,80,10832
+Samsung,Galaxy S21,4,Fair,128,6,77,10942
+Xiaomi,Xiaomi 13,4,Fair,256,6,70,4406
+Oppo,Reno 10,3,Good,128,8,70,14602
+Vivo,Y Series,5,Fair,128,4,72,3954
+Apple,iPhone 15,5,Fair,128,4,65,17512
+OnePlus,OnePlus 9,4,Like New,256,6,84,6572
+Google,Pixel 7,6,Good,128,6,66,9684
+Apple,iPhone 15,2,Like New,128,6,69,41804
+Vivo,V30,5,Good,256,12,64,7267
+Apple,iPhone 15,2,Fair,512,3,72,43269
+Motorola,Edge 40,1,Good,256,16,93,17338
+Vivo,V30,1,Good,128,12,90,25813
+Motorola,Moto G,0,Fair,512,8,88,11556
+Oppo,Reno 10,6,Like New,512,12,68,6691
+OnePlus,OnePlus 9,1,Like New,256,8,83,27282
+Oppo,Reno 8,5,Fair,256,8,76,5819
+Google,Pixel 7,5,Fair,64,6,73,9087
+Apple,iPhone 12,3,Fair,256,8,82,32876
+OnePlus,OnePlus 10,6,Good,256,4,64,4211
+OnePlus,OnePlus 12,6,Poor,128,8,60,2659
+Xiaomi,Xiaomi 12,6,Fair,64,4,71,1651
+OnePlus,OnePlus 9,3,Fair,128,8,89,12413
+Google,Pixel 7a,2,Good,256,8,89,24431
+Google,Pixel 7a,0,Good,64,4,100,31532
+OnePlus,OnePlus 9,5,Fair,256,6,70,4273
+Motorola,Edge 40,6,Fair,512,12,57,3628
+OnePlus,OnePlus 11,3,Good,128,6,70,14688
+Oppo,A Series,0,Good,64,4,99,19398
+OnePlus,OnePlus 10,5,Fair,128,6,55,9858
+Oppo,Reno 10,2,Good,128,16,92,14831
+OnePlus,OnePlus 10,3,Good,512,12,70,13345
+Apple,iPhone 12,4,Like New,256,8,88,30899
+Samsung,Galaxy S22,1,Like New,512,12,84,50142
+Oppo,Reno 11,0,Fair,1024,8,94,28496
+Oppo,A Series,0,Like New,128,12,100,26490
+Samsung,Galaxy S22,6,Like New,256,8,63,12380
+Xiaomi,Xiaomi 12,6,Fair,128,16,62,4971
+Xiaomi,Redmi Note Pro,2,Fair,128,8,75,8886
+Samsung,Galaxy S21,2,Like New,128,6,72,32703
+Google,Pixel 8a,2,Good,128,4,78,25556
+Motorola,Edge 30,2,Fair,256,4,76,7316
+Vivo,V27,3,Good,256,8,67,11143
+Oppo,A Series,2,Good,128,16,79,7296
+Apple,iPhone 15,4,Good,64,12,76,21932
+Samsung,Galaxy S22,2,Good,256,12,73,31779
+Google,Pixel 8,4,Fair,256,8,72,14620
+Samsung,Galaxy S23,6,Like New,256,16,76,10317
+Xiaomi,Redmi Note Pro,1,Good,64,12,73,17970
+Apple,iPhone 12,0,Like New,128,6,100,84925
+Apple,iPhone 14,3,Like New,256,8,71,31100
+Apple,iPhone 15,0,Like New,256,8,90,89167
+OnePlus,Nord,1,Fair,64,6,94,25506
+Oppo,Reno 11,5,Like New,128,6,82,5170
+Samsung,Galaxy S24,2,Good,128,6,84,30150
+Vivo,Y Series,3,Like New,256,6,71,10061
+OnePlus,Nord,5,Fair,128,6,63,8514
+Apple,iPhone 14,0,Good,256,16,83,72567
+OnePlus,OnePlus 12,3,Poor,512,6,92,16128
+Motorola,Edge 30,0,Fair,128,12,85,15155
+Apple,iPhone 14,3,Good,128,4,79,21160
+Apple,iPhone 15,1,Good,64,24,76,50005
+Oppo,Reno 8,6,Like New,64,12,56,6800
+Xiaomi,Redmi Note Pro,1,Poor,512,16,84,6612
+OnePlus,OnePlus 12,1,Poor,1024,8,82,17770
+Oppo,Reno 8,0,Good,64,8,86,24823
+Oppo,Reno 8,0,Good,512,8,76,29599
+OnePlus,OnePlus 10,1,Good,128,8,84,21680
+Xiaomi,Xiaomi 11,1,Good,256,12,97,22275
+Apple,iPhone 12,5,Fair,256,4,62,13968
+OnePlus,OnePlus 11,6,Poor,128,3,72,9620
+Xiaomi,Xiaomi 12,5,Good,256,16,55,8171
+Samsung,Galaxy S21,6,Fair,256,4,59,9879
+Vivo,V Series,6,Fair,128,12,55,3804
+Vivo,Y Series,3,Good,1024,6,86,8459
+OnePlus,OnePlus 9,2,Good,128,8,87,19529
+Google,Pixel 8a,4,Good,64,6,65,18121
+Samsung,Galaxy S22,2,Fair,512,8,83,30916
+Xiaomi,Xiaomi 12,4,Poor,128,12,82,1500
+Apple,iPhone 15,6,Like New,128,16,76,11160
+Google,Pixel 8,1,Good,128,6,81,33705
+Xiaomi,Xiaomi 12,5,Like New,64,6,55,10323
+Xiaomi,Xiaomi 12,6,Like New,128,12,58,1500
+Xiaomi,Xiaomi 11,3,Good,128,4,83,13299
+Samsung,Galaxy S23,2,Fair,256,4,97,27342
+Oppo,Reno 8,1,Good,128,8,84,20943
+Motorola,Edge 50,1,Fair,512,12,79,17116
+Oppo,A Series,2,Good,512,6,100,17930
+Google,Pixel 8a,5,Good,128,4,72,12480
+Vivo,V30,3,Fair,512,16,67,8014
+Google,Pixel 6a,1,Good,512,16,83,36432
+Oppo,Reno 10,3,Good,512,8,85,8440
+Samsung,Galaxy S24,5,Fair,256,12,68,17376
+Samsung,Galaxy S22,0,Good,128,16,94,57998
+Xiaomi,Redmi Note Pro,0,Good,128,8,75,21352
+Xiaomi,Xiaomi 13,6,Good,512,12,55,4944
+Motorola,Edge 40,5,Fair,256,8,63,1500
+OnePlus,Nord,4,Good,512,6,71,10216
+Oppo,A Series,6,Fair,256,12,68,1500
+OnePlus,OnePlus 11,4,Good,128,12,78,12066
+Xiaomi,Xiaomi 11,3,Good,128,6,96,15991
+Vivo,Y Series,1,Fair,1024,8,78,19726
+Xiaomi,Xiaomi 12,5,Good,64,12,66,4828
+Motorola,Moto G,5,Good,256,6,63,1500
+Vivo,Y Series,2,Like New,1024,12,89,11561
+Vivo,V Series,5,Good,64,4,78,9779
+Google,Pixel 6a,5,Good,128,8,65,11222
+Google,Pixel 7,0,Good,256,24,100,51001
+Samsung,Galaxy S24,1,Good,512,16,79,53389
+Xiaomi,Xiaomi 13,4,Like New,256,16,81,7531
+Vivo,V30,4,Good,64,12,84,5158
+Google,Pixel 7,4,Good,128,8,62,20839
+OnePlus,Nord,2,Good,128,12,85,27573
+Apple,iPhone 15,5,Good,128,6,55,14132
+Google,Pixel 7,3,Fair,128,8,83,9371
+Samsung,Galaxy S23,1,Good,512,8,75,45052
+Vivo,Y Series,0,Like New,64,8,93,18049
+Xiaomi,Xiaomi 12,6,Good,512,8,71,8779
+Samsung,Galaxy S22,4,Like New,512,8,82,24463
+Apple,iPhone 15,3,Good,256,6,84,30943
+Oppo,A Series,1,Fair,256,6,85,17589
+Vivo,V Series,0,Good,128,8,85,24751
+Oppo,Reno 11,1,Good,256,4,84,23813
+Apple,iPhone 12,0,Poor,128,16,79,42711
+Apple,iPhone 14,3,Like New,128,4,75,31108
+Samsung,Galaxy A,1,Fair,256,12,82,26472
+Oppo,Reno 10,0,Fair,64,6,82,22032
+Oppo,Reno 8,1,Good,128,12,70,17175
+Oppo,Reno 10,4,Like New,256,12,63,10534
+Apple,iPhone 15,3,Like New,128,16,55,37758
+Samsung,Galaxy S23,1,Fair,128,16,82,29220
+Vivo,V Series,5,Good,64,12,72,2487
+Vivo,Y Series,3,Fair,128,4,55,4691
+Motorola,Edge 30,1,Good,256,8,86,16226
+Apple,iPhone 15,4,Good,256,6,72,22122
+Apple,iPhone 12,6,Good,128,16,56,13987
+Apple,iPhone 14,3,Good,256,16,73,30846
+Motorola,Edge 30,1,Good,1024,6,93,22666
+Oppo,Reno 8,2,Poor,256,12,73,6950
+Motorola,Edge 40,4,Good,256,6,73,4115
+OnePlus,OnePlus 9,6,Fair,256,12,68,5786
+Oppo,Reno 8,6,Poor,512,8,59,2513
+Apple,iPhone 13,6,Like New,512,8,73,14347
+Oppo,Reno 11,5,Good,64,16,72,3675
+Vivo,V30,4,Like New,128,6,71,11648
+Motorola,Edge 40,4,Good,64,12,92,3307
+Vivo,V27,5,Poor,256,12,77,3773
+Xiaomi,Xiaomi 12,5,Fair,64,6,56,3963
+Google,Pixel 7,4,Fair,512,8,70,13548
+OnePlus,OnePlus 9,0,Good,64,4,100,37151
+Vivo,V Series,6,Good,256,8,57,1500
+Motorola,Edge 40,0,Good,128,16,89,13774
+Samsung,Galaxy S23,2,Fair,128,4,90,21093
+Vivo,Y Series,3,Good,128,4,82,3835
+Apple,iPhone 14,6,Like New,256,8,72,3295
+Xiaomi,Redmi Note Pro,0,Like New,128,6,94,25737
+Samsung,Galaxy S24,3,Good,128,6,77,26977
+Motorola,Edge 40,2,Good,256,8,74,15404
+Google,Pixel 8a,0,Like New,512,8,91,66270
+Google,Pixel 8,1,Fair,256,12,81,36855
+Motorola,Edge 40,2,Fair,256,8,77,9324
+Oppo,A Series,6,Good,128,8,77,6512
+Google,Pixel 7,2,Fair,512,8,77,24767
+Vivo,V30,6,Good,128,6,79,5605
+Google,Pixel 7,5,Fair,512,8,71,10550
+Samsung,Galaxy A,5,Good,512,12,68,19983
+Apple,iPhone 12,5,Good,128,16,55,18449
+Samsung,Galaxy S22,4,Good,64,4,90,11087
+Motorola,Edge 40,5,Good,256,8,69,6837
+Xiaomi,Xiaomi 13,1,Good,256,8,66,21600
+OnePlus,OnePlus 12,5,Fair,256,4,77,8821
+Google,Pixel 7a,0,Fair,1024,12,88,47301
+Oppo,Reno 10,5,Good,256,6,62,3233
+Xiaomi,Xiaomi 13,4,Good,128,16,80,8869
+Apple,iPhone SE,5,Fair,256,8,55,5249
+Apple,iPhone 13,4,Like New,64,4,67,17785
+Google,Pixel 7a,2,Like New,256,12,78,27435
+Google,Pixel 8,2,Good,512,4,87,37802
+Oppo,Reno 11,4,Good,64,12,91,13811
+Xiaomi,Xiaomi 12,3,Good,512,12,75,11456
+Oppo,Reno 10,2,Like New,512,8,84,20105
+Xiaomi,Xiaomi 12,3,Good,64,6,99,10829
+OnePlus,OnePlus 10,3,Fair,512,8,77,17096
+Motorola,Moto G,1,Fair,256,8,88,10870
+Xiaomi,Redmi Note Pro,4,Good,128,8,63,4312
+Motorola,Edge 40,2,Good,128,8,96,12908
+Samsung,Galaxy S23,1,Poor,128,8,78,20910
+Motorola,Moto G,2,Fair,256,12,83,13626
+OnePlus,OnePlus 12,0,Good,128,12,90,41836
+Oppo,Reno 11,4,Good,128,12,73,9790
+Oppo,Reno 10,5,Good,512,6,66,9466
+Xiaomi,Redmi Note Pro,6,Good,256,8,67,5175
+Vivo,V30,1,Fair,256,8,98,20689
+Xiaomi,Redmi Note Pro,3,Fair,512,12,95,12938
+Apple,iPhone 13,3,Fair,64,12,75,12835
+Xiaomi,Xiaomi 13,5,Poor,128,16,65,1500
+Oppo,Reno 10,4,Good,256,6,66,11588
+Apple,iPhone 12,5,Poor,128,12,90,8142
+Apple,iPhone SE,5,Fair,64,16,70,5099
+OnePlus,OnePlus 9,0,Like New,256,6,97,42519
+Oppo,Reno 10,2,Good,64,3,86,10601
+Xiaomi,Xiaomi 12,4,Like New,256,4,90,13671
+Vivo,Y Series,3,Good,256,8,75,11966
+Oppo,A Series,3,Good,256,8,68,9265
+Xiaomi,Xiaomi 12,1,Good,128,6,99,26612
+Motorola,Moto G,4,Like New,64,8,80,1500
+OnePlus,Nord,5,Good,512,12,73,11268
+Apple,iPhone 13,0,Like New,512,12,100,90683
+Google,Pixel 7a,4,Good,128,12,77,17858
+Xiaomi,Redmi Note Pro,6,Fair,64,16,78,7631
+Samsung,Galaxy S21,4,Poor,256,8,75,8311
+Samsung,Galaxy S21,6,Good,128,12,72,12720
+Apple,iPhone 12,2,Good,128,8,85,41147
+Motorola,Moto G,0,Fair,128,12,85,14841
+Vivo,Y Series,4,Like New,128,16,71,11312
+Oppo,Reno 8,1,Poor,128,12,81,9218
+Google,Pixel 6a,0,Fair,128,8,90,29482
+Xiaomi,Redmi Note Pro,1,Good,512,6,81,22492
+Vivo,V27,6,Like New,128,6,69,6817
+Xiaomi,Redmi Note,5,Like New,128,4,72,4226
+OnePlus,OnePlus 11,1,Good,128,4,86,26327
+OnePlus,OnePlus 11,4,Good,512,8,75,6926
+Motorola,Edge 40,2,Fair,64,4,76,9237
+Google,Pixel 8,1,Good,128,16,82,38032
+Oppo,Reno 11,6,Good,256,8,55,5451
+Oppo,A Series,5,Good,256,12,68,5385
+Apple,iPhone SE,2,Good,512,8,73,18426
+Motorola,Edge 30,2,Like New,128,6,81,14597
+OnePlus,OnePlus 11,5,Fair,128,6,63,7727
+Xiaomi,Xiaomi 13,3,Good,128,12,60,11614
+OnePlus,OnePlus 12,2,Fair,256,4,98,21789
+OnePlus,OnePlus 10,2,Good,128,12,79,21394
+OnePlus,OnePlus 10,3,Good,128,6,88,16550
+Apple,iPhone 13,3,Fair,64,8,72,20544
+Oppo,A Series,0,Fair,512,3,100,20520
+Samsung,Galaxy S22,3,Fair,64,8,67,16446
+Google,Pixel 7a,3,Good,128,4,78,24488
+Samsung,Galaxy S21,1,Fair,512,12,75,34663
+Samsung,Galaxy S23,2,Good,256,4,100,30570
+OnePlus,OnePlus 12,2,Good,256,6,78,32457
+Vivo,V Series,2,Fair,256,3,87,12395
+Vivo,V30,6,Like New,64,24,69,9071
+Google,Pixel 6a,3,Fair,512,8,76,18746
+Xiaomi,Xiaomi 13,3,Good,128,8,81,10074
+Vivo,V30,1,Like New,512,8,95,34440
+Samsung,Galaxy S21,6,Like New,128,16,71,12203
+Vivo,V27,0,Fair,256,4,89,17486
+Apple,iPhone 12,3,Fair,256,12,81,30127
+Samsung,Galaxy S23,1,Good,128,12,100,36846
+OnePlus,Nord,5,Like New,128,3,66,13499
+Apple,iPhone 12,2,Good,256,4,66,49167
+Oppo,Reno 8,2,Good,128,8,72,21600
+Oppo,A Series,0,Fair,1024,4,80,20953
+Google,Pixel 7,5,Good,128,6,62,8560
+Oppo,Reno 10,2,Good,256,8,74,17760
+Oppo,Reno 10,1,Like New,256,4,84,20131
+Oppo,Reno 10,5,Good,128,12,71,14929
+Oppo,A Series,0,Fair,256,8,90,21910
+Xiaomi,Redmi Note Pro,3,Good,256,8,71,9450
+Apple,iPhone 15,1,Good,256,8,92,66328
+Vivo,V Series,0,Poor,256,8,92,15160
+Xiaomi,Redmi Note,0,Good,256,8,100,16714
+Vivo,V Series,1,Fair,128,16,91,9277
+Vivo,Y Series,6,Good,64,8,62,3342
+Samsung,Galaxy S21,3,Like New,128,8,87,23123
+Google,Pixel 8a,6,Fair,256,12,67,10459
+Samsung,Galaxy S21,1,Good,512,8,91,46403
+Apple,iPhone 14,5,Good,64,6,75,15362
+Vivo,V Series,0,Good,256,4,87,30568
+Vivo,V Series,0,Good,128,8,89,21147
+Vivo,V27,0,Fair,256,12,87,27086
+Vivo,V27,6,Good,256,12,58,3804
+Motorola,Edge 30,4,Like New,256,12,56,9731
+Xiaomi,Redmi Note Pro,5,Good,256,3,63,8081
+Vivo,V30,6,Good,256,12,67,9925
+Xiaomi,Redmi Note,2,Fair,64,8,89,8212
+Motorola,Edge 50,5,Good,256,24,75,7789
+Samsung,Galaxy S22,3,Fair,128,12,74,20981
+Motorola,Edge 50,3,Good,512,8,71,7429
+Oppo,Reno 8,4,Good,256,12,71,6395
+Motorola,Edge 40,3,Good,64,8,69,7041
+Google,Pixel 8,0,Good,128,6,71,43870

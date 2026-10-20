@@ -1,0 +1,8 @@
+{
+  "dataset_rows": 5000,
+  "test_rows": 1000,
+  "MAE_INR": 3329.94,
+  "RMSE_INR": 4260.53,
+  "R2": 0.9153,
+  "note": "Metrics are on synthetic data generated from illustrative pricing rules; they do not measure real-world resale accuracy."
+}
